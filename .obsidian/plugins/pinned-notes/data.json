@@ -1,0 +1,22 @@
+{
+  "pinnedNotes": [
+    {
+      "id": "8655f1a5-9f2b-49f1-87d7-418bf8420d56",
+      "icon": "indent-increase",
+      "path": "INDEX",
+      "title": "Index"
+    },
+    {
+      "id": "473e1f10-0947-49b0-9eb6-31bb80cd2622",
+      "icon": "notebook-pen",
+      "path": "Compendium/DM Toolbox/Working Note",
+      "title": "Working Note"
+    },
+    {
+      "id": "72b46e18-e818-4cf7-a13a-0167f9da8e48",
+      "icon": "building-2",
+      "path": "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath",
+      "title": "Camarath"
+    }
+  ]
+}
