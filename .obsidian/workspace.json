@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "INDEX"
             }
+          },
+          {
+            "id": "640e2969ccfd6aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/NPCs/Moderate NPCs/Anec.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Anec"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,14 +171,23 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "a8169a48210c50db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 562.5,
-    "collapsed": true
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,20 +202,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pinned-notes:Index": false,
       "pinned-notes:Working Note": false,
-      "pinned-notes:Camarath": false
+      "pinned-notes:Camarath": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6b82cdec137d626",
+  "active": "640e2969ccfd6aa1",
   "lastOpenFiles": [
+    "INDEX.md",
+    "Untitled.md",
     "Compendium/Lore/Objects/Amulet of Nystul.md",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
     "Compendium/Lore/Objects/Entropic Dagger.md",
-    "INDEX.md",
     "Compendium/Party/Player Characters/Mayastan Daar.md",
     "Compendium/NPCs/Moderate NPCs/Anec.md",
     "Assets/Images/Objects/imgEntropicDagger.jpg",
-    "Untitled.md",
     "Compendium/NPCs/Moderate NPCs/Boda.md",
     "Compendium/Lore/Objects/Bottle of Age.md",
     "Compendium/Lore/Objects/Cloak of Billowing.md",

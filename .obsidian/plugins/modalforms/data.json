@@ -45,7 +45,7 @@
           "isRequired": false,
           "input": {
             "type": "dataview",
-            "query": "['Friendly','Hostile','Neutral','Unknown']"
+            "query": "['Friendly','Hostile','Neutral','Unknown','Dead']"
           }
         },
         {

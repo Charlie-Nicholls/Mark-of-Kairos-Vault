@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Anec]]"
 ---
 ###### Anec
-<span class="sub2">:FasMapLocationDot: [[Camarath]] &nbsp; | &nbsp; FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath]] &nbsp; | &nbsp; :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]
