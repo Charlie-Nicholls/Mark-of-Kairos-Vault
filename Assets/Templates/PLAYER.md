@@ -75,7 +75,7 @@ cover: "/Assets/Images/Portrait.jpg"
 ---
 
 ###### <% name %>
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: <% quote ? quote : 'Quote or tagline here' %> :FasQuoteRight:
+<span class="sub2"> :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: <% quote ? quote : 'Quote or tagline here' %> :FasQuoteRight: </span>
 ___
 > [!infobox|no-t right]
 > ![[portrait.jpg|350]]

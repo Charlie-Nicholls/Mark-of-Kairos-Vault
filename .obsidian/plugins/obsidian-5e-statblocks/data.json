@@ -663,6 +663,93 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Undead Assassin",
+      {
+        "image": null,
+        "name": "Undead Assassin",
+        "source": "CritterDB",
+        "type": "Undead",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 153,
+        "hit_dice": "18d10 + 54",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          20,
+          16,
+          10,
+          12,
+          14
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "necrotic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [
+          {
+            "dexterity": 8
+          },
+          {
+            "constitution": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 11
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Deception": 5
+          },
+          {
+            "Persuasion": 5
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 7,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the undead assassin to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the undead assassin drops to 1 hit point instead."
+          },
+          {
+            "name": "Evasive Shadow",
+            "desc": "The undead assassin can take the Hide, Disengage or Dask action as a bonus action on each of its turns."
+          },
+          {
+            "name": "Assassinate",
+            "desc": "During its first turn, the undead assassin has advantage on attack rolls against any creature that hasn't taken a turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The undead assassin makes two Entropic Dagger or Light Crossbow attacks."
+          },
+          {
+            "name": "Entropic Dagger",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d4 + 5) piercing damage and the target must make a DC 15 Constitution saving throw, taking 22 (7d6) necrotic damage on a failed save or half as much on a successful one."
+          },
+          {
+            "name": "Crossbow, light",
+            "desc": "Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 5) piercing damage and the target must make a DC 15 Constitution saving throw, taking 12 (4d6) poison damage on a failed save or half as much on a successful one."
+          },
+          {
+            "name": "Shadow Step",
+            "desc": "The undead assassin moves through shadows, teleports up to the 30 feet to an unoccupied space that it can see, and makes one entropic dagger attack as part of this action. If the target is surprised it must succeed on a DC 16 Dexterity saving throw or take an additional 12 (4d6) necrotic damage and be knocked prone."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {

@@ -8,7 +8,7 @@ alias: "Campaign Story"
 
  ### :FasBook: Arc One - The Mark of Kairos
  
- ```dataviewjs
+```dataviewjs
 let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
 let chapters = [];
 for (let i=0; i < pages.length; i++) {
@@ -23,7 +23,7 @@ dv.list(chapters)
 
 ### :FasBook: Arc Two - The Mark of Vacuuous
 
- ```dataviewjs
+```dataviewjs
 let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
 let chapters = [];
 for (let i=0; i < pages.length; i++) {
@@ -33,3 +33,5 @@ for (let i=0; i < pages.length; i++) {
 	}
 dv.list(chapters)
 ```
+
+![[#^IntroText|clean collapse nlk]]

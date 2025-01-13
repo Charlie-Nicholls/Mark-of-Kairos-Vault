@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗡",
+      "FasGem",
+      "FasBottleDroplet",
+      "FasSkull",
+      "LiMap",
+      "RiFileUserFill",
+      "FasBurst",
       "LiImage",
       "LiNotepadText",
-      "LiNotebookText",
-      "FasBookAtlas",
-      "LiNotebookPen",
-      "RiStickyNoteFill",
-      "LiStars",
-      "🗨",
-      "FasScroll",
-      "LiSailboat"
+      "LiNotebookText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -92,7 +92,6 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Shrine to Afel": "RiCandleFill",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Temple of Afel": "FasChurch",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Storm Haven/Temple of Taranis": "FasChurch",
-  "Compendium/Party/Player Characters/Mayastan Daar.md": "FasBurst",
   "Compendium/NPCs/Major NPCs/Phoenix Aevum.md": "FasFireFlameCurved",
   "Compendium/NPCs/Major NPCs/Mata Starheart.md": "LiStars",
   "Compendium/NPCs/Major NPCs/Il'Zuk.md": "LiSkull",
@@ -161,5 +160,12 @@
   "Session Notes/Arc 1 Session 1 (2024-08-20).md": "LiNotepadText",
   "Assets": "LiImage",
   "Assets/Templates": "FasNoteSticky",
-  "Assets/Images": "FasImagePortrait"
+  "Assets/Images": "FasImagePortrait",
+  "Compendium/Party/Player Characters/Mayastan Daar.md": "FasBurst",
+  "Compendium/Party/Character Sheets.md": "RiFileUserFill",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla": "LiMap",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach": "FasSkull",
+  "Compendium/Lore/Objects/Bottle of Age.md": "FasBottleDroplet",
+  "Compendium/Lore/Objects/Amulet of Nystul.md": "FasGem",
+  "Compendium/Lore/Objects/Entropic Dagger.md": "🗡"
 }

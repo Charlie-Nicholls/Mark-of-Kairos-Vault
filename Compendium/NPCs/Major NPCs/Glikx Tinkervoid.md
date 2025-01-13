@@ -46,7 +46,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+Chosen of Vacuuous. Fought Il'Zuk long ago, crafting the extradimensional aspect to his prison in the Eternal Pillar. Summoned vaccuuous by building a rocket and travelling to space. He now lives in the Lost City of Kaldera, his home town which was supposed to be destroyed by a volcanic eruption. He used his spatial magic to lift the city from the earth inside it's own spatial bubble. It now flies through the sky powered by Glikx's rocket
 
 ### Motivations
 - List of Motivations

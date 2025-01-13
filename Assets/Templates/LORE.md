@@ -62,7 +62,7 @@ ___
 >^IntroText
 
 ### Description
-Description of the  <% type ? type.toLowerCase() : 'lore' %>, <% name %>.
+Description of the <% type ? type.toLowerCase() : 'lore' %>, <% name %>.
 
 ---
 

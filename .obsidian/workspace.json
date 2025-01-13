@@ -23,56 +23,8 @@
               "icon": "lucide-file",
               "title": "INDEX"
             }
-          },
-          {
-            "id": "97eddf3d5f94ed38",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/DM Toolbox/Working Note.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Working Note"
-            }
-          },
-          {
-            "id": "000d00245a96f085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/Party/Player Characters/Mayastan Daar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mayastan Daar"
-            }
-          },
-          {
-            "id": "c5a68006ded0000d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INDEX.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "INDEX"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"#### \"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 357.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -215,6 +167,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": true,
+      "github-sync:Sync with Remote": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": true,
       "modalforms:Edit forms": false,
@@ -227,36 +180,45 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "000d00245a96f085",
+  "active": "f6b82cdec137d626",
   "lastOpenFiles": [
-    "Compendium/DM Toolbox/Working Note.md",
+    "Compendium/Lore/Objects/Amulet of Nystul.md",
+    "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
+    "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
+    "Compendium/Lore/Objects/Entropic Dagger.md",
     "INDEX.md",
-    "Compendium/Lore/Deities/Primevals/Vacuuous.md",
-    "Compendium/Lore/Deities/Primevals/Scathach.md",
-    "Compendium/Lore/Deities/Primevals/Kairos.md",
-    "Compendium/Lore/Deities/Primevals/Diracmi.md",
-    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
     "Compendium/Party/Player Characters/Mayastan Daar.md",
-    "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "Compendium/NPCs/Major NPCs/Comrath.md",
     "Compendium/NPCs/Moderate NPCs/Anec.md",
-    "Compendium/NPCs/Moderate NPCs/Cutha.md",
+    "Assets/Images/Objects/imgEntropicDagger.jpg",
+    "Untitled.md",
     "Compendium/NPCs/Moderate NPCs/Boda.md",
-    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
-    "Compendium/NPCs/Moderate NPCs/Maera.md",
+    "Compendium/Lore/Objects/Bottle of Age.md",
+    "Compendium/Lore/Objects/Cloak of Billowing.md",
+    "Assets/Templates/LORE.md",
+    "Assets/Templates/OBJECT.md",
     "Compendium/NPCs/Moderate NPCs/Laune.md",
-    "Compendium/Lore/Deities/Gods/Aran.md",
-    "Compendium/Lore/Deities/Primevals/Primevals.md",
-    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
+    "Assets/Templates/NPC.md",
+    "Assets/Templates/PLAYER.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Hestrela.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Desolation of Suuhulla.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Lothlonde.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach/Shrine to Scathach.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
+    "Assets/Images/Location/imgDesolationOfSuuhulla.png",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
+    "Compendium/Atlas/Desolation of Suuhula/Desolation of Suuhula.md",
+    "Compendium/Atlas/Desolation of Suuhula",
+    "Session Notes/Session Notes.md",
+    "Compendium/NPCs/Major NPCs/Comrath.md",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/Lore/Deities/Gods/Achiel.md",
+    "Compendium/Atlas/Material Plane/Material Plane.md",
+    "Assets/Templates/Simple",
+    "Compendium/Party/Character Sheets",
+    "Compendium/Party/Player Characters/Mayastan Daar",
     "Assets/Images/Location/imgLaune.jpg",
     "Assets/Images/Location/imgLaune.jpg.crdownload",
-    "Compendium/Atlas/Material Plane/The Dark Storm/The Dark Storm.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Storm Haven/Storm Haven.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Noble's District.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Monument District/Monument District.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District.md",
     "Assets/Images/Location/imgHawkersCaverns.jpg",
     "Assets/Images/Location/imgKaldera.jpg",
     "Assets/Images/Location/imgKaldera.jpg.crdownload",
@@ -264,16 +226,6 @@
     "Assets/Images/Location/imgOstirachEmpire.jpg.crdownload",
     "Assets/Images/Location/imgAcademyoftheDevout.png",
     "Assets/Images/header.png",
-    "Assets/Images/session.png",
-    "Assets/Images/campaign.jpg",
-    "Assets/Images/quest.png",
-    "Assets/Images/portrait.jpg",
-    "Assets/Images/Location/imgHestrela.jpg.crdownload",
-    "Assets/Images/NPC/anec.jpg.crdownload",
-    "Assets/Images/campaignBanner.jpg.crswap",
-    "Assets/Images/Location/theDarkStorm.jpg.crdownload",
-    "Assets/Images/Location/theDarkStorm.jpg.~tmp",
-    "CamarathMap.json",
-    "//CamarathMap.json"
+    "Assets/Images/session.png"
   ]
 }

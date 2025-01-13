@@ -14,8 +14,7 @@ aliases: ["Daar", "Tippy"]
 ---
 
 ###### Mayastan "Tippy" Daar
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: You waaaaaant? :FasQuoteRight: | 
-
+<span class="sub2"> :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: You waaaaaant? :FasQuoteRight: </span>
 ___
 
 > [!infobox|no-t right]
@@ -67,7 +66,7 @@ action: {type: open, link: https://www.dndbeyond.com/characters/130310295, newTa
 > [!recite|clean no-t]
 >	Introduction for players
 >^IntroText
-	
+
 ### Description
 General Description
 

@@ -82,4 +82,4 @@ ___
 >^IntroText
 
 ### Description
-Description of the  <% type ? type.toLowerCase() : 'object' %>, <% name %>.
+Description of the <% type ? type.toLowerCase() : 'object' %>, <% name %>.
