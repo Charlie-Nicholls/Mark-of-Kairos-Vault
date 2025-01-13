@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Arc 1 Session 9 (2024-11-13).md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arc 1 Session 9 (2024-11-13)"
+              "title": "Untitled"
             }
           },
           {
@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Party/Player Characters/Mayastan Daar.md",
+                "file": "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mayastan Daar"
+              "title": "Glikx Tinkervoid"
             }
           },
           {
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,15 +236,27 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "a8169a48210c50db",
+  "active": "0bbab3e245ffe261",
   "lastOpenFiles": [
-    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
+    "Compendium/NPCs/Moderate NPCs/Maera.md",
+    "Compendium/NPCs/Moderate NPCs/Laune.md",
+    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
+    "Compendium/NPCs/Moderate NPCs/Cutha.md",
+    "Compendium/NPCs/Moderate NPCs/Boda.md",
+    "Compendium/NPCs/Moderate NPCs/Anec.md",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
+    "Compendium/NPCs/Major NPCs/Mata Starheart.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "Compendium/NPCs/Major NPCs/Comrath.md",
+    "Compendium/Party/Player Characters/Mayastan Daar.md",
+    "Untitled.md",
     "Session Notes/Arc 1 Session 9 (2024-11-13).md",
+    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
     "Session Notes/Arc 1 Session 1 (2024-08-20).md",
     "Assets/Templates/NOTE.md",
     "Session Notes/Arc 1 Session 10 (2024-12-31).md",
-    "Compendium/Party/Player Characters/Mayastan Daar.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
     "Session Notes/Session Notes.md",
     "Compendium/Lore/Objects/Goldfish Sphere.md",
     "Compendium/Lore/Other/Il'Zuk's Speech.md",
@@ -252,22 +264,10 @@
     "Compendium/Lore/Objects/Immovable Rod.md",
     "Compendium/Lore/Objects/Entropic Dagger.md",
     "Compendium/Lore/Objects/Bottle of Age.md",
-    "Compendium/Lore/Objects/Amulet of Nystul.md",
-    "Compendium/Lore/Objects/Cloak of Billowing.md",
     "Assets/Images/Objects/imgGoldfishSphere.png",
-    "Compendium/NPCs/Moderate NPCs/Anec.md",
-    "INDEX.md",
-    "Untitled.md",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
     "Assets/Images/Objects/imgEntropicDagger.jpg",
-    "Compendium/NPCs/Moderate NPCs/Boda.md",
-    "Assets/Templates/LORE.md",
-    "Assets/Templates/OBJECT.md",
-    "Compendium/NPCs/Moderate NPCs/Laune.md",
-    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
-    "Assets/Templates/NPC.md",
-    "Assets/Templates/PLAYER.md",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
     "Assets/Images/Location/imgDesolationOfSuuhulla.png",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
