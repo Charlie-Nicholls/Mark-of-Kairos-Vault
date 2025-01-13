@@ -33,5 +33,3 @@ for (let i=0; i < pages.length; i++) {
 	}
 dv.list(chapters)
 ```
-
-![[#^IntroText|clean collapse nlk]]

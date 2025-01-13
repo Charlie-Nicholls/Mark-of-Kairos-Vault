@@ -52,7 +52,7 @@ displayLink: "[[<% name %>|<% arc %>.<% number %>: <% title %>]]"
 ---
 
 ![[session.png|banner]]
-###### Arc `=this.arc` Session <% number %>: `=this.alias`
+###### Arc `=this.arc` Session `=this.number`: `=this.alias`
 <span class="sub2">:FasCalendar: `=this.date` </span>
 ___
 

@@ -29,4 +29,4 @@ ___
 >^IntroText
 
 ### Description
->While wearing this cloak, you can say "billow" to make it billow dramatically.
+While wearing this cloak, you can say "billow" to make it billow dramatically.
