@@ -42,12 +42,12 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Phoenix Aevum]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Phoenix Aevum]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
@@ -73,9 +73,10 @@ Description
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]]
 
-### Allies  - [[Characters]] or [[Organisations]]
+### Allies
+- [[Characters]] or [[Organisations]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]

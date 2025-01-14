@@ -50,7 +50,7 @@ Description
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- [[Mark of the Primevals|Mark of Scathach]] (Stolen)
 
 ### Allies
 - [[Characters]] or [[Organisations]]

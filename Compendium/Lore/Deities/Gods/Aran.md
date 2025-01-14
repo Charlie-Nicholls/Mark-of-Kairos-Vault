@@ -41,3 +41,6 @@ ___
 
 ### Description
 Description of Aran, the true neutral male deity.
+
+### Magic Items / Abilities
+- [[Mark of the Primevals#The Mark of Scathach|Mark of Scathach]]

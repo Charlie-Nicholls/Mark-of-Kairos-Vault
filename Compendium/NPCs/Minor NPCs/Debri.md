@@ -37,7 +37,11 @@ ___
 >^IntroText
 
 ### Description
-Description
+
+> [!recite|clean no-t]
+>	"I do apologise sir, but you were quite insitent on your 9am alarm call - said you had someone to meet. I did try a more gentle approach, knocking and shaking you awake, but nothing seemed to work. I'm relieved quite frankly, I was beginning to think you had died."
+>^WakeUp
+
 
 ### Motivations
 - List of Motivations
@@ -55,5 +59,8 @@ Description
 - None
 
 ### Statblock
->```statblock
-name: Debri
+> ```statblock
+> name: Debri
+> creature: Commoner
+> languages: "common"
+> actions: 

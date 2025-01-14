@@ -20,7 +20,7 @@ Description of True Vacuum.
 >>[!hint]- PEOPLE
 >>```dataview
 >>LIST WITHOUT ID displayLink
->FROM "Compendium/NPC's" AND [[True Vacuum]] OR "Compendium/Party/Player Characters" AND  [[True Vacuum]]
+>FROM "Compendium/NPCs" AND [[True Vacuum]] OR "Compendium/Party/Player Characters" AND  [[True Vacuum]]
 >
 >>[!note]- HISTORY
 >>```dataview

@@ -42,13 +42,13 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[Mayastan Daar]]  OR [[The Party]])
+>>FROM "Compendium/Party/Quests" AND ([[#]]  OR [[The Party]])
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Mayastan Daar]]
+>>FROM "Session Notes" AND [[#]]
 >>SORT file.ctime DESC
 >
 >^InfoBox
@@ -74,6 +74,7 @@ General Description
 - List of Motivations
 
 ### Magic Items / Abilities
+- [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]] (Stolen)
 - [[Ring of Glikx]]
 
 ### Allies

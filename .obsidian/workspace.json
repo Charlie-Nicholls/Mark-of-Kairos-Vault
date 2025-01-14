@@ -30,47 +30,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "INDEX.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "INDEX"
             }
           },
           {
-            "id": "0bbab3e245ffe261",
+            "id": "e84956a18a496dd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+                "file": "Compendium/NPCs/Major NPCs/Comrath.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Glikx Tinkervoid"
-            }
-          },
-          {
-            "id": "8c9628a7dc5a4a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Comrath"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,15 +220,25 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "8c9628a7dc5a4a19",
+  "active": "e84956a18a496dd6",
   "lastOpenFiles": [
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square/The Eternal Pillar/The Eternal Pillar.md",
     "Compendium/Lore/Other/Loss of Laika Cutscene.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Lothlonde.md",
     "Compendium/NPCs/Major NPCs/Comrath.md",
-    "Compendium/Lore/Objects/Great Sword Supernova.md",
+    "Assets/Templates/NPC.md",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/NPCs/Moderate NPCs/Anec.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square/The Eternal Pillar/The Eternal Pillar.md",
+    "Compendium/Lore/Other/Mark of the Primevals.md",
+    "Compendium/Party/Player Characters/Mayastan Daar.md",
+    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
+    "Compendium/Lore/Deities/Gods/Aran.md",
+    "Compendium/Lore/Deities/Gods/Afel.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "INDEX.md",
     "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Lothlonde.md",
+    "Compendium/Lore/Objects/Great Sword Supernova.md",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Kaldera/Kaldera.md",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi/Shrine to Diracmi.md",
     "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
@@ -252,17 +247,7 @@
     "Compendium/NPCs/Moderate NPCs/Ithlen.md",
     "Compendium/NPCs/Moderate NPCs/Cutha.md",
     "Compendium/NPCs/Moderate NPCs/Boda.md",
-    "Compendium/NPCs/Moderate NPCs/Anec.md",
-    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
     "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
-    "Compendium/Party/Player Characters/Mayastan Daar.md",
-    "Session Notes/Arc 1 Session 9 (2024-11-13).md",
-    "Session Notes/Arc 1 Session 1 (2024-08-20).md",
-    "Assets/Templates/NOTE.md",
-    "Session Notes/Arc 1 Session 10 (2024-12-31).md",
-    "Session Notes/Session Notes.md",
-    "Compendium/Lore/Objects/Goldfish Sphere.md",
     "Assets/Images/Objects/imgGoldfishSphere.png",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",

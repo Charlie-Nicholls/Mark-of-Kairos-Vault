@@ -30,12 +30,12 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Glikx Tinkervoid]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Glikx Tinkervoid]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
@@ -46,7 +46,7 @@ ___
 >^IntroText
 
 ### Description
-Glikx Tinkervoid is the chosen of the primeval [[Vacuuous]], originally born hundreds of years ago, he has been lost in time along with his home city of [[Kaldera]] since attempting to save it from volcanic eruption. His older sister [[Laika Tinkervoid|Laika]] had the gift of prophecy and was chosen at a young age to be the chosen of [[Kairos]]. Glikx however, was always fascinated by space and technology, working to become the premier artificer of his age. Eventually building a shuttle that would take him to space where he could summon [[Vacuuous]] and claim the [[Mark of the Primevals|Mark of Vacuuous]], becoming the first chosen of [[Vacuuous]] in nearly a century after the previous chosen died without passing it on.
+Glikx Tinkervoid is the chosen of the primeval [[Vacuuous]], originally born hundreds of years ago, he has been lost in time along with his home city of [[Kaldera]] since attempting to save it from volcanic eruption. His older sister [[Laika Tinkervoid|Laika]] had the gift of prophecy and was chosen at a young age to be the chosen of [[Kairos]]. Glikx however, was always fascinated by space and technology, working to become the premier artificer of his age. Eventually building a shuttle that would take him to space where he could summon [[Vacuuous]] and claim the [[Mark of the Primevals#The Mark of Vacuuous|Mark of Vacuuous]], becoming the first chosen of [[Vacuuous]] in nearly a century after the previous chosen died without passing it on.
 
 After claiming the mark, he began working spatial magic into his creations. Starting with inventing the extradimensional [[Goldfish Sphere]], he would later move on to creating a full extradimensional space using a [[Hyperbolic Gem]] that he would gift to his sister in the form of the [[Ring of Glikx]]. By combining his spatial magic and engineering talents with [[Laika Tinkervoid|Laika]]'s temporal magic he would create a system of space-time manipulation engines that would be used to power the flying ship he would later use in the battle against [[Il'Zuk]]. He would strip the time engines to use to contact [[Phoenix Aevum|Phoenix]] & [[Mayastan Daar|Daar]] in [[Arc 1 Session 9 (2024-11-13)|See The Past - Speak The Future]] and the repurpose the spatial components of the ship to adapt the [[Great Sword Supernova]] to power an extradimensional prison for [[Il'Zuk]] that became [[The Eternal Pillar]]. 
 
@@ -57,16 +57,19 @@ When his home city of [[Kaldera]], was set to be destroyed by volcanic eruption,
 - Defeat [[Il'Zuk]]
 
 ### Magic Items / Abilities
+- [[Mark of the Primevals#The Mark of Vacuuous|Mark of Vacuuous]]
 - Created the [[Ring of Glikx]]
 - Created the [[Goldfish Sphere]]
 
 ### Allies
 - [[Comrath]]
 - [[Laika Tinkervoid]]
+- [[Vacuuous]]
 
 ### Enemies
 - [[Il'Zuk]]
 - [[Scathach]]
+- [[Taranis]]
 
 ### Secrets
 - None

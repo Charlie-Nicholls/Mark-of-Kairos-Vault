@@ -4,6 +4,7 @@ type: landmark
 locations:
  - "[[Camarath Square]]"
 displayLink: "[[The Eternal Pillar]]"
+alias: "Il'Zuk's Prison"
 ---
 
 ![[banner.jpg|banner]]
