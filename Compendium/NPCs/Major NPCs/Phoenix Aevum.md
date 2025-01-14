@@ -75,7 +75,8 @@ Description
 ### Magic Items / Abilities
 - None
 
-### Allies  - [[Characters]] or [[Organisations]]
+### Allies
+- [[Characters]] or [[Organisations]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]

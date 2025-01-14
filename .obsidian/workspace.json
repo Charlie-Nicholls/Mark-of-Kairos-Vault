@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/NPCs/Minor NPCs/Debri.md",
+                "file": "Compendium/Lore/Other/Mark of the Primevals.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Debri"
+              "title": "Mark of the Primevals"
             }
           },
           {
@@ -61,7 +61,7 @@
               "type": "markdown",
               "state": {
                 "file": "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NPC's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 410.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -285,13 +285,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bbab3e245ffe261",
+  "active": "a8169a48210c50db",
   "lastOpenFiles": [
+    "Compendium/Lore/Deities/Primevals/Primevals.md",
+    "Compendium/Lore/Other/Mark of the Primevals.md",
+    "Compendium/Lore/Other/True Vacuum.md",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "Compendium/NPCs/Minor NPCs/Barry Barde.md",
+    "Compendium/NPCs/Minor NPCs/Debri.md",
     "Compendium/NPCs/Minor NPCs/Clut.md",
     "Compendium/NPCs/Minor NPCs/Cerio.md",
-    "Compendium/NPCs/Minor NPCs/Barry Barde.md",
     "Compendium/NPCs/Minor NPCs/Brilla.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
     "Compendium/NPCs/Major NPCs/Comrath.md",
     "Compendium/Lore/Objects/Great Sword Supernova.md",
     "Untitled.md",
@@ -305,14 +311,8 @@
     "Compendium/NPCs/Moderate NPCs/Cutha.md",
     "Compendium/NPCs/Moderate NPCs/Boda.md",
     "Compendium/NPCs/Moderate NPCs/Anec.md",
-    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
     "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
     "Compendium/Party/Player Characters/Mayastan Daar.md",
-    "Session Notes/Arc 1 Session 9 (2024-11-13).md",
-    "Session Notes/Arc 1 Session 1 (2024-08-20).md",
-    "Assets/Templates/NOTE.md",
-    "Session Notes/Arc 1 Session 10 (2024-12-31).md",
     "Assets/Images/Objects/imgGoldfishSphere.png",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
