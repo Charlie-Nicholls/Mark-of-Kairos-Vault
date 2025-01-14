@@ -2,7 +2,7 @@
     
 - - [ ] [Il'Zuk](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Il'Zuk.md)
     
-- - [ ] [Glikx Tinkervoid](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Glikx%20Tinkervoid.md)
+- - [x] [Glikx Tinkervoid](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Glikx%20Tinkervoid.md)
     
 - - [ ] [Mata Starheart](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Mata%20Starheart.md)
     

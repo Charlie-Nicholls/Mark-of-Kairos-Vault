@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSword",
+      "RiToolsFill",
+      "FasShuttleSpace",
       "LiTv",
       "FasFish",
       "🗡",
       "FasGem",
       "FasBottleDroplet",
       "FasSkull",
-      "LiMap",
-      "RiFileUserFill",
-      "FasBurst",
-      "LiImage"
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -82,7 +82,6 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square/The Eternal Pillar": "FasMonument",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Healer's Guild": "FasHeartPulse",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Adventurer's Guild": "RiSwordFill",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine of Diracmi": "LiAtom",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Kiriel's Whisper": "LiBeer",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Shrine to Kairos": "FasHourglass",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Ulrach's Clock Shop": "LiClock",
@@ -95,7 +94,7 @@
   "Compendium/NPCs/Major NPCs/Phoenix Aevum.md": "FasFireFlameCurved",
   "Compendium/NPCs/Major NPCs/Mata Starheart.md": "LiStars",
   "Compendium/NPCs/Major NPCs/Il'Zuk.md": "LiSkull",
-  "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md": "FasUser",
+  "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md": "RiToolsFill",
   "Compendium/NPCs/Major NPCs/Comrath.md": "FasDragon",
   "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md": "RiHourglassFill",
   "Compendium/NPCs/Moderate NPCs/Laune.md": "RiBearSmileFill",
@@ -170,5 +169,7 @@
   "Compendium/Lore/Objects/Entropic Dagger.md": "🗡",
   "Compendium/Lore/Objects/Goldfish Sphere.md": "FasFish",
   "Compendium/Lore/Other/Loss of Laika Cutscene.md": "LiTv",
-  "Session Notes/Arc 1 Session 9 (2024-11-13).md": "LiNotepadText"
+  "Session Notes/Arc 1 Session 9 (2024-11-13).md": "LiNotepadText",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi": "LiAtom",
+  "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword"
 }

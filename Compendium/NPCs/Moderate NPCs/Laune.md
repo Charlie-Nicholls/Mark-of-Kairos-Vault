@@ -40,7 +40,7 @@ ___
 ### Description
 Laune was created by [[Comrath]] during her time spent on [[Camarath]] as a manifestation of some of [[Diracmi]]'s power with the intent to use her to power the atomic element of [[Small Bang]]. She kept [[Comrath]] company for several centuries until the [[Hand of Twilight]] killed her and bound [[Laune]] to servitude to [[Ithlen]]. Her aura causes life to flourish, plants grow faster, diseases are supressed, healing magic is more effective.
 
-After [[Ithlen]] is killed by [[Il'Zuk]] in each loop, she is freed and turns on the rest of the [[Hand of Twilight]], killing [[Anec]] and [[Cutha]]. Then flees to edge of the island, jumping into the sea and swimming to [[Hawker's Caverns]] and recovering in her home at the [[Shrine of Diracmi]]. 
+After [[Ithlen]] is killed by [[Il'Zuk]] in each loop, she is freed and turns on the rest of the [[Hand of Twilight]], killing [[Anec]] and [[Cutha]]. Then flees to edge of the island, jumping into the sea and swimming to [[Hawker's Caverns]] and recovering in her home at the [[Shrine to Diracmi]]. 
 
 ### Motivations
 - To be freed from [[Ithlen]]'s control

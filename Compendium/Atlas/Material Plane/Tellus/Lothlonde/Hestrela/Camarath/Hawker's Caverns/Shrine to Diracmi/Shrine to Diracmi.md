@@ -3,13 +3,13 @@ cssClasses: grayTable, wideTable
 type: landmark
 locations:
  - "[[Hawker's Caverns]]"
-displayLink: "[[Shrine of Diracmi]]"
+displayLink: "[[Shrine to Diracmi]]"
 ---
 
 ![[banner.jpg|banner]]
 
 ---
-###### Shrine of Diracmi
+###### Shrine to Diracmi
 <span class="sub2">:FasCircleQuestion: Shrine</span>
 
 ---
@@ -19,7 +19,7 @@ displayLink: "[[Shrine of Diracmi]]"
 >^IntroText
 	
 ### Description
-Description of the shrine Shrine of Diracmi.
+Description of the shrine Shrine to Diracmi.
 
 ---
 
@@ -27,12 +27,12 @@ Description of the shrine Shrine of Diracmi.
 > > [!hint]-  NPCs
 > >```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/NPCs" AND [[Shrine of Diracmi]]
+FROM "Compendium/NPCs" AND [[#]]
 SORT file.name ASC
 > 
 >> [!note]- HISTORY
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Session Notes" AND [[Shrine of Diracmi]]
+FROM "Session Notes" AND [[#]]
 SORT file.ctime DESC
 

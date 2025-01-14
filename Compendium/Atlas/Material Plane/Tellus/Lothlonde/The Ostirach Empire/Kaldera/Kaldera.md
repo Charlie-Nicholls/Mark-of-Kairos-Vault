@@ -3,6 +3,7 @@ type: locale
 locations:
  - "[[The Ostirach Empire]]"
 displayLink: "[[Kaldera]]"
+alias: "The Lost City"
 ---
 
 ![[imgKaldera.jpg|banner]]

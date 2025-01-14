@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[The Dark Storm]]"
 displayLink: "[[Laika Tinkervoid]]"
+alias: "Laika"
 ---
 ###### Laika Tinkervoid
 <span class="sub2">:FasMapLocationDot: [[The Dark Storm#The Dark Storm]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

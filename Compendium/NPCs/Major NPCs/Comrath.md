@@ -4,7 +4,7 @@ locations:
  - "[[Crystal Dragon Library]]"
 displayLink: "[[Comrath]]"
 cover: "/Assets/Images/NPC/imgComrath.jpg"
-level: "?"
+level: "Unknown"
 race: "Crystal Dragon"
 class: "Druid"
 subClass: "Land"
