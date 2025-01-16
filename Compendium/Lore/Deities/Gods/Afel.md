@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Afel]]"
+domains: Rebirth
+pantheon: Temporal
 ---
 
 ###### Afel
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Chaotic Good</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,9 +14,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Rebirth |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Female |
-> | :FasBuildingColumns: Pantheon | Temporal |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview

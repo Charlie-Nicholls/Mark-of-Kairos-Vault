@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Aran]]"
+domains: Death
+pantheon: Entropic
 ---
 
 ###### Aran
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: True Neutral</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,9 +14,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Death |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Male |
-> | :FasBuildingColumns: Pantheon | Entropic |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview

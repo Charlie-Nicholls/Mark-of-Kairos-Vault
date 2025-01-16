@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Eron]]"
+domains: Civilisation
+pantheon: Atomic
 ---
 
 ###### Eron
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Lawful Good</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,9 +14,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Civilisation |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Female |
-> | :FasBuildingColumns: Pantheon | Atomic |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview

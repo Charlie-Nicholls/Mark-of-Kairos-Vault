@@ -1,13 +1,13 @@
 ---
 type: deity
 displayLink: "[[Kairos]]"
-domains: "Time"
-pantheon: "Primevals"
+domains: Time
+pantheon: Primevals
 cover: "/Assets/Images/Lore/imgKairosHourglass.png"
 ---
 
 ###### Kairos
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: True Neutral</span>
+<span class="sub2">:FasPersonRays: Primeval | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]

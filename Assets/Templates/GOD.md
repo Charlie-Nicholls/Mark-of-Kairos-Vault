@@ -18,7 +18,7 @@ function toCamelCase(str) {
 
 // Call modal form & declare variables
 const result = await MF.openForm('GOD');
-const alignment = result.Alignment.value;
+const type = result.Type.value;
 const name = result.Name.value;
 const gender = result.Gender.value;
 const domains = result.Domains.value;
@@ -42,10 +42,12 @@ _%>
 ---
 type: deity
 displayLink: "[[<% name %>]]"
+domains: <% domains ? domains.join(', ') : '' %>
+pantheon: <% pantheon ? pantheon : '' %>
 ---
 
 ###### <% name %>
-<span class="sub2">:FasCross: Deity <% alignment ? `&nbsp; | &nbsp; :FasYinYang: ${alignment}` : '' %></span>
+<span class="sub2">:FasPersonRays: <% type %> | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -53,9 +55,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | <% domains ? domains.join(', ') : '' %> |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | <% gender ? gender : '' %> |
-> | :FasBuildingColumns: Pantheon | <% pantheon ? pantheon : '' %> |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -81,4 +83,4 @@ ___
 >^IntroText
 
 ### Description
-Description of <% name %>, the <% alignment ? alignment.toLowerCase() : '' %> <% gender ? gender.toLowerCase() : '' %> deity.
+Description of <% name %>, the <% type %> of `=this.domains`.

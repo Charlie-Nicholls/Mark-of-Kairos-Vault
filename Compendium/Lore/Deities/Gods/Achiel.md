@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Achiel]]"
+domains: Magic
+pantheon: Atomic
 ---
 
 ###### Achiel
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Chaotic Neutral</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,9 +14,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Magic |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Male |
-> | :FasBuildingColumns: Pantheon | Atomic |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview

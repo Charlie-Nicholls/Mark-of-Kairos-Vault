@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Xonera]]"
+domains: Souls
+pantheon: Entropic
 ---
 
 ###### Xonera
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Neutral Good</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,9 +14,9 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Souls |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Gender Fluid |
-> | :FasBuildingColumns: Pantheon | Entropic |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview

@@ -1,13 +1,13 @@
 ---
 type: deity
 displayLink: "[[Scathach]]"
-domains: "Entropy"
-pantheon: "Primevals"
+domains: Entropy
+pantheon: Primeval
 cover: "/Assets/Images/Lore/imgScathachEntropy.jpg"
 ---
 
 ###### Scathach
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Chaotic Evil</span>
+<span class="sub2">:FasPersonRays: Primeval | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]

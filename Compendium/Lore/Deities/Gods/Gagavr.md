@@ -1,10 +1,12 @@
 ---
 type: deity
 displayLink: "[[Gagavr]]"
+domains: Animals
+pantheon: Atomic
 ---
 
 ###### Gagavr
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Chaotic Neutral</span>
+<span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
@@ -12,24 +14,24 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBoltLightning: Domains | Animals |
+> | :FasBoltLightning: Domains | `=this.domains` |
 > | :FasVenusMars: Gender | Non-Binary |
-> | :FasBuildingColumns: Pantheon | Atomic |
+> | :FasBuildingColumns: Pantheon | `=this.pantheon` |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Gagavr]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >> [!hint]-  PEOPLE
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/NPCs" AND [[Gagavr]] OR "Compendium/Party" AND [[Gagavr]] 
+>>FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]] 
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Gagavr]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 

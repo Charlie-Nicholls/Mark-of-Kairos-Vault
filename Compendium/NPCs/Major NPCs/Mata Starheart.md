@@ -75,7 +75,9 @@ Description
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Mayastan Daar]]
+- [[Phoenix Aevum]]
+- [[Lici]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]

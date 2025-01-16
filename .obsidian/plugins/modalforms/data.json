@@ -175,13 +175,13 @@
           }
         },
         {
-          "name": "Alignment",
-          "label": "Alignment:",
+          "name": "Type",
+          "label": "Type:",
           "description": "",
-          "isRequired": false,
+          "isRequired": true,
           "input": {
             "type": "dataview",
-            "query": "['Lawful Good', 'Neutral Good', 'Chaotic Good', 'Lawful Neutral', 'True Neutral', 'Chaotic Neutral', 'Lawful Evil', 'Neutral Evil', 'Chaotic Evil']"
+            "query": "['God','Primeval']"
           }
         },
         {
@@ -258,7 +258,8 @@
               "Wrath",
               "Zeal"
             ],
-            "allowUnknownValues": true
+            "allowUnknownValues": true,
+            "query": ""
           }
         },
         {
@@ -276,7 +277,8 @@
               "Spatial",
               "Temporal"
             ],
-            "allowUnknownValues": true
+            "allowUnknownValues": true,
+            "query": ""
           }
         }
       ],
@@ -732,7 +734,7 @@
       "fields": [
         {
           "name": "Name",
-          "label": "",
+          "label": "Name:",
           "description": "",
           "isRequired": false,
           "input": {
@@ -742,7 +744,7 @@
         },
         {
           "name": "Type",
-          "label": "",
+          "label": "Type:",
           "description": "",
           "isRequired": false,
           "input": {

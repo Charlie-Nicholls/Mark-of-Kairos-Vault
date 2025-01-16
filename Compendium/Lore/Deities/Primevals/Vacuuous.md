@@ -1,13 +1,13 @@
 ---
 type: deity
 displayLink: "[[Vacuuous]]"
-domains: "Space"
-pantheon: "Primevals"
+domains: Space
+pantheon: Primevals
 cover: "/Assets/Images/Lore/imgVacuuousInfinityCover.png"
 ---
 
 ###### Vacuuous
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: True Neutral</span>
+<span class="sub2">:FasPersonRays: Primeval | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPerson",
       "LiSword",
       "RiToolsFill",
       "FasShuttleSpace",
@@ -14,8 +15,7 @@
       "🗡",
       "FasGem",
       "FasBottleDroplet",
-      "FasSkull",
-      "LiMap"
+      "FasSkull"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -171,5 +171,6 @@
   "Compendium/Lore/Other/Loss of Laika Cutscene.md": "LiTv",
   "Session Notes/Arc 1 Session 9 (2024-11-13).md": "LiNotepadText",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi": "LiAtom",
-  "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword"
+  "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword",
+  "Compendium/NPCs/Minor NPCs/Lici.md": "FasPerson"
 }

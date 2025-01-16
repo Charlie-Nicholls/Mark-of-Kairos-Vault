@@ -1,13 +1,13 @@
 ---
 type: deity
 displayLink: "[[Diracmi]]"
-domains: "Matter"
-pantheon: "Primevals"
+domains: Matter
+pantheon: Primevals
 cover: "/Assets/Images/Lore/imgDiracmiTwinStars.jpeg"
 ---
 
 ######  Diracmi
-<span class="sub2">:FasCross: Deity &nbsp; | &nbsp; :FasYinYang: Chaotic Good</span>
+<span class="sub2">:FasPersonRays: Primeval | :FasBoltLightning: `=this.domains` </span>
 
 ---
 
