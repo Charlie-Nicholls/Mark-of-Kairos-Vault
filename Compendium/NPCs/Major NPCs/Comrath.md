@@ -55,7 +55,7 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	An ancient crystal dragon, seeming to shine as her body refracts the light in all different directions in a spectrum of colours. 
 >^IntroText
 
 ### Description

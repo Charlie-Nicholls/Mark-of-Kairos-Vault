@@ -4,6 +4,7 @@ type: landmark
 locations:
  - "[[Desolation of Suuhulla]]"
 displayLink: "[[Shrine to Scathach]]"
+alias: "Sshara"
 ---
 
 ![[banner.jpg|banner]]
@@ -19,7 +20,7 @@ displayLink: "[[Shrine to Scathach]]"
 >^IntroText
 	
 ### Description
-Description of the shrine Shrine to Scathach.
+Formally the town of Sshara, the Shrine to Scathach.
 
 ---
 

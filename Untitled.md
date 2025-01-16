@@ -1,6 +1,6 @@
-- - [ ] [Comrath](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Comrath.md)
+- - [x] [Comrath](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Comrath.md)
     
-- - [ ] [Il'Zuk](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Il'Zuk.md)
+- - [x] [Il'Zuk](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Il'Zuk.md)
     
 - - [x] [Glikx Tinkervoid](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Glikx%20Tinkervoid.md)
     

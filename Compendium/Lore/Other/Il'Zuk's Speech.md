@@ -8,7 +8,7 @@ displayLink: "[[Il'Zuk's Speech]]"
 ___
 
 > [!recite|clean no-t]
->	You're privileged you know? A thousand thousand years the gods have ruled this world, and you happened to be born just in time to see it all end. Not only the right time, but the perfect place to. I wasn't so lucky, I was born long ago and far from here. A couple years of sailing in that direction then a month or so of trekking through desert and you'll find where my village stood. It didn't used to be desert of course, it was a forest when I was a child - but the history books have long forgotten them by this point I imagine, after all history is generally maintained by the clerics. And if prophecy says that someone there could some day stand tall enough to threaten the gods themselves, why take a risk?
+>	You're privileged you know? A thousand thousand years the gods have ruled this world, and you happened to be born just in time to see it all end. Not only the right time, but the perfect place to. I wasn't so lucky, I was born long ago, across the ocean in the depths of desert you'll find where my village stood. It didn't used to be desert of course, it was a forest when I was a child - but the history books have long forgotten them by this point I imagine, after all history is generally maintained by the clerics. And if prophecy says that someone there could some day stand tall enough to threaten the gods themselves, why take a risk?
 >	
 >	Well 'some day' is here, more than two thousand years I've waited. Slowly, slowly eating away at the structure of my prison. Piece by piece, particle by particle, one by one. The pillar used to shine like a star you know, every colour of the rainbow. Entropy always wins in the end.
 >

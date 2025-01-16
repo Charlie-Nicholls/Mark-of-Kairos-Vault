@@ -21,7 +21,7 @@ dv.list(chapters)
 
 <br>
 
-### :FasBook: Arc Two - The Mark of Vacuuous
+### :FasBook: Arc Two - The Mark of Diracmi
 
 ```dataviewjs
 let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
