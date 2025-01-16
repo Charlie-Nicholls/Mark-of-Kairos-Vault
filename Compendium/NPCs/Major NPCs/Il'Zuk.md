@@ -50,13 +50,15 @@ Description
 - List of Motivations
 
 ### Magic Items / Abilities
-- [[Mark of the Primevals|Mark of Scathach]] (Stolen)
+- [[Mark of the Primevals#The Mark of Scathach|Mark of Scathach]] (Stolen)
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Scathach]]
+- [[Anec]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- [[Comrath]]
+- [[Glikx Tinkervoid]]
 
 ### Secrets
 - None

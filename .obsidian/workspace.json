@@ -40,18 +40,18 @@
             }
           },
           {
-            "id": "520031307cadab26",
+            "id": "a5ba54cb25f58700",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Lore/Other/Mark of the Primevals.md",
+                "file": "Compendium/NPCs/Major NPCs/Il'Zuk.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mark of the Primevals"
+              "title": "Il'Zuk"
             }
           }
         ],
@@ -220,17 +220,17 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "520031307cadab26",
+  "active": "a5ba54cb25f58700",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Compendium/Lore/Other/Mark of the Primevals.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "conflict-files-obsidian-git.md",
     "Session Notes/Arc 1 Session 1 (2024-08-20).md",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath.md",
     "INDEX.md",
     "Session Notes/Arc 1 Session 9 (2024-11-13).md",
     "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
     "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
     "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
     "Compendium/NPCs/Major NPCs/Comrath.md",
     "Compendium/Lore/Other/Loss of Laika Cutscene.md",
