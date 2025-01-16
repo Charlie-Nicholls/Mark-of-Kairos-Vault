@@ -9,47 +9,50 @@ displayLink: "[[Maera]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgMaera.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Head of City Guards |
 > | :FasVenusMars: Gender | Female |
-> | :FasUser: Race | Half-Orc |
-> | :FasClock: Age | ? |
+> | :FasUser: Race | Human |
+> | :FasClock: Age | 93 |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Maera]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Maera]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Maera is stout, with blonde hair and hazel eyes. She wears studded leather and wields a long sword and shield. Maera lost her right eye to an injury.
 >^IntroText
 
 ### Description
-Description
+Maera is a human fighter and member of the [[Hand of Twilight]]. After defeating [[Comrath]] she became one of the leaders of [[Camarath]] and leader of the city guards.
 
 ### Motivations
-- List of Motivations
+- Protection of [[Camarath]]
 
 ### Magic Items / Abilities
-- None
+- Unknown
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Ithlen]]
+- [[Cutha]]
+- [[Anec]]
+- [[Hand of Twilight]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- [[Comrath]]
 
 ### Secrets
 - None

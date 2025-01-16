@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "INDEX.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "INDEX"
             }
+          },
+          {
+            "id": "547739db11b27c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +205,35 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "f6b82cdec137d626",
+  "active": "547739db11b27c00",
   "lastOpenFiles": [
+    "Compendium/NPCs/Moderate NPCs/Maera.md",
+    "Compendium/NPCs/Moderate NPCs/Cutha.md",
+    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
+    "Assets/Images/NPC/imgMaera.jpg",
+    "Assets/Images/NPC/imgMaera.jpg.~tmp",
+    "Compendium/NPCs/Moderate NPCs/Laune.md",
+    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Untitled.md",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
+    "Compendium/NPCs/Moderate NPCs/Boda.md",
+    "Compendium/NPCs/Moderate NPCs/Anec.md",
+    "Assets/Images/NPC/imgCutha.png",
+    "Compendium/Party/Player Characters/Mayastan Daar.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "Compendium/NPCs/Major NPCs/Mata Starheart.md",
+    "Compendium/NPCs/Major NPCs/Comrath.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Healer's Guild/Healer's Guild.md",
+    "Assets/Images/NPC/imgBoda.png",
+    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
+    "Compendium/Lore/Organizations/Cult of the Primeval.md",
+    "Assets/Images/Lore/imgPrimevalsSymbol.png",
+    "Assets/Images/Lore/imgKairosSymbol.png",
+    "Assets/Images/Lore/imgKairosHourglass.png",
+    "Assets/Images/Lore/imgDiracmiTwinStars.jpeg",
+    "Assets/Images/Lore/imgDiracmiSymbol.png",
+    "INDEX.md",
     "Compendium/Lore/Deities/Gods/Achiel.md",
     "Compendium/Lore/Deities/Primevals/Vacuuous.md",
     "Compendium/Lore/Deities/Primevals/Scathach.md",
@@ -198,44 +241,16 @@
     "Compendium/Lore/Deities/Primevals/Diracmi.md",
     "Compendium/Lore/Deities/Gods/Zeriel.md",
     "Compendium/Lore/Deities/Gods/Taranis.md",
-    "Compendium/Lore/Deities/Gods/Afel.md",
-    "Assets/Templates/GOD.md",
-    "Compendium/Lore/Deities/Gods/Eron.md",
-    "Compendium/Lore/Deities/Gods/Gagavr.md",
-    "Compendium/Lore/Deities/Gods/Kiriel.md",
-    "Compendium/Lore/Deities/Gods/Xonera.md",
-    "Compendium/Lore/Deities/Gods/Binur.md",
-    "Compendium/Lore/Deities/Gods/Aran.md",
-    "Compendium/Lore/Deities/Gods/Test.md",
-    "INDEX.md",
-    "Session Notes/Session Notes.md",
-    "Assets/Templates/NPC.md",
-    "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Minor NPCs/Lici.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
-    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach/Shrine to Scathach.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Desolation of Suuhulla.md",
     "Assets/Images/Objects/imgGoldfishSphere.png",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
-    "Assets/Images/Objects/imgEntropicDagger.jpg",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
-    "Assets/Images/Location/imgDesolationOfSuuhulla.png",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
     "Compendium/Atlas/Desolation of Suuhula",
     "Assets/Templates/Simple",
     "Compendium/Party/Character Sheets",
     "Compendium/Party/Player Characters/Mayastan Daar",
-    "Assets/Images/Location/imgLaune.jpg",
     "Assets/Images/Location/imgLaune.jpg.crdownload",
-    "Assets/Images/Location/imgHawkersCaverns.jpg",
-    "Assets/Images/Location/imgKaldera.jpg",
-    "Assets/Images/Location/imgKaldera.jpg.crdownload",
-    "Assets/Images/Location/imgOstirachEmpire.jpg",
-    "Assets/Images/Location/imgOstirachEmpire.jpg.crdownload",
-    "Assets/Images/Location/imgAcademyoftheDevout.png",
-    "Assets/Images/header.png"
+    "Assets/Images/Location/imgKaldera.jpg.crdownload"
   ]
 }

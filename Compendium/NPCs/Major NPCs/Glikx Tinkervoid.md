@@ -42,7 +42,7 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	A middle aged gnomish man with dark skin, darker beard and oil stained clothes. 
+>	A middle aged gnomish man with dark skin, brown beard and oil stained clothes. 
 >^IntroText
 
 ### Description

@@ -21,38 +21,44 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Ithlen]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Ithlen]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Ithlen has a long face, with white hair and dark hazel eyes. She wears long blue and orange robes flecked with gold. Ithlen has an animal companion, a black bear named Laune.
 >^IntroText
 
 ### Description
-Description
+Ithlen is one of [[Hestrela]]'s premier archmages and the leader of the city of [[Camarath]]. She is driven by dreams of fame and power, to raise the status of her city and herself to one of the most powerful in [[Lothlonde]]. After the defeat of [[Comrath]] she used magic to enslave [[Laune]], keeping her around for protection, as a status symbol and forcing her to use her connection to [[Diracmi]] to allow [[Camarath]] to flourish. Without interference, in each loop when [[Il'Zuk]] rises she attempts to stand against him but is killed, freeing [[Laune]].
 
 ### Motivations
-- List of Motivations
+- Power
+- Fame and glory
+- Protecting and raising the status of [[Camarath]]
 
 ### Magic Items / Abilities
-- None
+- Unknown
  
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Cutha]]
+- [[Maera]]
+- [[Anec]]
+- [[Hand of Twilight]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- [[Laune]]
+- [[Comrath]]
 
 ### Secrets
-- None
+- Keep [[Laune]] under control using enslavement magic, using her as a symbol of status and self protection
 
 ### Statblock
 >```statblock

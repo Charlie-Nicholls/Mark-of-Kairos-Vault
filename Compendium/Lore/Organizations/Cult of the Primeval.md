@@ -10,7 +10,7 @@ displayLink: "[[Cult of the Primeval]]"
 ___
 
 > [!infobox|no-t right]
-> ![[embed.jpg|350]]
+> ![[imgPrimevalsSymbol.png|350]]
 >>[!hint]- PEOPLE
 >>```dataview
 >>LIST WITHOUT ID displayLink
@@ -28,3 +28,11 @@ ___
 
 ### Description
 Description of Cult of the Primeval, the true neutral aligned organization.
+
+### Members
+- [[Anec]] (leader)
+- [[Boda]]
+- [[Mata Starheart]]
+- [[Vede]]
+- [[Ulrach]]
+- 

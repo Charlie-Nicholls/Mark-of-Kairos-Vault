@@ -9,46 +9,51 @@ displayLink: "[[Cutha]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgCutha.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Job |  City Leader |
+> | :FasBriefcase: Job | Adventurer's Guild Leader |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Elf |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 331 |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Cutha]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Cutha]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Cutha has red hair, bright blue eyes, and pointed ears. She wears studded leather and wields a long bow.
 >^IntroText
 
 ### Description
-Description
+Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating [[Comrath]] she became one of the leaders of [[Camarath]] and works on defending the city from monsters and as the head of the [[Adventurer's Guild]]. She is naturally introverted and more empathic than the other members of the [[Hand of Twilight]], and would be the easiest to convince of the return of [[Il'Zuk]].
 
 ### Motivations
-- List of Motivations
+- Protection of [[Camarath]]
 
 ### Magic Items / Abilities
-- None
+- Unknown
 
-### Allies  - [[Characters]] or [[Organisations]]
+### Allies 
+- [[Ithlen]]
+- [[Maera]]
+- [[Anec]]
+- [[Hand of Twilight]]
+- [[Adventurer's Guild]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- [[Comrath]]
 
 ### Secrets
 - None

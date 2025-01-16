@@ -4,21 +4,21 @@
     
 - - [x] [Glikx Tinkervoid](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Glikx%20Tinkervoid.md)
     
-- - [ ] [Mata Starheart](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Mata%20Starheart.md)
+- - [x] [Mata Starheart](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Mata%20Starheart.md)
     
-- - [ ] [Phoenix Aevum](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Phoenix%20Aevum.md)
+- - [x] [Phoenix Aevum](app://obsidian.md/Compendium/NPCs/Major%20NPCs/Phoenix%20Aevum.md)
     
 - - [x] [Anec](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Anec.md)
     
-- - [ ] [Boda](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Boda.md)
+- - [x] [Boda](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Boda.md)
     
-- - [ ] [Cutha](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Cutha.md)
+- - [x] [Cutha](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Cutha.md)
     
-- - [ ] [Ithlen](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Ithlen.md)
+- - [x] [Ithlen](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Ithlen.md)
     
-- - [ ] [Laika Tinkervoid](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Laika%20Tinkervoid.md)
+- - [x] [Laika Tinkervoid](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Laika%20Tinkervoid.md)
     
-- - [ ] [Maera](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Maera.md)
+- - [x] [Maera](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Maera.md)
     
 - - [x] [Laune](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Laune.md)
     
