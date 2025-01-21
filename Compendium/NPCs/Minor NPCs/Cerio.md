@@ -9,14 +9,14 @@ displayLink: "[[Cerio]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgCerio.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Cleric |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 65 |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -33,14 +33,14 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Cerio is short, with tangled silver hair and amber eyes. He wears very smart, tailored clothing and speaks and acts with utmost civility.
 >^IntroText
 
 ### Description
-Description
+Cerio is the only priest of [[Eron]] in the city and maintains the [[Statue of Eron]] with an intense obsession.
 
 ### Motivations
-- List of Motivations
+- Maintain the [[Statue of Eron]]
 
 ### Magic Items / Abilities
 - None
@@ -55,5 +55,6 @@ Description
 - None
 
 ### Statblock
->```statblock
-name: Cerio
+> ```statblock
+> name: Cerio
+> creature: Priest

@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "5ef6621d2e1b434b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/NPCs/Minor NPCs/Debri.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Debri"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,20 +220,36 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "547739db11b27c00",
+  "active": "5ef6621d2e1b434b",
   "lastOpenFiles": [
-    "Compendium/NPCs/Moderate NPCs/Maera.md",
-    "Compendium/NPCs/Moderate NPCs/Cutha.md",
-    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
-    "Assets/Images/NPC/imgMaera.jpg",
-    "Assets/Images/NPC/imgMaera.jpg.~tmp",
-    "Compendium/NPCs/Moderate NPCs/Laune.md",
-    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Session Notes/Arc 1 Session 10 (2024-12-31).md",
+    "Compendium/NPCs/Minor NPCs/Debri.md",
     "Untitled.md",
-    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
+    "Compendium/NPCs/Minor NPCs/Duug.md",
+    "Compendium/NPCs/Minor NPCs/Crochna.md",
+    "Assets/Images/NPC/imgCrochna.png",
+    "INDEX.md",
+    "Compendium/NPCs/Minor NPCs/Clut.md",
+    "Compendium/NPCs/Minor NPCs/Cerio.md",
+    "Assets/Images/NPC/imgClut.jpg",
+    "Assets/Images/NPC/imgClut.jpg.crdownload",
+    "Compendium/NPCs/Minor NPCs/Barry Barde.md",
+    "Compendium/Lore/Deities/Gods/Achiel.md",
+    "Assets/Images/NPC/imgCerio.png",
+    "Compendium/NPCs/Minor NPCs/Brilla.md",
+    "Assets/Images/NPC/imgBrilla.png",
     "Compendium/NPCs/Moderate NPCs/Boda.md",
     "Compendium/NPCs/Moderate NPCs/Anec.md",
+    "Assets/Images/NPC/imgBarryBarde.png",
+    "Compendium/NPCs/Moderate NPCs/Laune.md",
+    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
+    "Compendium/NPCs/Moderate NPCs/Cutha.md",
+    "Compendium/NPCs/Moderate NPCs/Maera.md",
+    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Assets/Images/NPC/imgMaera.jpg",
+    "Assets/Images/NPC/imgMaera.jpg.~tmp",
+    "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
     "Assets/Images/NPC/imgCutha.png",
     "Compendium/Party/Player Characters/Mayastan Daar.md",
     "Compendium/NPCs/Major NPCs/Il'Zuk.md",
@@ -227,22 +258,8 @@
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Healer's Guild/Healer's Guild.md",
     "Assets/Images/NPC/imgBoda.png",
     "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
-    "Compendium/Lore/Organizations/Cult of the Primeval.md",
     "Assets/Images/Lore/imgPrimevalsSymbol.png",
     "Assets/Images/Lore/imgKairosSymbol.png",
-    "Assets/Images/Lore/imgKairosHourglass.png",
-    "Assets/Images/Lore/imgDiracmiTwinStars.jpeg",
-    "Assets/Images/Lore/imgDiracmiSymbol.png",
-    "INDEX.md",
-    "Compendium/Lore/Deities/Gods/Achiel.md",
-    "Compendium/Lore/Deities/Primevals/Vacuuous.md",
-    "Compendium/Lore/Deities/Primevals/Scathach.md",
-    "Compendium/Lore/Deities/Primevals/Kairos.md",
-    "Compendium/Lore/Deities/Primevals/Diracmi.md",
-    "Compendium/Lore/Deities/Gods/Zeriel.md",
-    "Compendium/Lore/Deities/Gods/Taranis.md",
-    "Assets/Images/Objects/imgGoldfishSphere.png",
-    "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
@@ -250,7 +267,6 @@
     "Assets/Templates/Simple",
     "Compendium/Party/Character Sheets",
     "Compendium/Party/Player Characters/Mayastan Daar",
-    "Assets/Images/Location/imgLaune.jpg.crdownload",
-    "Assets/Images/Location/imgKaldera.jpg.crdownload"
+    "Assets/Images/Location/imgLaune.jpg.crdownload"
   ]
 }
