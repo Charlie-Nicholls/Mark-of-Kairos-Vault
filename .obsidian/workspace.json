@@ -25,18 +25,17 @@
             }
           },
           {
-            "id": "547739db11b27c00",
+            "id": "458af1de6429276f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "aFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "bFile": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -205,8 +204,10 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "a8169a48210c50db",
+  "active": "458af1de6429276f",
   "lastOpenFiles": [
+    "INDEX.md",
+    "Untitled.md",
     "Session Notes/Arc 1 Session 4 (2024-09-21).md",
     "Session Notes/Arc 1 Session 3 (2024-09-05).md",
     "Session Notes/Arc 1 Session 2 (2024-08-26).md",
@@ -224,11 +225,9 @@
     "Compendium/Atlas/Material Plane/Material Plane.md",
     "Compendium/NPCs/Minor NPCs/Debri.md",
     "Session Notes/Arc 1 Session 10 (2024-12-31).md",
-    "Untitled.md",
     "Compendium/NPCs/Minor NPCs/Duug.md",
     "Compendium/NPCs/Minor NPCs/Crochna.md",
     "Assets/Images/NPC/imgCrochna.png",
-    "INDEX.md",
     "Compendium/NPCs/Minor NPCs/Clut.md",
     "Compendium/NPCs/Minor NPCs/Cerio.md",
     "Assets/Images/NPC/imgClut.jpg",
