@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotepadText",
       "FasPerson",
       "LiSword",
       "RiToolsFill",
@@ -14,8 +15,7 @@
       "FasFish",
       "🗡",
       "FasGem",
-      "FasBottleDroplet",
-      "FasSkull"
+      "FasBottleDroplet"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -172,5 +172,7 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi": "LiAtom",
   "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword",
   "Compendium/NPCs/Minor NPCs/Lici.md": "FasPerson",
-  "Compendium/Lore/Other/Phoenix's Prophecy.md": "FasScroll"
+  "Compendium/Lore/Other/Phoenix's Prophecy.md": "FasScroll",
+  "Session Notes/Arc 1 Session 2 (2024-08-26).md": "LiNotepadText",
+  "Session Notes/Arc 1 Session 3 (2024-09-05).md": "LiNotepadText"
 }
