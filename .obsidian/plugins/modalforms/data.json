@@ -258,8 +258,7 @@
               "Wrath",
               "Zeal"
             ],
-            "allowUnknownValues": true,
-            "query": ""
+            "allowUnknownValues": true
           }
         },
         {
@@ -277,8 +276,7 @@
               "Spatial",
               "Temporal"
             ],
-            "allowUnknownValues": true,
-            "query": ""
+            "allowUnknownValues": true
           }
         }
       ],

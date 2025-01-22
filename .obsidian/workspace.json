@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "547739db11b27c00",
+            "id": "640e2969ccfd6aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,6 +37,21 @@
               },
               "icon": "lucide-file",
               "title": "Untitled"
+            }
+          },
+          {
+            "id": "d04d78c676148447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Glikx Tinkervoid"
             }
           }
         ],
@@ -62,7 +77,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -71,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NPC's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 410.5
   },
   "right": {
     "id": "cbcc3a597fb0833b",
@@ -158,8 +173,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -168,8 +183,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -181,13 +196,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "581be69bd27cc0d3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "e14afa68e25d553e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,61 +231,61 @@
       "templates:Insert template": true,
       "modalforms:Edit forms": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pinned-notes:Index": false,
       "pinned-notes:Working Note": false,
-      "pinned-notes:Camarath": false
+      "pinned-notes:Camarath": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "547739db11b27c00",
+  "active": "640e2969ccfd6aa1",
   "lastOpenFiles": [
-    "Compendium/NPCs/Moderate NPCs/Maera.md",
-    "Compendium/NPCs/Moderate NPCs/Cutha.md",
-    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
-    "Assets/Images/NPC/imgMaera.jpg",
-    "Assets/Images/NPC/imgMaera.jpg.~tmp",
-    "Compendium/NPCs/Moderate NPCs/Laune.md",
-    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
     "Untitled.md",
+    " - Copy.gitattributes",
     "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
-    "Compendium/NPCs/Moderate NPCs/Boda.md",
-    "Compendium/NPCs/Moderate NPCs/Anec.md",
-    "Assets/Images/NPC/imgCutha.png",
-    "Compendium/Party/Player Characters/Mayastan Daar.md",
-    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
-    "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-    "Compendium/NPCs/Major NPCs/Comrath.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Healer's Guild/Healer's Guild.md",
-    "Assets/Images/NPC/imgBoda.png",
-    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
-    "Compendium/Lore/Organizations/Cult of the Primeval.md",
-    "Assets/Images/Lore/imgPrimevalsSymbol.png",
-    "Assets/Images/Lore/imgKairosSymbol.png",
-    "Assets/Images/Lore/imgKairosHourglass.png",
-    "Assets/Images/Lore/imgDiracmiTwinStars.jpeg",
-    "Assets/Images/Lore/imgDiracmiSymbol.png",
     "INDEX.md",
-    "Compendium/Lore/Deities/Gods/Achiel.md",
-    "Compendium/Lore/Deities/Primevals/Vacuuous.md",
-    "Compendium/Lore/Deities/Primevals/Scathach.md",
-    "Compendium/Lore/Deities/Primevals/Kairos.md",
-    "Compendium/Lore/Deities/Primevals/Diracmi.md",
-    "Compendium/Lore/Deities/Gods/Zeriel.md",
-    "Compendium/Lore/Deities/Gods/Taranis.md",
+    "Compendium/Lore/Other/Mark of the Primevals.md",
+    "Compendium/NPCs/Minor NPCs/Lici.md",
+    "Assets/Images/NPC/imgMaera.jpg",
+    "Assets/Images/NPC/imgCutha.png",
+    "Assets/Images/NPC/imgBoda.png",
+    "Compendium/Lore/Deities/Primevals/Primevals.md",
+    "Compendium/Lore/Other/True Vacuum.md",
+    "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
+    "Compendium/NPCs/Major NPCs/Il'Zuk.md",
+    "Compendium/NPCs/Minor NPCs/Barry Barde.md",
+    "Compendium/NPCs/Minor NPCs/Debri.md",
+    "Compendium/NPCs/Minor NPCs/Clut.md",
+    "Compendium/NPCs/Minor NPCs/Cerio.md",
+    "Compendium/NPCs/Minor NPCs/Brilla.md",
+    "Compendium/NPCs/Major NPCs/Comrath.md",
+    "Compendium/Lore/Objects/Great Sword Supernova.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Kaldera/Kaldera.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi/Shrine to Diracmi.md",
+    "Compendium/Lore/Other/Loss of Laika Cutscene.md",
+    "Compendium/NPCs/Moderate NPCs/Laika Tinkervoid.md",
+    "Compendium/NPCs/Moderate NPCs/Maera.md",
+    "Compendium/NPCs/Moderate NPCs/Laune.md",
+    "Compendium/NPCs/Moderate NPCs/Ithlen.md",
+    "Compendium/NPCs/Moderate NPCs/Cutha.md",
+    "Compendium/NPCs/Moderate NPCs/Boda.md",
     "Assets/Images/Objects/imgGoldfishSphere.png",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
+    "Assets/Images/Objects/imgEntropicDagger.jpg",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
+    "Assets/Images/Location/imgDesolationOfSuuhulla.png",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
     "Compendium/Atlas/Desolation of Suuhula",
     "Assets/Templates/Simple",
     "Compendium/Party/Character Sheets",
     "Compendium/Party/Player Characters/Mayastan Daar",
+    "Assets/Images/Location/imgLaune.jpg",
     "Assets/Images/Location/imgLaune.jpg.crdownload",
+    "Assets/Images/Location/imgHawkersCaverns.jpg",
+    "Assets/Images/Location/imgKaldera.jpg",
     "Assets/Images/Location/imgKaldera.jpg.crdownload"
   ]
 }
