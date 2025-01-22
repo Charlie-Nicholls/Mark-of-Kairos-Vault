@@ -14,7 +14,7 @@ ___
 >^IntroText
 
 ### Description
->The Material plane (also seen as Prime Material Plane) is the plane in which [[Toril]] and the surrounding cosmos exist. The phrase "Prime Material plane," or simply the "Prime," is generally used by beings from other planes in the multiverse to refer to the inhabitants of the Material Plane.
+The Material plane (also seen as Prime Material Plane) is the plane in which [[Toril]] and the surrounding cosmos exist. The phrase "Prime Material plane," or simply the "Prime," is generally used by beings from other planes in the multiverse to refer to the inhabitants of the Material Plane.
 
 ---
 
