@@ -9,14 +9,14 @@ displayLink: "[[Crochna]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgCrochna.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Retired Adventurer |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 68 |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -33,11 +33,15 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Crochna is noble in bearing, with uneven grey hair and hazel eyes.
 >^IntroText
 
 ### Description
-Description
+Crochna lives at house 12 NE section of Noble District. She is a retired adventurer (ranger).
+
+During [[Session ?]], [[Mayastan Daar|Daar]] asked her to direct him to [[Phoenix's House]].
+
+During [[Arc 1 Session 10 (2024-12-31)|1.10 Save The Cat - Kill The Bird]], she and [[Lachi]] were saved by [[Mayastan Daar|Daar]] whilst making a last stand to protect civilian nobles from a horde of undead.
 
 ### Motivations
 - List of Motivations

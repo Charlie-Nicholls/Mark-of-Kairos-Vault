@@ -40,6 +40,21 @@
             }
           },
           {
+            "id": "db11ae114d081e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d04d78c676148447",
             "type": "leaf",
             "state": {
@@ -55,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,9 +255,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "640e2969ccfd6aa1",
+  "active": "db11ae114d081e0b",
   "lastOpenFiles": [
     "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Assets/Images/NPC/imgCrochna.png",
+    "Assets/Images/NPC/imgClut.jpg",
+    "Assets/Images/NPC/imgCerio.png",
+    "Assets/Images/NPC/imgBrilla.png",
+    "Assets/Images/NPC/imgBarryBarde.png",
     " - Copy.gitattributes",
     "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
     "INDEX.md",
@@ -274,18 +295,13 @@
     "Assets/Images/Objects/imgGoldfishSphere.png",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
-    "Assets/Images/Objects/imgEntropicDagger.jpg",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
-    "Assets/Images/Location/imgDesolationOfSuuhulla.png",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
     "Compendium/Atlas/Desolation of Suuhula",
     "Assets/Templates/Simple",
     "Compendium/Party/Character Sheets",
     "Compendium/Party/Player Characters/Mayastan Daar",
-    "Assets/Images/Location/imgLaune.jpg",
     "Assets/Images/Location/imgLaune.jpg.crdownload",
-    "Assets/Images/Location/imgHawkersCaverns.jpg",
-    "Assets/Images/Location/imgKaldera.jpg",
     "Assets/Images/Location/imgKaldera.jpg.crdownload"
   ]
 }

@@ -60,10 +60,6 @@ During [[Session ?]], she was recruited by [[Mayastan Daar|Daar]] to help heal [
 - Member of the [[Cult of the Primeval]]
 - Conspiring with [[Anec]] to drug the other members of the [[Cult of the Primeval|Cult]] and siphon their souls to create [[Bottle of Age]].
 
-Str 10 (+0), Dex 10 (+0), Con 12 (+1), Int 16 (+3), Wis 16 (+3), Cha 12 (+1)
-
-Prof: Arcana, History, Medicine (Expert for Souls), Religion, Deception, Insight
-
 ### Statblock
 
 > ```statblock

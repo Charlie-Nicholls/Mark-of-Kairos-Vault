@@ -5,11 +5,11 @@ locations:
 displayLink: "[[Brilla]]"
 ---
 ###### Brilla
-<span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Dead </span>
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgBrilla.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -21,39 +21,41 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Brilla]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Brilla]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Brilia is short and a little overweight, with silver hair and grey eyes. She wears leather armour and wields a light hammer.
 >^IntroText
 
 ### Description
-Description
+Brilla is a cleric of [[Afel]] and works at the [[Temple of Afel]]. She is a member of the [[Cult of the Primeval]] and one of those who had their soul drained in [[Session ?]]. Since her time became stored in the [[Ring of Glikx]], she dies at the start of every loop; her body appearing weathered and aged. 
 
 ### Motivations
--
+- List of Motivations
 
 ### Magic Items / Abilities
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Cult of the Primeval]]
+- [[Ethwyst]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
-
-### Secrets
 - None
 
+### Secrets
+- Member of the [[Cult of the Primeval]]
+
 ### Statblock
->```statblock
-name: Brilla
+> ```statblock
+> name: Brilla
+> stats: [11,6,9,10,16,13]

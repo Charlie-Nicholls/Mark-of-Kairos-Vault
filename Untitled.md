@@ -22,15 +22,15 @@
     
 - - [x] [Laune](app://obsidian.md/Compendium/NPCs/Moderate%20NPCs/Laune.md)
     
-- - [ ] [Barry Barde](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Barry%20Barde.md)
+- - [x] [Barry Barde](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Barry%20Barde.md)
     
-- - [ ] [Brilla](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Brilla.md)
+- - [x] [Brilla](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Brilla.md)
     
-- - [ ] [Cerio](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Cerio.md)
+- - [x] [Cerio](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Cerio.md)
     
-- - [ ] [Clut](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Clut.md)
+- - [x] [Clut](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Clut.md)
     
-- - [ ] [Crochna](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Crochna.md)
+- - [x] [Crochna](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Crochna.md)
     
 - - [ ] [Debri](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Debri.md)
     
