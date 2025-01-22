@@ -1,9 +1,9 @@
 ---
 type: lore
-displayLink: "[[Pheonix's Prophecy]]"
+displayLink: "[[Phoenix's Prophecy]]"
 ---
 
-###### Phoenix's Prophecy
+###### Pheonix's Prophecy
 <span class="sub2">:FasScroll: Prophecy</span>
 ___
 

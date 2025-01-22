@@ -35,7 +35,7 @@ dv.table(["cover", "name", "details"],
 > [!session]-  Session Notes<br><span class="sub">Summaries, Transcripts, & Notes</span>
 > ```dataviewjs
 > dv.container.className += ' listMe';
-> let pages = dv.pages('"Session Notes"').sort(p => p.file.name, "desc");  
+> let pages = dv.pages('"Session Notes"').sort(p => p.date, "desc");  
 >dv.table(["Date"], pages.map(page => [`- ${page.displayLink}`]));
 >```
 > `BUTTON[note]`

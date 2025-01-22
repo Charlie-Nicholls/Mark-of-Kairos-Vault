@@ -2,6 +2,7 @@
 cssClasses: index
 displayLink: "[[Session Notes]]"
 alias: "Campaign Story"
+date: 2024-08-19
 ---
 ###### <span class="head">Campaign Story</span> 
 ![[campaign.jpg|banner]]

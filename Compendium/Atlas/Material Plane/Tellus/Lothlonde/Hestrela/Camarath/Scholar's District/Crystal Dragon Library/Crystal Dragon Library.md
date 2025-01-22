@@ -3,9 +3,7 @@ cssClasses: grayTable, wideTable
 type: landmark
 locations:
  - "[[Scholar's District]]"
-displayLink: "[[Crystal Dragon Library]}"
-
-]]"
+displayLink: "[[Crystal Dragon Library]]"
 ---
 
 ![[banner.jpg|banner]]
