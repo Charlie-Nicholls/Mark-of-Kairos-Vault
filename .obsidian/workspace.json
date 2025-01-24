@@ -25,17 +25,17 @@
             }
           },
           {
-            "id": "f5ee1f02c3fb630a",
+            "id": "d547f9ee505b54d3",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore"
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -224,14 +224,15 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "f5ee1f02c3fb630a",
+  "active": "d547f9ee505b54d3",
   "lastOpenFiles": [
+    "INDEX.md",
+    "conflict-files-obsidian-git.md",
     " - Copy.gitattributes",
     "Assets/Templates/NOTE.md",
     "gitignore.txt",
     "Compendium/Party/Character Sheets.md",
     "Session Notes/Session Notes.md",
-    "INDEX.md",
     "Session Notes/Arc 1 Session 4 (2024-09-21).md",
     "Session Notes/Arc 1 Session 3 (2024-09-05).md",
     "Session Notes/Arc 1 Session 2 (2024-08-26).md",
@@ -245,7 +246,6 @@
     "Untitled.md",
     "Compendium/Lore/Other/Phoenix's Prophecy.md",
     "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
-    "conflict-files-obsidian-git.md",
     "Assets/Images/NPC/imgCrochna.png",
     "Assets/Images/NPC/imgClut.jpg",
     "Assets/Images/NPC/imgCerio.png",
