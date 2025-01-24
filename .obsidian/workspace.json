@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b71a07ac9a3ba1ef",
+        "id": "c548b5f7c32574e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b82cdec137d626",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INDEX.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "INDEX"
-            }
-          },
-          {
-            "id": "d547f9ee505b54d3",
+            "id": "1766283bdd584a3f",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -38,8 +21,7 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +206,7 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "d547f9ee505b54d3",
+  "active": "1766283bdd584a3f",
   "lastOpenFiles": [
     "INDEX.md",
     "conflict-files-obsidian-git.md",
