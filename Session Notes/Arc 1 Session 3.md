@@ -1,12 +1,15 @@
 ---
 type: notes
 arc: 1
-number: 2
-date: 2024-08-26
+number: 3
+date: 2024-09-05
 locations:
-- "[[Camarath]]"
-alias: "Another Founding - Another Ending"
-displayLink: "[[Arc 1 Session 2 (2024-08-26)|1.2: Another Founding - Another Ending]]"
+  - "[[Camarath]]"
+  - "[[Hill District]]"
+  - "[[Ulrach's Clock Shop]]"
+  - "[[Shrine to Kairos]]"
+alias: Whispered Prayer - Shouted Curse
+displayLink: "[[Arc 1 Session 3|1.3: Whispered Prayer - Shouted Curse]]"
 ---
 
 ![[session.png|banner]]
@@ -31,7 +34,8 @@ ___
 Plan for the session here.
 
 ### Notes
-- Live notes from the session here.
+- Would recognise 3 of the cultists
+- Need to come up with 9 people who were killed, their age is now stored in James' ring
 
 ### Summary
 - Summary of the important points from the session here.

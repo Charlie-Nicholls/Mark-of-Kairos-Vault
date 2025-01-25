@@ -9,14 +9,14 @@ displayLink: "[[Lachi]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgLachi.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Job |  Noble |
+> | :FasBriefcase: Job | Paladin |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 31 |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -33,11 +33,15 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Lachi is tall and wearing full paladin armour, including a helmet covering most of his face.
 >^IntroText
 
 ### Description
-Description
+Lachi is a paladin of [[Kiriel]]. He's participating in a show late in the day of the [[Founding Festival]] reacting battles of Camarath's history.
+
+In [[Arc 1 Session 2]], [[Mayastan Daar|Daar]] met him in the [[Noble's District]] while he was making his way to his show to ask where [[Phoenix Aevum|Phoenix]] lived.
+
+In [[Arc 1 Session 10]], He and [[Crochna]] were making a last stand to protect some nobles from a hoard of undead but were saved by [[Mayastan Daar|Daar]] and [[Phoenix Aevum|Phoenix]]. 
 
 ### Motivations
 - List of Motivations
@@ -46,7 +50,7 @@ Description
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Kiriel]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]
@@ -55,5 +59,5 @@ Description
 - None
 
 ### Statblock
->```statblock
-name: Lachi
+> ```statblock
+> name: Lachi

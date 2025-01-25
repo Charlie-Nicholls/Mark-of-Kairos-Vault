@@ -72,11 +72,10 @@ FROM "Compendium/NPCs" AND [[#]]
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[#]]
 
+> [!recite|clean no-t]
 >	Introduction for players
 >^IntroText
 	
 ### Description
 Description of the <% type ? type.toLowerCase() + ' event' : 'event' %>, <% name %>.
-
----
 

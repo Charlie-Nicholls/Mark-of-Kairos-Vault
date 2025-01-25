@@ -9,7 +9,7 @@ locations:
   - "[[Beggar's Docks]]"
   - "[[Storm Haven]]"
 alias: See The Past - Speak The Future
-displayLink: "[[Arc 1 Session 9 (2024-11-13)|1.9: See The Past - Speak The Future]]"
+displayLink: "[[Arc 1 Session 9|1.9: See The Past - Speak The Future]]"
 ---
 
 ![[session.png|banner]]

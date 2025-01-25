@@ -4,11 +4,11 @@ arc: 1
 number: 4
 date: 2024-09-21
 locations:
-- "[[Camarath]]"
-- "[[Camarath Observatory]]"
-- "[[Monument District]]"
-alias: "TBD"
-displayLink: "[[Arc 1 Session 4 (2024-09-21)|1.4: TBD]]"
+  - "[[Camarath]]"
+  - "[[Camarath Observatory]]"
+  - "[[Monument District]]"
+alias: TBD
+displayLink: "[[Arc 1 Session 4|1.4: TBD]]"
 ---
 
 ![[session.png|banner]]

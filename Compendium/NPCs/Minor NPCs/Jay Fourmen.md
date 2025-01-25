@@ -9,14 +9,14 @@ displayLink: "[[Jay Fourmen]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgJayFourmen.webp|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Innkeeper |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 40 |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -33,11 +33,11 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Jay Fourmen has scruffy brown hair and close cut beard.
 >^IntroText
 
 ### Description
-Description
+Jay works at reception at the [[Afel's Rebirth]] and sells [[Mayastan Daar|Daar]] the map of [[Camarath]] at the start of each loop.
 
 ### Motivations
 - List of Motivations

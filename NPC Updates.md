@@ -32,17 +32,17 @@
     
 - - [x] [Crochna](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Crochna.md)
     
-- - [ ] [Debri](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Debri.md)
+- - [x] [Debri](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Debri.md)
     
-- - [ ] [Duug](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Duug.md)
+- - [x] [Duug](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Duug.md)
     
-- - [ ] [Ethwyst](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ethwyst.md)
+- - [x] [Ethwyst](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ethwyst.md)
     
-- - [ ] [Hura](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Hura.md)
+- - [x] [Hura](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Hura.md)
     
-- - [ ] [Jay Fourmen](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Jay%20Fourmen.md)
+- - [x] [Jay Fourmen](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Jay%20Fourmen.md)
     
-- - [ ] [Lachi](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Lachi.md)
+- - [x] [Lachi](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Lachi.md)
     
 - - [ ] [Malla](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Malla.md)
     
