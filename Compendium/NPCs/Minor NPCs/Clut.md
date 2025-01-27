@@ -21,12 +21,12 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Clut]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Clut]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 

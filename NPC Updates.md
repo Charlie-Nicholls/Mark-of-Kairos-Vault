@@ -44,19 +44,19 @@
     
 - - [x] [Lachi](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Lachi.md)
     
-- - [ ] [Malla](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Malla.md)
+- - [x] [Malla](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Malla.md)
     
-- - [ ] [Ollir](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ollir.md)
+- - [x] [Ollir](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ollir.md)
     
-- - [ ] [Ringly](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ringly.md)
+- - [x] [Ringly](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ringly.md)
     
-- - [ ] [Sine](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Sine.md)
+- - [x] [Sine](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Sine.md)
     
-- - [ ] [Timble](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Timble.md)
+- - [x] [Timble](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Timble.md)
     
-- - [ ] [Tela](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tela.md)
+- - [x] [Tela](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tela.md)
     
-- - [ ] [Tiva](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tiva.md)
+- - [x] [Tiva](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tiva.md)
     
 - - [ ] [Ulrach](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ulrach.md)
     

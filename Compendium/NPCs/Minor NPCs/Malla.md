@@ -9,31 +9,31 @@ displayLink: "[[Malla]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgMalla.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Carnival Operator |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Half-Elf |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 27 |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Malla]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Malla]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Malla is short, with tangled black hair and amber eyes.
 >^IntroText
 
 ### Description
@@ -58,7 +58,7 @@ Prizes:
 
 | Score |  |  |  |
 |---|---|---|---|
-| Prize |  |  |  |
+| Prize |  | [[Screaming Sword]] |  |
 
 ### Motivations
 - List of Motivations

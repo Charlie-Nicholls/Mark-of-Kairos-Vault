@@ -40,37 +40,22 @@
             }
           },
           {
-            "id": "9662298b763180d5",
+            "id": "151f6890b26739c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/NPCs/Minor NPCs/Malla.md",
+                "file": "Session Notes/Arc 1 Session 10.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Malla"
-            }
-          },
-          {
-            "id": "f82d1942edaeeec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/NPCs/Minor NPCs/Barry Barde.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Barry Barde"
+              "title": "Arc 1 Session 10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,53 +220,52 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "9662298b763180d5",
+  "active": "9cab6d8cd32a98fc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Compendium/NPCs/Minor NPCs/Malla.md",
-    "NPC Updates.md",
-    "Session Notes/Arc 1 Session 2.md",
-    "Session Notes/Arc 1 Session 3.md",
+    "Compendium/NPCs/Minor NPCs/Tela.md",
+    "Assets/Images/NPC/imgTela.png",
+    "Assets/Images/NPC/imgTela.jpg",
+    "Assets/Images/NPC/imgTela.jpg.crdownload",
     "Compendium/NPCs/Minor NPCs/Barry Barde.md",
-    "Compendium/NPCs/Minor NPCs/Lachi.md",
-    "Assets/Images/NPC/imgLachi.jpg.~tmp",
-    "Assets/Images/NPC/imgLachi.jpg",
-    "Assets/Images/NPC/imgLachi.jpg.crdownload",
-    "Session Notes/Arc 1 Session 1.md",
-    "Assets/Templates/NPC.md",
-    "INDEX.md",
-    "Compendium/NPCs/Minor NPCs/Jay Fourmen.md",
+    "Compendium/Lore/Objects/Primeval Token.md",
+    "Compendium/Lore/Objects/Primveals Token.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Kiriel's Whisper/Kiriel's Whisper.md",
+    "Compendium/NPCs/Minor NPCs/Sine.md",
+    "NPC Updates.md",
+    "Assets/Images/NPC/imgSine.png",
     "Session Notes/Arc 1 Session 10.md",
-    "Assets/Images/NPC/imgJayFourmen.webp",
-    "Assets/Images/NPC/imgJayFourmen.webp.crdownload",
-    "Compendium/Lore/Other/Founding Festival.md",
-    "Compendium/NPCs/Minor NPCs/Hura.md",
-    "Assets/Images/NPC/imgHura.png",
-    "Assets/Templates/EVENT.md",
-    "Assets/Templates/CONTINENT.md",
-    "Assets/Templates/GOD.md",
-    "Compendium/NPCs/Minor NPCs/Ethwyst.md",
-    "Assets/Images/NPC/imgEthwyst.png",
+    "Compendium/NPCs/Minor NPCs/Tiva.md",
+    "Assets/Images/NPC/imgTiva.png",
+    "Compendium/NPCs/Minor NPCs/Timble.md",
+    "Compendium/NPCs/Minor NPCs/Ringly.md",
+    "Assets/Images/NPC/imgTimble.png",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/The Ostirach Empire.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Noorbamblu/Noorbamblu.md",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Noorbamblu",
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Kaldera/Kaldera.md",
+    "Assets/Images/NPC/imgRingly.png",
+    "Compendium/NPCs/Minor NPCs/Malla.md",
+    "Compendium/NPCs/Minor NPCs/Ollir.md",
+    "INDEX.md",
+    "Assets/Images/NPC/imgOllir.png",
+    "Assets/Images/NPC/imgMalla.png",
+    "Assets/Images/imgMalla.png",
+    "Assets/imgMalla.png",
     "Compendium/NPCs/Minor NPCs/Brilla.md",
-    "Session Notes/Arc 1 Session 9.md",
-    "Session Notes/Arc 1 Session 4.md",
-    "Compendium/NPCs/Minor NPCs/Duug.md",
-    "Assets/Images/NPC/imgDuug.png",
-    "Compendium/NPCs/Minor NPCs/Vede.md",
+    "Compendium/NPCs/Minor NPCs/Cerio.md",
+    "Compendium/NPCs/Minor NPCs/Clut.md",
+    "Compendium/NPCs/Minor NPCs/Crochna.md",
     "Compendium/NPCs/Minor NPCs/Debri.md",
-    "Assets/Images/NPC/imgDebri.png",
-    "Compendium/Lore/Other/Phoenix's Prophecy.md",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District.md",
-    "Assets/Images/NPC/imgCrochna.png",
-    "Assets/Images/NPC/imgClut.jpg",
+    "Compendium/NPCs/Minor NPCs/Duug.md",
+    "Compendium/NPCs/Minor NPCs/Ethwyst.md",
+    "Compendium/NPCs/Minor NPCs/Hura.md",
+    "Assets/Images/NPC/imgLachi.jpg.~tmp",
+    "Assets/Images/NPC/imgLachi.jpg.crdownload",
+    "Assets/Images/NPC/imgJayFourmen.webp.crdownload",
     "Assets/Images/NPC/imgClut.jpg.crdownload",
-    "Assets/Images/NPC/imgCerio.png",
-    "Assets/Images/NPC/imgBrilla.png",
     "Assets/Images/NPC/imgMaera.jpg.~tmp",
     "Assets/Images/Objects/imgAmuletOfNystul.jpeg.crdownload",
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach",
-    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla",
-    "Compendium/Atlas/Desolation of Suuhula",
-    "Assets/Templates/Simple"
+    "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla"
   ]
 }
