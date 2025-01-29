@@ -9,35 +9,37 @@ displayLink: "[[Ollir]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgOllir.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Adventurer |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Elf |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 125 |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Ollir]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Ollir]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Oillir has black hair and light green eyes, and a distinctive mark on his face. He wears sturdy clothing and carries a rowan staff.
 >^IntroText
 
 ### Description
-Description
+Ollir works the desk at the [[Adventurer's Guild]].
+
+In [[Arc 1 Session 2]], he helped [[Mayastan Daar|Daar]] identify potential causes of [[Phoenix Aevum|Phoenix]]'s sickness and passed on a message to [[Vinda]] to go visit him.
 
 ### Motivations
 - List of Motivations

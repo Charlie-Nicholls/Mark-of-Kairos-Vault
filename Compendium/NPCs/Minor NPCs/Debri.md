@@ -9,7 +9,7 @@ displayLink: "[[Debri]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgDebri.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -21,27 +21,37 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Debri]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Debri]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Debri is a maid with cropped blonde hair and blue eyes.
 >^IntroText
 
 ### Description
 
 > [!recite|clean no-t]
 >	"I do apologise sir, but you were quite insitent on your 9am alarm call - said you had someone to meet. I did try a more gentle approach, knocking and shaking you awake, but nothing seemed to work. I'm relieved quite frankly, I was beginning to think you had died."
+>
 >^WakeUp
 
+> [!recite|clean no-t]
+>	"We sell a map of the city at reception for a couple silver if you're interested."
+>	"Oh and enjoy the founding festival!"
+
+
+
+- Knows fuck all about Dragonborn
+	- Doesn't understand they look dead when they sleep as a holdover from dragon hibernation
+	- Thinks [[Mayastan Daar|Daar]] is a man
 
 ### Motivations
 - List of Motivations
@@ -50,7 +60,7 @@ ___
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Jay Fourmen]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]

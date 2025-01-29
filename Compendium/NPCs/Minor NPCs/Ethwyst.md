@@ -9,7 +9,7 @@ displayLink: "[[Ethwyst]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgEthwyst.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -21,23 +21,27 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Ethwyst]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Ethwyst]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Ethwyst has a square face, with long red hair and narrow brown eyes. She wears splint mail and wields a mace and shield.
 >^IntroText
 
 ### Description
-Description
+Paladin of Afel, works at the [[Temple of Afel]]
+
+In [[Session ?]], [[Mayastan Daar|Daar]] spoke to her about the body of [[Brilla]].
+
+In [[Arc 1 Session 10]], she was rescuing people from the [[Temple of Afel]] as it burned down and needed to be rescued by [[Mayastan Daar|Daar]].
 
 ### Motivations
 - List of Motivations
@@ -46,7 +50,8 @@ Description
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Afel]]
+- [[Brilla]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]
@@ -54,5 +59,6 @@ Description
 ### Secrets
 - None
 
-### Statblock>```statblock
-name: Ethwyst
+### Statblock
+> ```statblock
+> name: Ethwyst

@@ -5,8 +5,8 @@ number: 10
 date: 2024-12-31
 locations:
   - "[[Camarath]]"
-displayLink: "[[Arc 1 Session 10 (2024-12-31)|1.10: Save The Cat - Kill The Bird]]"
-alias: "Save The Cat - Kill The Bird"
+displayLink: "[[Arc 1 Session 10|1.10: Save The Cat - Kill The Bird]]"
+alias: Save The Cat - Kill The Bird
 ---
 
 ![[session.png|banner]]
