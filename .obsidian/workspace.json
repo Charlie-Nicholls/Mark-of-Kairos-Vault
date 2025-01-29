@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c548b5f7c32574e7",
+        "id": "72448125b5a27d04",
         "type": "tabs",
         "children": [
           {
-            "id": "1766283bdd584a3f",
+            "id": "3ca4745124653627",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "INDEX.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "INDEX"
             }
           }
         ]
@@ -206,16 +207,18 @@
       "pinned-notes:Camarath": false
     }
   },
-  "active": "1766283bdd584a3f",
+  "active": "3ca4745124653627",
   "lastOpenFiles": [
     "INDEX.md",
+    "Compendium/NPCs/Minor NPCs/Jay Fourmen.md",
+    "Session Notes/Session Notes.md",
+    "Untitled.md",
+    "Session Notes/Arc 1 Session 4 (2024-09-21).md",
     "conflict-files-obsidian-git.md",
     " - Copy.gitattributes",
     "Assets/Templates/NOTE.md",
     "gitignore.txt",
     "Compendium/Party/Character Sheets.md",
-    "Session Notes/Session Notes.md",
-    "Session Notes/Arc 1 Session 4 (2024-09-21).md",
     "Session Notes/Arc 1 Session 3 (2024-09-05).md",
     "Session Notes/Arc 1 Session 2 (2024-08-26).md",
     "Session Notes/Arc 1 Session 1 (2024-08-20).md",
@@ -225,7 +228,6 @@
     "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Scholar's District/Crystal Dragon Library/Crystal Dragon Library.md",
     "Compendium/Atlas/Material Plane/Tellus/Tellus.md",
     "Compendium/Atlas/Material Plane/Material Plane.md",
-    "Untitled.md",
     "Compendium/Lore/Other/Phoenix's Prophecy.md",
     "Compendium/NPCs/Major NPCs/Glikx Tinkervoid.md",
     "Assets/Images/NPC/imgCrochna.png",
