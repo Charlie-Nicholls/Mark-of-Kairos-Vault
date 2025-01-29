@@ -56,12 +56,12 @@
     
 - - [x] [Tela](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tela.md)
     
-- - [x] [Tiva](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Tiva.md)
+- - [x] [[Tiva]]
     
-- - [ ] [Ulrach](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Ulrach.md)
+- - [ ] [[Ulrach]]
     
-- - [ ] [Vede](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Vede.md)
+- - [ ] [[Vede]]
     
-- - [ ] [Vella](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Vella.md)
+- - [ ] [[Vella]]
     
-- - [ ] [Vinda](app://obsidian.md/Compendium/NPCs/Minor%20NPCs/Vinda.md)
+- - [ ] [[Vinda]]
