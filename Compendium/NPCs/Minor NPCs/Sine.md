@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Crystal Dragon Library]]"
 displayLink: "[[Sine]]"
+cover: "/Assets/Images/NPC/imgSine.png"
 ---
 ###### Sine
 <span class="sub2">:FasMapLocationDot: [[Crystal Dragon Library#Crystal Dragon Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>

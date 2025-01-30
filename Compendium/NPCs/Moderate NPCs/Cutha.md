@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Cutha]]"
+cover: "/Assets/Images/NPC/imgCutha.png"
 ---
 ###### Cutha
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>

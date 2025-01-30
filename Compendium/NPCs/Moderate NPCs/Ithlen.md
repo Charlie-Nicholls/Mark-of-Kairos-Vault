@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Ithlen]]"
+cover: "/Assets/Images/NPC/imgIthlen.jpg"
 ---
 ###### Ithlen
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>

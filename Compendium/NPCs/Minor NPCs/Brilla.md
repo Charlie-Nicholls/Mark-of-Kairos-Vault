@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Temple of Afel]]"
 displayLink: "[[Brilla]]"
+cover: "/Assets/Images/NPC/imgBrilla.png"
 ---
 ###### Brilla
 <span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Dead </span>
@@ -16,7 +17,7 @@ ___
 > | :FasBriefcase: Job |  Cleric |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Dwarf |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 47 |
 >
 >> [!info]- STORYLINES
 >>```dataview

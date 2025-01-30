@@ -20,7 +20,6 @@ ___
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[Cult of the Primeval]]
----
 
 > [!recite|clean no-t]
 >	Introduction for players
@@ -35,4 +34,4 @@ Description of Cult of the Primeval, the true neutral aligned organization.
 - [[Mata Starheart]]
 - [[Vede]]
 - [[Ulrach]]
-- 
+- [[Brilla]]

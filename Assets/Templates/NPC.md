@@ -58,6 +58,7 @@ type: npc
 locations:
  - <% location ? `"[[${location}]]"` : '' %>
 displayLink: "[[<% name %>]]"
+cover: "/Assets/Images/NPC/img<% name %>"
 ---
 ###### <% name %>
 <span class="sub2"><% sub ? sub : '' %> </span>

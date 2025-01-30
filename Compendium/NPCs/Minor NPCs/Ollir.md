@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Adventurer's Guild]]"
 displayLink: "[[Ollir]]"
+cover: "/Assets/Images/NPC/imgOllir.png"
 ---
 ###### Ollir
 <span class="sub2">:FasMapLocationDot: [[Adventurer's Guild#Adventurer's Guild]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

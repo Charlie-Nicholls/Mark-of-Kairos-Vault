@@ -4,6 +4,7 @@ locations:
  - "[[The Dark Storm]]"
 displayLink: "[[Laika Tinkervoid]]"
 alias: "Laika"
+cover: "/Assets/Images/NPC/imgLaikaTinkervoid.jpg"
 ---
 ###### Laika Tinkervoid
 <span class="sub2">:FasMapLocationDot: [[The Dark Storm#The Dark Storm]] | :FasHeartPulse: Unkown </span>

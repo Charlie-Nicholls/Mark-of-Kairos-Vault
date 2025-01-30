@@ -3,6 +3,7 @@ type: npc
 locations:
   - "[[Statue of Eron]]"
 displayLink: "[[Cerio]]"
+cover: "/Assets/Images/NPC/imgCerio.png"
 ---
 ###### Cerio
 <span class="sub2">:FasMapLocationDot: [[Statue of Eron#Statue of Eros]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

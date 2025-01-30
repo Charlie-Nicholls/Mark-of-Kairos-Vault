@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath Square]]"
 displayLink: "[[Duug]]"
+cover: "/Assets/Images/NPC/imgDuug.png"
 ---
 ###### Duug
 <span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
@@ -37,7 +38,7 @@ ___
 >^IntroText
 
 ### Description
-Runs the ring toss at centre of [[Camarath Square]] and speaks with a deep enigmatic voice. Knows [[Vede]] who donated the [[Goldfish Sphere]] to use as a prize to get rid of it.
+Runs the ring toss at centre of [[Camarath Square]] and speaks with a deep enigmatic voice. Knows [[Vede]] who sold him the [[Goldfish Sphere]] to use as a prize to get rid of it.
 When [[Il'Zuk]] rises, a shard of the pillar, attracted by the synergistic space magic of the [[Goldfish Sphere]] shoots out at high speed towards it. Without intervention Duug is standing in front of the pillar and is killed. [[Il'Zuk]] steals his vocal system when he awakens.
 
 #### Carnival Game - Ring Toss

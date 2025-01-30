@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Shrine to Kairos]]"
 displayLink: "[[Boda]]"
+cover: "/Assets/Images/NPC/imgBoda.png"
 ---
 ###### Boda
 <span class="sub2">:FasMapLocationDot: [[Healer's Guild]] | :FasHeartPulse: Dead </span>

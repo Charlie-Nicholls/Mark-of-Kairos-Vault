@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Maera]]"
+cover: "/Assets/Images/NPC/imgMaera.jpg"
 ---
 ###### Maera
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>

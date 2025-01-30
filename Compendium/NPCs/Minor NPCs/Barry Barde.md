@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath Square]]"
 displayLink: "[[Barry Barde]]"
+cover: "/Assets/Images/NPC/imgBarryBarde.png"
 ---
 ###### Barry Barde
 <span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

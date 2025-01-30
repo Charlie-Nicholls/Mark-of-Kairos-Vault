@@ -46,7 +46,6 @@ ___
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[#]]
----
 
 > [!recite|clean no-t]
 >	Introduction for players

@@ -20,7 +20,6 @@ ___
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[Hand of Twilight]]
----
 
 > [!recite|clean no-t]
 >	Introduction for players

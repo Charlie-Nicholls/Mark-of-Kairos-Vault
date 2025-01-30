@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Scholar's District]]"
 displayLink: "[[Clut]]"
+cover: "/Assets/Images/NPC/imgClut.jpg"
 ---
 ###### Clut
 <span class="sub2">:FasMapLocationDot: [[Scholar's District#Scholar's District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

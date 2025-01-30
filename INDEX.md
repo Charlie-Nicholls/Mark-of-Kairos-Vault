@@ -32,33 +32,40 @@ dv.table(["cover", "name", "details"],
 );
 ```
 
-> [!session]-  Session Notes<br><span class="sub">Summaries, Transcripts, & Notes</span>
+> [!session]-  [[Session Notes]]<br><span class="sub">Summaries, Transcripts, & Notes</span>
 > ```dataviewjs
 > dv.container.className += ' listMe';
 > let pages = dv.pages('"Session Notes"').sort(p => p.date, "desc");  
->dv.table(["Date"], pages.map(page => [`- ${page.displayLink}`]));
->```
+> dv.table(["Date"], pages.map(page => [`- ${page.displayLink}`]));
+> ```
 > `BUTTON[note]`
 
-> [!npc]-   NPCs<br><span class="sub">Non-Player Characters</span>
+> [!npc]-   [[NPCs]]<br><span class="sub">Non-Player Characters</span>
 > ```dataviewjs
 > dv.container.className += ' listMe';
-> let pages = dv.pages('"Compendium/NPCs"').sort(p => p.file.name, "asc");  
-> dv.table(["Name"], pages.map(page => [`- ${page.displayLink}`]));
->```
+> dv.el("b", "Major NPCs")
+> let major = dv.pages('"Compendium/NPCs/Major NPCs"').sort(p => p.file.name, "asc");  
+> dv.table(["Name"], major.map(page => [`- ${page.displayLink}`]));
+> dv.el("b", "Moderate NPCs")
+> let moderate = dv.pages('"Compendium/NPCs/Moderate NPCs"').sort(p => p.file.name, "asc");  
+> dv.table(["Name"], moderate.map(page => [`- ${page.displayLink}`]));
+> dv.el("b", "Minor NPCs")
+> let minor = dv.pages('"Compendium/NPCs/Minor NPCs"').sort(p => p.file.name, "asc");  
+> dv.table(["Name"], minor.map(page => [`- ${page.displayLink}`]));
+> ```
 > `BUTTON[npc]`
 
 > [!agenda]-  The Party<br><span class="sub">Objectives, Players, & Quests</span>
 >```dataviewjs
->dv.container.className += ' listMe';
->let pages = dv.pages('"Compendium/Party/Quests"').sort(p => p.file.name, "asc");
->dv.table(["Name", "Status"], pages.map(page => {
->const questStatusTerms = ["completed", "abandoned", "failed", "ongoing", "pending"];
->let status = questStatusTerms.find(term => page.status && page.status.includes(term));
->status = status ? `(${status.replace("quest/", "")})` : "";
->return [`- ${page.displayLink} ${status}`, status];
->}));
->```
+> dv.container.className += ' listMe';
+> let pages = dv.pages('"Compendium/Party/Quests"').sort(p => p.file.name, "asc");
+> dv.table(["Name", "Status"], pages.map(page => {
+> const questStatusTerms = ["completed", "abandoned", "failed", "ongoing", "pending"];
+> let status = questStatusTerms.find(term => page.status && page.status.includes(term));
+> status = status ? `(${status.replace("quest/", "")})` : "";
+> return [`- ${page.displayLink} ${status}`, status];
+> }));
+> ```
 > `BUTTON[pc]` `BUTTON[quest]`
 
 > [!genloc]-  Locations<br><span class="sub">Countries, Settlements, & Topography</span>
@@ -66,13 +73,13 @@ dv.table(["cover", "name", "details"],
 > dv.container.className += ' listMe';
 > let pages = dv.pages('"Compendium/Atlas"').sort(p => p.file.name, "asc");  
 > dv.table(["Name", "Type"], pages.map(page => [`- ${page.displayLink} (${page.type})`, page.type]));
->```
+> ```
 >`BUTTON[plane, realm, continent, territory, province, locale, landmark]`
 
 > [!lore]-  Lore & Mythos<br><span class="sub">Factions, Gods, Relics, & More</span> 
 > ```dataviewjs
 > dv.container.className += ' listMe';
 > let pages = dv.pages('"Compendium/Lore"').sort(p => p.file.name, "asc");  
->dv.table(["Name", "Type"], pages.map(page => [`- ${page.displayLink} (${page.type})`, page.type]));
->```
+> dv.table(["Name", "Type"], pages.map(page => [`- ${page.displayLink} (${page.type})`, page.type]));
+> ```
 > `BUTTON[deity, event, object, org]`

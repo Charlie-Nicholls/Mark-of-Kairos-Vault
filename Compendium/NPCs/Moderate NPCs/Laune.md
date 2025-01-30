@@ -4,6 +4,7 @@ locations:
  - "[[Camarath]]"
 displayLink: "[[Laune]]"
 alias: "The Spark of Life"
+cover: "/Assets/Images/NPC/imgLaune.jpg"
 ---
 ###### Laune
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Timble]]"
+cover: "/Assets/Images/NPC/imgTimble.png"
 ---
 ###### Timble
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

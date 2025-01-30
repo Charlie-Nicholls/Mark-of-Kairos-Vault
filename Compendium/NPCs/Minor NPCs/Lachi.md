@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Noble's District]]"
 displayLink: "[[Lachi]]"
+cover: "/Assets/Images/NPC/imgLachi.jpg"
 ---
 ###### Lachi
 <span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

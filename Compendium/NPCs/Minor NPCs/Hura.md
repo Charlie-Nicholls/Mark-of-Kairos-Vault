@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Guild District]]"
 displayLink: "[[Hura]]"
+cover: "/Assets/Images/NPC/imgHura.png"
 ---
 ###### Hura
 <span class="sub2">:FasMapLocationDot: [[Guild District#Guild District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

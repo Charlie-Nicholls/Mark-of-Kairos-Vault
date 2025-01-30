@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Temple of Afel]]"
 displayLink: "[[Ethwyst]]"
+cover: "/Assets/Images/NPC/imgEthwyst.png"
 ---
 ###### Ethwyst
 <span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

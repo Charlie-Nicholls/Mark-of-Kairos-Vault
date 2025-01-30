@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Hill District]]"
 displayLink: "[[Tela]]"
+cover: "/Assets/Images/NPC/imgTela.png"
 ---
 ###### Tela
 <span class="sub2">:FasMapLocationDot: [[Hill District#Hill District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>

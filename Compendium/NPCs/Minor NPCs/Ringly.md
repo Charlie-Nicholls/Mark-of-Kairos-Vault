@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Ringly]]"
+cover: "/Assets/Images/NPC/imgRingly.png"
 ---
 ###### Ringly
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>

@@ -3,20 +3,21 @@ type: npc
 locations:
  - "[[Camarath]]"
 displayLink: "[[Vinda]]"
+cover: "/Assets/Images/NPC/imgVinda.png"
 ---
 ###### Vinda
 <span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgVinda.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Cleric |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 34 |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -33,20 +34,23 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Vinda is short, with blonde hair and hazel eyes. He wears a pin with the symbol of the adventurers guild.
 >^IntroText
 
 ### Description
-Description
+Vinda is a cleric of [[Achiel]] and an adventurer with healing skills and member of the [[Adventurer's Guild]]. 
+
+In [[Arc 1 Session 2]] when he visited the [[Adventurer's Guild]], [[Ollir]] passed on [[Mayastan Daar|Daar]]'s message about [[Phoenix]] needing a healer. Arrived just after [[Il'Zuk]]'s rise, in time to save [[Mayastan Daar|Daar]] after they dropped unconscious but not [[Phoenix Aevum|Phoenix]].
 
 ### Motivations
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- Healer
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Adventurer's Guild]]
+- [[Ollir]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]
@@ -55,5 +59,5 @@ Description
 - None
 
 ### Statblock
->```statblock
-name: Vinda
+> ```statblock
+> name: Vinda
