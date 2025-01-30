@@ -100,7 +100,6 @@
   "Compendium/NPCs/Moderate NPCs/Laune.md": "RiBearSmileFill",
   "Compendium/NPCs/Moderate NPCs/Boda.md": "FasPerson",
   "Compendium/NPCs/Moderate NPCs/Cutha.md": "FasPerson",
-  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/NPCs/Moderate NPCs/Ithlen.md": "FasPerson",
   "Compendium/NPCs/Minor NPCs/Barry Barde.md": "FasPerson",
   "Compendium/NPCs/Minor NPCs/Brilla.md": "FasPerson",
@@ -168,19 +167,6 @@
   "Compendium/Lore/Other/Loss of Laika Cutscene.md": "LiTv",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi": "LiAtom",
   "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword",
-<<<<<<< HEAD
   "Compendium/NPCs/Minor NPCs/Lici.md": "FasPerson",
-  "Session Notes/Arc 1 Session 10.md": "LiNotepadText",
-  "Session Notes/Arc 1 Session 9.md": "LiNotepadText",
-  "Session Notes/Arc 1 Session 4.md": "LiNotepadText",
-  "Session Notes/Arc 1 Session 3.md": "LiNotepadText",
-  "Session Notes/Arc 1 Session 2.md": "LiNotepadText",
-  "Session Notes/Arc 1 Session 1.md": "LiNotepadText",
-  "Compendium/Lore/Other/Phoenix's Prophecy.md": "FasScroll",
-  "Compendium/Lore/Other/Founding Festival.md": "FasBullhorn",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Noorbamblu": "FasCity",
-  "Location Updates.md": "LiList"
-=======
-  "Compendium/NPCs/Minor NPCs/Lici.md": "FasPerson"
->>>>>>> origin/main
+  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson"
 }
