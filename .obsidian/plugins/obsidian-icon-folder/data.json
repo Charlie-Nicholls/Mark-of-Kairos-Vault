@@ -100,7 +100,6 @@
   "Compendium/NPCs/Moderate NPCs/Laune.md": "RiBearSmileFill",
   "Compendium/NPCs/Moderate NPCs/Boda.md": "FasPerson",
   "Compendium/NPCs/Moderate NPCs/Cutha.md": "FasPerson",
-  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/NPCs/Moderate NPCs/Ithlen.md": "FasPerson",
   "Compendium/NPCs/Minor NPCs/Barry Barde.md": "FasPerson",
   "Compendium/NPCs/Minor NPCs/Brilla.md": "FasPerson",
@@ -169,6 +168,7 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hawker's Caverns/Shrine to Diracmi": "LiAtom",
   "Compendium/Lore/Objects/Great Sword Supernova.md": "LiSword",
   "Compendium/NPCs/Minor NPCs/Lici.md": "FasPerson",
+<<<<<<< HEAD
   "Session Notes/Arc 1 Session 10.md": "LiNotepadText",
   "Session Notes/Arc 1 Session 9.md": "LiNotepadText",
   "Session Notes/Arc 1 Session 4.md": "LiNotepadText",
@@ -182,4 +182,7 @@
   "Compendium/NPCs/Major NPCs": "FasUsers",
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers"
+=======
+  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson"
+>>>>>>> origin/main
 }
