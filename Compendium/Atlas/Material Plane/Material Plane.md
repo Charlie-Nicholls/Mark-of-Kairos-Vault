@@ -3,18 +3,18 @@ type: plane
 displayLink: "[[Material Plane]]"
 ---
 
-![[imgMaterialPlane.avif|banner]]
+![[imgMaterialPlane.jpg|banner]]
 ###### Material Plane
 <span class="sub2">:FasCircleHalfStroke: Plane of Existence</span>
 ___
 
 
 > [!recite|clean no-t]
->	Introduction for players
+>	This material plane is the domain of the Primevals, all of the stars, planets and wider cosmos make it up.
 >^IntroText
 
 ### Description
-The Material plane (also seen as Prime Material Plane) is the plane in which [[Toril]] and the surrounding cosmos exist. The phrase "Prime Material plane," or simply the "Prime," is generally used by beings from other planes in the multiverse to refer to the inhabitants of the Material Plane.
+The Material plane (also seen as Prime Material Plane) is the plane in which [[Tellus]] and the surrounding cosmos exist. The phrase "Prime Material plane," or simply the "Prime," is generally used by beings from other planes in the multiverse to refer to the inhabitants of the Material Plane. This is the plane which the [[Primevals]] rule over.
 
 ---
 

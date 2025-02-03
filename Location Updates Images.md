@@ -1,6 +1,6 @@
-### Description
+### Images
 
-- - [ ] [Lothlonde](app://obsidian.md/Lothlonde) (continent)
+- - [x] [Lothlonde](app://obsidian.md/Lothlonde) (continent)
     
 - - [ ] [Shrine to Scathach](app://obsidian.md/Shrine%20to%20Scathach) (landmark)
     
@@ -44,13 +44,13 @@
     
 - - [ ] [Hawker's Caverns](app://obsidian.md/Hawker's%20Caverns) (locale)
     
-- - [ ] [Camarath](app://obsidian.md/Camarath) (locale)
+- - [x] [Camarath](app://obsidian.md/Camarath) (locale)
     
 - - [ ] [Hill District](app://obsidian.md/Hill%20District) (locale)
     
 - - [ ] [Monument District](app://obsidian.md/Monument%20District) (locale)
     
-- - [ ] [Beggar's Docks](app://obsidian.md/Beggar's%20Docks) (locale)
+- - [x] [Beggar's Docks](app://obsidian.md/Beggar's%20Docks) (locale)
     
 - - [ ] [Noble's District](app://obsidian.md/Noble's%20District) (locale)
     
@@ -64,14 +64,14 @@
     
 - - [ ] [Noorbamblu](app://obsidian.md/Noorbamblu) (locale)
     
-- - [ ] [Material Plane](app://obsidian.md/Material%20Plane) (plane)
+- - [x] [Material Plane](app://obsidian.md/Material%20Plane) (plane)
     
-- - [ ] [The Dark Storm](app://obsidian.md/The%20Dark%20Storm) (realm)
+- - [x] [The Dark Storm](app://obsidian.md/The%20Dark%20Storm) (realm)
     
-- - [ ] [Tellus](app://obsidian.md/Tellus) (realm)
+- - [x] [Tellus](app://obsidian.md/Tellus) (realm)
     
-- - [ ] [Desolation of Suuhulla](app://obsidian.md/Desolation%20of%20Suuhulla) (territory)
+- - [x] [Desolation of Suuhulla](app://obsidian.md/Desolation%20of%20Suuhulla) (territory)
     
-- - [ ] [Hestrela](app://obsidian.md/Hestrela) (territory)
+- - [x] [Hestrela](app://obsidian.md/Hestrela) (territory)
     
-- - [ ] [The Ostirach Empire](app://obsidian.md/The%20Ostirach%20Empire) (territory)
+- - [x] [The Ostirach Empire](app://obsidian.md/The%20Ostirach%20Empire) (territory)
