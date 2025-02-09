@@ -16,6 +16,5 @@
   "defaultViewMode": "preview",
   "rightToLeft": false,
   "propertiesInDocument": "hidden",
-  "focusNewTab": true,
-  "showRibbon": true
+  "focusNewTab": true
 }
