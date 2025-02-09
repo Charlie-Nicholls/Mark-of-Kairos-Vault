@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFiles",
       "FasCircleHalfStroke",
       "LiNotebookPen",
       "FasAddressBook",
-      "FasChalkboard",
-      "FasGlobe"
+      "FasChalkboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -147,7 +147,7 @@
   "Compendium/Lore/Deities/Primevals": "LiStars",
   "Compendium/DM Toolbox/Working Note.md": "LiNotebookPen",
   "Assets": "LiImage",
-  "Assets/Templates": "FasNoteSticky",
+  "Assets/Templates": "LiFiles",
   "Assets/Images": "FasImagePortrait",
   "Compendium/Party/Player Characters/Mayastan Daar.md": "FasBurst",
   "Compendium/Party/Character Sheets.md": "RiFileUserFill",
