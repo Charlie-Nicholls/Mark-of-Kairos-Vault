@@ -12,7 +12,7 @@
       "FasAddressBook",
       "FasChalkboard"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 14,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -28,7 +28,7 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconsInLinksEnabled": true,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,

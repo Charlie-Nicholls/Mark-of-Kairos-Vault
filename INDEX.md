@@ -16,7 +16,7 @@ dv.table(["cover", "name"],
     .map(p => [
       `![](${vault}/${p.cover})`, // For image link use: [![](${vault}/${p.cover})](<${p.file.name}#${p.file.name}>)
       p.displayLink,
-      obsidian.Platform.isMobile ? `<center> :FasUserGroup: ${p.race}<br>:RiSwordFill: ${p.class} </center>` : `<center> :FasUserGroup: ${p.race} / :RiSwordFill: ${p.class} </center>`
+      obsidian.Platform.isMobile ? `<center> :FasUserGroup: ${p.race}\n:RiSwordFill: ${p.class} </center>` : `<center> :FasUserGroup: ${p.race}\n:RiSwordFill: ${p.class} </center>`
     ])
 );
 
