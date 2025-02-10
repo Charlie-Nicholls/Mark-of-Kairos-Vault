@@ -39,11 +39,10 @@ ___
 >^IntroText
 
 ### Description
-The previous chosen of [[Kairos]] and older sister of [[Glikx Tinkervoid|Glikx]]. She showed the gift of prophecy at a young age and was chosen by the then chosen of [[Kairos]] to be the next holder of the [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]].  [[The Ring of Glikx]] was originally a gift to her from her brother. She saw glimpses into the future in which she saw her home of [[Kaldera]] destroyed by volcanic eruption and relayed this to [[Glikx Tinkervoid|Glikx]] but on the way to battle [[Il'Zuk]] Taranis, influenced by Scathach, sent a powerful storm  while they were sailing to Camarath to fight [[Il'Zuk]] in which she [[Loss of Laika Cutscene|fell from the ship]]. At the last second she managed to enter the [[Ring of Glikx]] which was claimed by [[Taranis]] and given to [[Scathach]]. She is now trapped, falling into [[The Dark Storm]].
+The previous chosen of [[Kairos]] and older sister of [[Glikx Tinkervoid|Glikx]]. [[The Ring of Glikx]] was originally a gift to her from her brother. **Redacted** Taranis, influenced by [[Scathach]], sent a powerful storm while they were sailing to [[Camarath]] to fight [[Il'Zuk]] in which she [[Loss of Laika Cutscene|fell from the ship]]. **Redacted**
 
 ### Motivations
 - Defeat [[Il'Zuk]]
-- Save [[Kaldera]]
 
 ### Magic Items / Abilities
 - [[Ring of Glikx]] (formerly)
@@ -58,8 +57,4 @@ The previous chosen of [[Kairos]] and older sister of [[Glikx Tinkervoid|Glikx]]
 - [[Taranis]]
 
 ### Secrets
-- None
-
-### Statblock
->```statblock
-name: Laika Tinkervoid
+- 

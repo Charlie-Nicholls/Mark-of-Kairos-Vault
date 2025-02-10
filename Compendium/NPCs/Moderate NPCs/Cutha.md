@@ -38,10 +38,10 @@ ___
 >^IntroText
 
 ### Description
-Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating [[Comrath]] she became one of the leaders of [[Camarath]] and works on defending the city from monsters and as the head of the [[Adventurer's Guild]]. She is naturally introverted and more empathic than the other members of the [[Hand of Twilight]], and would be the easiest to convince of the return of [[Il'Zuk]].
+Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating [[Comrath]] she became one of the leaders of [[Camarath]] and works on defending the city from monsters and as the head of the [[Adventurer's Guild]]. 
 
 ### Motivations
-- Protection of [[Camarath]]
+- 
 
 ### Magic Items / Abilities
 - Unknown
@@ -57,8 +57,4 @@ Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating
 - [[Comrath]]
 
 ### Secrets
-- None
-
-### Statblock
->```statblock
-name: Cutha
+- 

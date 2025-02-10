@@ -38,12 +38,10 @@ ___
 >^IntroText
 
 ### Description
-Ithlen is one of [[Hestrela]]'s premier archmages and the leader of the city of [[Camarath]]. She is driven by dreams of fame and power, to raise the status of her city and herself to one of the most powerful in [[Lothlonde]]. After the defeat of [[Comrath]] she used magic to enslave [[Laune]], keeping her around for protection, as a status symbol and forcing her to use her connection to [[Diracmi]] to allow [[Camarath]] to flourish. Without interference, in each loop when [[Il'Zuk]] rises she attempts to stand against him but is killed, freeing [[Laune]].
+Ithlen is one of [[Hestrela]]'s premier archmages and the leader of the city of [[Camarath]]. **Redacted**. Without interference, in each loop when [[Il'Zuk]] rises she attempts to stand against him but is killed.
 
 ### Motivations
-- Power
-- Fame and glory
-- Protecting and raising the status of [[Camarath]]
+- 
 
 ### Magic Items / Abilities
 - Unknown
@@ -55,13 +53,7 @@ Ithlen is one of [[Hestrela]]'s premier archmages and the leader of the city of 
 - [[Hand of Twilight]]
 
 ### Enemies
-- [[Laune]]
 - [[Comrath]]
 
 ### Secrets
-- Keep [[Laune]] under control using enslavement magic, using her as a symbol of status and self protection
-
-### Statblock
->```statblock
-name: Ithlen
-creature: Archmage
+- 
