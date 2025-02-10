@@ -17,7 +17,7 @@ ___
 > | :FasBriefcase: Job |  Paladin |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Dwarf |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 31 |
 >
 >> [!info]- STORYLINES
 >>```dataview

@@ -17,7 +17,7 @@ ___
 > | :FasBriefcase: Job |  Carnival Operator |
 > | :FasVenusMars: Gender | Male |
 > | :FasUser: Race | Half-Orc |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 35 |
 >
 >> [!info]- STORYLINES
 >>```dataview
