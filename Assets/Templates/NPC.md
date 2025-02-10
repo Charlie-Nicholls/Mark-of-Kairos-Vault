@@ -109,7 +109,3 @@ Description
 
 ### Secrets
 - None
-
-### Statblock
->```statblock
-name: <% name %>
