@@ -17,7 +17,7 @@ ___
 > | :FasBriefcase: Job |  Maid |
 > | :FasVenusMars: Gender | Female |
 > | :FasUser: Race | Human |
-> | :FasClock: Age | ? |
+> | :FasClock: Age | 21 |
 >
 >> [!info]- STORYLINES
 >>```dataview
