@@ -42,20 +42,16 @@ Sine works the reception at the [[Crystal Dragon Library]].
 In [[Arc 1 Session 10]], Sine and his cat are trapped under the rubble and were rescued by [[Mayastan Daar|Daar]] and [[Phoenix Aevum|Phoenix]].
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Sine
+- 

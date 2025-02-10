@@ -43,22 +43,16 @@ Run's [[Ulrach's Clock Shop]] in the [[Hill District]]. He is a member of the [[
 In [[Session ?]], [[Mayastan Daar|Daar]] intimidated him into showing him the entrance to the [[Shrine to Kairos]], before knocking him unconscious and leaving him near one of his coocoo clocks.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Cult of the Primeval]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
 - Member of the [[Cult of the Primeval]]
-
-### Statblock
-> ```statblock
-> name: Ulrach
-> stats: [8, 14, 10, 14, 8, 10]
-> skillsaves: [Arcana: 4, History: 4, Religion: 4]

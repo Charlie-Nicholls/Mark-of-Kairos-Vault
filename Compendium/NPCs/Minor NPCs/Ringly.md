@@ -49,20 +49,13 @@ In [[Arc 1 Session 8]], they are one again escorted to the caverns but do not go
 - Learn about the history of [[Camarath]] and its legends
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Timble]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Ringly
-> stats: [8,14,12,16,12,10]
-> skillsaves: [History: 7, Religion: 5]
-> hp: 8
+- 

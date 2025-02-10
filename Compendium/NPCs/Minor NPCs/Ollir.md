@@ -43,20 +43,16 @@ Ollir works the desk at the [[Adventurer's Guild]].
 In [[Arc 1 Session 2]], he helped [[Mayastan Daar|Daar]] identify potential causes of [[Phoenix Aevum|Phoenix]]'s sickness and passed on a message to [[Vinda]] to go visit him.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
->```statblock
-name: Ollir
+- 

@@ -45,20 +45,16 @@ When [[Phoenix Aevum|Phoenix]] falls sick in [[Arc 1 Session 2]], she hires [[Hu
 In [[Arc 1 Session 10]], she has risen as a zombie and is attacking [[Crochna]] and [[Lachi]].
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Phoenix Aevum]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Vella
+- 

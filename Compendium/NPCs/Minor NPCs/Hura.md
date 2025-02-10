@@ -41,21 +41,17 @@ ___
 Young healer at the [[Healer's Guild]], on duty for the day of the [[Founding Festival]] in case of emergencies. He is a cleric of [[Zeriel]] and as such is good at physical healing, but bad at soul healing. When [[Phoenix Aevum|Phoenix]] had soul sickness after encountering [[Il'Zuk]] in [[Arc 1 Session 1]], [[Vella]] would take him to [[Phoenix's House]] to try and help [[Phoenix Aevum|Phoenix]] but he was largely ineffective.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Boda]]
 - [[Zeriel]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Hura
+- 

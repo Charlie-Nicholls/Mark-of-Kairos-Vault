@@ -41,20 +41,16 @@ ___
 Jay works at reception at the [[Afel's Rebirth]] and sells [[Mayastan Daar|Daar]] the map of [[Camarath]] at the start of each loop.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
->```statblock
-name: Jay Fourmen
+- 

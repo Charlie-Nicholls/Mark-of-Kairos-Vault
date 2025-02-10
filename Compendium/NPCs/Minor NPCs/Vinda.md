@@ -43,7 +43,7 @@ Vinda is a cleric of [[Achiel]] and an adventurer with healing skills and member
 In [[Arc 1 Session 2]] when he visited the [[Adventurer's Guild]], [[Ollir]] passed on [[Mayastan Daar|Daar]]'s message about [[Phoenix]] needing a healer. Arrived just after [[Il'Zuk]]'s rise, in time to save [[Mayastan Daar|Daar]] after they dropped unconscious but not [[Phoenix Aevum|Phoenix]].
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
 - Healer
@@ -53,11 +53,7 @@ In [[Arc 1 Session 2]] when he visited the [[Adventurer's Guild]], [[Ollir]] pas
 - [[Ollir]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Vinda
+- 

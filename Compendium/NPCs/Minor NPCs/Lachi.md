@@ -45,20 +45,16 @@ In [[Arc 1 Session 2]], [[Mayastan Daar|Daar]] met him in the [[Noble's District
 In [[Arc 1 Session 10]], He and [[Crochna]] were making a last stand to protect some nobles from a hoard of undead but were saved by [[Mayastan Daar|Daar]] and [[Phoenix Aevum|Phoenix]]. 
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Kiriel]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Lachi
+- 

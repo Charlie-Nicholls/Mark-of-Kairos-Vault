@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCoinFill",
       "LiFiles",
       "FasCircleHalfStroke",
       "LiNotebookPen",
@@ -174,5 +175,5 @@
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
-  "NPC Redactions.md": "LiList"
+  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill"
 }
