@@ -4,7 +4,6 @@
   "dataview",
   "folder-notes",
   "link-headers-directly",
-  "obsidian-icon-folder",
   "obsidian-meta-bind-plugin",
   "modalforms",
   "obsidian-sortable",
@@ -15,5 +14,6 @@
   "global-search-and-replace",
   "obsidian-leaflet-plugin",
   "pinned-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "iconic"
 ]

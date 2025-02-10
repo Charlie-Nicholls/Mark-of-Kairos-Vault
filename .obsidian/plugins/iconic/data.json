@@ -1,0 +1,59 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 80,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Compendium/DM Toolbox": {
+      "icon": "lucide-hammer",
+      "unsynced": [
+        "f94fee9a648f1dd3"
+      ]
+    },
+    "INDEX.md": {
+      "icon": "lucide-indent-increase"
+    },
+    "Session Notes/Arc 1 Session 1.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Session Notes/Arc 1 Session 10.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Session Notes/Arc 1 Session 2.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Session Notes/Arc 1 Session 3.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Session Notes/Arc 1 Session 4.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Session Notes/Arc 1 Session 9.md": {
+      "icon": "lucide-notepad-text"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
