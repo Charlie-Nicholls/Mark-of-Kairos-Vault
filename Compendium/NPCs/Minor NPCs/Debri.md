@@ -39,39 +39,19 @@ ___
 
 ### Description
 
-> [!recite|clean no-t]
->	"I do apologise sir, but you were quite insitent on your 9am alarm call - said you had someone to meet. I did try a more gentle approach, knocking and shaking you awake, but nothing seemed to work. I'm relieved quite frankly, I was beginning to think you had died."
->
->^WakeUp
-
-> [!recite|clean no-t]
->	"We sell a map of the city at reception for a couple silver if you're interested."
->	"Oh and enjoy the founding festival!"
-
-
-
-- Knows fuck all about Dragonborn
-	- Doesn't understand they look dead when they sleep as a holdover from dragon hibernation
-	- Thinks [[Mayastan Daar|Daar]] is a man
+Debri wakes [[Mayastan Daar|Daar]] up at the start of most loops. She knows very little about Dragonborn and neither understands they can look dead when they sleep (as a holdover from dragon hibernation) and thinks [[Mayastan Daar|Daar]] is a man.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
 - [[Jay Fourmen]]
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Debri
-> creature: Commoner
-> languages: "common"
-> actions: 
+- 

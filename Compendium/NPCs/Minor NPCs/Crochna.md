@@ -45,22 +45,17 @@ During [[Session ?]], [[Mayastan Daar|Daar]] asked her to direct him to [[Phoeni
 During [[Arc 1 Session 10|1.10 Save The Cat - Kill The Bird]], she and [[Lachi]] were saved by [[Mayastan Daar|Daar]] whilst making a last stand to protect civilian nobles from a horde of undead.
 
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-
->```statblock
->name: Crochna
+- 
 

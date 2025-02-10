@@ -44,18 +44,13 @@ Cerio is the only priest of [[Eron]] in the city and maintains the [[Statue of E
 - Maintain the [[Statue of Eron]]
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+-
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Cerio
-> creature: Priest
+- 

@@ -47,49 +47,17 @@ Runs two times per hour. Try to knock opponents off their mounts. On your turn y
 
 Each rider also has a lasso. If within **15 ft.** of another rider you can make a **Dexterity (Sleight of Hand)** check with disadvantage against the other rider's **Dexterity (Acrobatics)**. Last one standing wins.
 
-> ```statblock
-> creature: Goat
-
-
-7 Opponents have stats as follows:
-
-| Name | Dexterity Save | Animal Handling | Sleight of Hand | Acrobatics
-| :---: | :---: | :---: | :---: | :---: |
-| Ageth (F, Human) | 3 |  4 | -2 | 3 | 
-| Berny (M, Human) | -2 | 5  | -1| 2 |
-| Cynwe (F, Human) | -1 | -1 | 2 | -1 |
-| Dine (F, Halfling) | 3 | 0 | -2 | -2 |
-| Enelung (M, Elf) | 3 | -1 | 2 | -2 |
-| Finnle (M, Elf) | 1 | 2 | 0 | -1 |
-| Geola (F, Elf) | 0 | 2 | 4 | 4 |
-
-**Prizes:** 1st then 2nd then 3rd get to pick in order from the following list:
- - [[Potion of Healing]] (2nd NPC pick)
- - [[Bird of Silent Abuse]]
- - [[Lock of Trickery]]
- - [[Pole of Collapsing]]
- - [[Lingos]]
- - [[Slippers of Spider Climbing]] (1st NPC pick)
-
-
-
 ### Motivations
-- List of Motivations
+- 
 
 ### Magic Items / Abilities
-- None
+- 
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- 
 
 ### Secrets
-- None
-
-### Statblock
-> ```statblock
-> name: Clut
-> stats: [15,14,13,10,8,12]
-> creature: Satyr
+- 
