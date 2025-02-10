@@ -41,7 +41,7 @@ ___
 Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating [[Comrath]] she became one of the leaders of [[Camarath]] and works on defending the city from monsters and as the head of the [[Adventurer's Guild]]. 
 
 ### Motivations
-- 
+- Protection of [[Camarath]]
 
 ### Magic Items / Abilities
 - Unknown

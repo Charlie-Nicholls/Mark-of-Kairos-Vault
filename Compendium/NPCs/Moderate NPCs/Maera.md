@@ -44,7 +44,7 @@ Maera is a human fighter and member of the [[Hand of Twilight]]. After defeating
 - Protection of [[Camarath]]
 
 ### Magic Items / Abilities
-- Unknown
+-
 
 ### Allies
 - [[Ithlen]]
@@ -56,8 +56,4 @@ Maera is a human fighter and member of the [[Hand of Twilight]]. After defeating
 - [[Comrath]]
 
 ### Secrets
-- None
-
-### Statblock
->```statblock
-name: Maera
+- 

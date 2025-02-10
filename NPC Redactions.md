@@ -64,8 +64,8 @@
     
 - - [x] [Laika Tinkervoid](app://obsidian.md/Laika%20Tinkervoid)
     
-- - [ ] [Maera](app://obsidian.md/Maera)
+- - [x] [Maera](app://obsidian.md/Maera)
     
-- - [ ] [Laune](app://obsidian.md/Laune)
+- - [x] [Laune](app://obsidian.md/Laune)
     
 - - [ ] [NPCs](app://obsidian.md/NPCs)
