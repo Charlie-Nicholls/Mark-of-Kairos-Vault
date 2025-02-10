@@ -31,7 +31,6 @@ ___
 ---
 
 ### Plan
-Start with [[Loss of Laika Cutscene]].
 
 ### Notes
 - Live notes from the session here.
