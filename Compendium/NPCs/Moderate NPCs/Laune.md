@@ -43,6 +43,8 @@ Laune was created by [[Comrath]] during her time spent on [[Camarath]] as a mani
 
 After [[Ithlen]] is killed by [[Il'Zuk]] in each loop, she is freed and turns on the rest of the [[Hand of Twilight]], killing [[Anec]] and [[Cutha]]. Then flees to edge of the island, jumping into the sea and swimming to [[Hawker's Caverns]] and recovering in her home at the [[Shrine to Diracmi]]. 
 
+In [[Arc 1 Session 9]], she met [[Daar]] and [[Phoenix]] in [[Hawker's Caverns]] after she fled, injured, from [[Il'Zuk]]s attack. She seemed amiable to the group, but needed to rest and heal and would not return to the surface with them. Initial attempts to communicate with her failed, but [[Daar]] eventually discovered she understood draconic.
+
 ### Motivations
 - To be freed from [[Ithlen]]'s control
 - To kill the [[Hand of Twilight]] as revenge for her servitude and [[Comrath]]'s death.
