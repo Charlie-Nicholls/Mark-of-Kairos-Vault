@@ -8,14 +8,19 @@ displayLink: "[[Laika's Prophecy]]"
 ___
 
 > [!recite|clean no-t]
->	Prophecy
+>	The war we fight can not be won;
+>	Victory burns out every sun.
+>	Duty must come at a cost,
+>	Chosen fall and caged and wait and lost.
+>	Speak to the bird reborn in flame,
+>	When ending ruler seeks to start their reign
 >^Prophecy
 
 ### Description
 Description of the Prophecy.
 
 ### Explanation
-Description of the Prophecy.
+
 
 ---
 
