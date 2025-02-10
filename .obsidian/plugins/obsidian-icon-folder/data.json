@@ -172,5 +172,6 @@
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
-  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill"
+  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
+  "Compendium/DM Toolbox": "RiToolsFill"
 }
