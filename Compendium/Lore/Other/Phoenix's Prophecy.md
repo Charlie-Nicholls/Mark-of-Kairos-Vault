@@ -21,7 +21,7 @@ ___
 >^Prophecy
 
 ### Description
-[[Phoenix Aevum|Phoenix]] produced this prophecy in the first loop where he visited the [[Shrine to Kairos]]. He mentioned some of the implications briefly to [[Mayastan Daar|Daar]] when they first met inside the loop. When they reached the [[Shrine to Diracmi]] they found it carved into the walls in draconic, which [[Phoenix Aevum|Phoenix]] immediately deemed as impossible as it had clearly been there since before he produced it. When the time link was established to [[Glikx Tinkervoid|Glikx]] and [[Comrath]] in the past, they told them the prophecy and [[Comrath]] shifted a finger into a claw and carved it into the wall using earth magic in her native draconic.
+[[Phoenix Aevum|Phoenix]] produced this prophecy in the first loop where he visited the [[Shrine to Kairos]]. He mentioned some of the implications briefly to [[Mayastan Daar|Daar]] when they first met inside the loop. When they reached the [[Shrine to Diracmi]] they found it carved into the walls in draconic, which [[Phoenix Aevum|Phoenix]] immediately deemed as impossible as it had clearly been there since before he produced it. When the time link was established to [[Glikx Tinkervoid|Glikx]] and [[Comrath]] in the past, they told them the prophecy and [[Comrath]] shifted a finger into a claw, carving it into the wall using earth magic in her native draconic.
 
 ### Explanation
 1. Fairly simple, [[Scathach]] wants to bring about a state of maximum entropy

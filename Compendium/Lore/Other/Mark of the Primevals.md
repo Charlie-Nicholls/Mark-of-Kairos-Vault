@@ -25,7 +25,7 @@ A Mark of the [[Primevals]] give the bearers powerful magics to help balance the
 
 #### The Mark of Kairos
 
-[[Kairos]]' Mark was passed down through powerful bloodlines of those with the gift of prophecy. [[Laika Tinkervoid|Laika]] was the last bearer of the mark but was [[Loss of Laika Cutscene|taken by Taranis]] before passing it on. Visiting [[Kairos]]' domain is by far the hardest to do and exactly how it was originally done was a secret lost to time. No-one has been able to find a way to obtain it since.
+[[Kairos]]' Mark was passed down through powerful bloodlines of those with the gift of prophecy. [[Laika Tinkervoid|Laika]] was the last bearer of the mark but was [[Loss of Laika Cutscene|taken by Taranis]] before passing it on. Visiting [[Kairos]]' domain is by far the hardest to do and exactly how it was originally done was a secret lost to time. No-one has been able to find a way to obtain it since. The Mark is currently held by [[Phoenix Aevum]], who has no idea how he got it, and [[Mayastan Daar]] who obtained it unwillingly when [[Il'Zuk]] attempted to copy it from [[Phoenix Aevum|Phoenix]].
 
 #### The Mark of Scathach
 
