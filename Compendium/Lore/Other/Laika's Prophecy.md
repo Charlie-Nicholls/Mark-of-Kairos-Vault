@@ -17,10 +17,15 @@ ___
 >^Prophecy
 
 ### Description
-Description of the Prophecy.
+[[Laika Tinkervoid]]'s last prophecy, produced shortly before she [[Loss of Laika Cutscene|fell from her ship]]. [[Mayastan Daar|Daar]] and [[Phoenix Aevum|Phoenix]] were told this prophecy during [[Arc 1 Session 9]] by [[Glikx Tinkervoid|Glikx]] and [[Comrath]] communicating through time.
 
 ### Explanation
-
+1.
+2.
+3.
+4.
+5.
+6.
 
 ---
 
