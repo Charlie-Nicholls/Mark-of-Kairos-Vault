@@ -48,11 +48,7 @@ ___
 >	"We sell a map of the city at reception for a couple silver if you're interested."
 >	"Oh and enjoy the founding festival!"
 
-
-
-- Knows fuck all about Dragonborn
-	- Doesn't understand they look dead when they sleep as a holdover from dragon hibernation
-	- Thinks [[Mayastan Daar|Daar]] is a man
+Debri wakes [[Mayastan Daar|Daar]] up at the start of most loops. She knows very little about Dragonborn and neither understands they can look dead when they sleep (as a holdover from dragon hibernation) and thinks [[Mayastan Daar|Daar]] is a man.
 
 ### Motivations
 - List of Motivations
