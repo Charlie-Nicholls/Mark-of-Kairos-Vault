@@ -50,7 +50,7 @@ ___
 >^Cutscene
 
 ### Description
-[[Laika Tinkervoid]] deliver's her final [[Laika's Prophecy|prophecy]] before the storm, sent by [[Taranis]] on instruction from [[Scathach]], sweeps her off the deck and she falls to what is believed to be her death. However, she enters the [[Ring of Glikx]] just before she hits the water and [[Taranis]] claims the ring, with [[Laika Tinkervoid|Laika]] inside as he can claim items lost during storms.
+[[Laika Tinkervoid]] deliver's her final [[Laika's Prophecy|prophecy]] before the storm, sent by [[Taranis]] on instruction from [[Scathach]], sweeps her off the deck and she falls.
 
 ---
 
