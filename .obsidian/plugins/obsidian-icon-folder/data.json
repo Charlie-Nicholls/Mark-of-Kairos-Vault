@@ -6,6 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPerson",
+      "LiSword",
+      "RiToolsFill",
+      "FasToolbox",
       "FasCircle",
       "FasExplosion",
       "RiQuestionFill",
@@ -169,6 +173,8 @@
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
-  "Compendium/Lore/Other/Small Bang.md": "FasExplosion",
-  "Compendium/Lore/Other/True Vacuum.md": "FasCircle"
+  "Compendium/DM Toolbox": "RiToolsFill",
+  "Compendium/DM Toolbox/Encounter Design.md": "LiSword",
+  "Compendium/DM Toolbox/NPC Creation.md": "FasPerson",
+  "Compendium/DM Toolbox/Working Note.md": "LiNotebookPen"
 }
