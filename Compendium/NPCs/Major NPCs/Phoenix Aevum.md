@@ -71,7 +71,7 @@ Phoenix Aevum comes from a long line of prestigious nobility, variously devoted 
 
 He would wake up again at the start of the day of the founding festival and found himself in a time-loop. Most of his time in the loops were spent fighting and training, trying to become strong enough to defeat [[Il'Zuk]] in combat, assuming this was the purpose [[Kairos]] had for him. In an early loop he discovered the [[Shrine to Kairos]] under [[Ulrach's Clock Shop]]. After praying to her at the shrine, he would produce his first [[Phoenix's Prophecy|Prophecy]]. After a while he started leaving the island to attempt to find stronger monsters to train against than were available on [[Camarath]]. He would occasionally take relaxation loops where he met up with [[Mayastan Daar|Daar]] and played carnival games again. 
 
-It was during one of these loops that [[Il'Zuk]] would pin him down while he attempted to prevent him from reaching the [[Crystal Dragon Library]] and found he bore the [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]]. While attempting to copy the mark, [[Mayastan Daar|Daar]] would break free of his control and get between him and Phoenix, causing the mark to attach to her soul instead. After this attack on his soul, Phoenix suffered from soul sickness as his soul healed. When [[Mayastan Daar|Daar]] found a way to heal him, she killed him to reset the loop before informing him she was also inside it so he spent the next couple of loops leaving the island to train again before [[Mayastan Daar|Daar]] found a way to communicate with him.
+It was during one of these loops in [[Arc 1 Session 1]] that [[Il'Zuk]] would pin him down while he attempted to prevent him from reaching the [[Crystal Dragon Library]] and found he bore the [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]]. While attempting to copy the mark, [[Mayastan Daar|Daar]] would break free of his control and get between him and Phoenix, causing the mark to attach to her soul instead. After this attack on his soul, Phoenix suffered from soul sickness as his soul healed. When [[Mayastan Daar|Daar]] found a way to heal him, she killed him to reset the loop before informing him she was also inside it so he spent the next couple of loops leaving the island to train again before [[Mayastan Daar|Daar]] found a way to communicate with him.
 
 ### Motivations
 - Defeat [[Il'Zuk]]
@@ -91,5 +91,4 @@ It was during one of these loops that [[Il'Zuk]] would pin him down while he att
 - [[Anec]]
 
 ### Secrets
-- None
-
+- 

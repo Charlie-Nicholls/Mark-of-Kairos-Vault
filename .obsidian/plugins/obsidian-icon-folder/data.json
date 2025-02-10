@@ -170,9 +170,9 @@
   "Compendium/Lore/Other/Phoenix's Prophecy.md": "FasScroll",
   "Compendium/Lore/Other/Founding Festival.md": "FasBullhorn",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/Noorbamblu": "FasCity",
-  "Location Updates.md": "LiList",
   "Compendium/NPCs/Major NPCs": "FasUsers",
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
-  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson"
+  "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
+  "NPC Redactions.md": "LiList"
 }
