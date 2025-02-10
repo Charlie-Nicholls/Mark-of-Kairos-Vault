@@ -45,13 +45,13 @@ When [[Il'Zuk]] rises, a shard of the pillar, attracted by the synergistic space
 
 **Cost:** 2sp
 
-5 poles which are attempted in order of difficulty, moving on to the next one on a sucessful Dexterity (Sleight of Hand) check:
+5 poles which are attempted in order of difficulty, moving on to the next one on a successful Dexterity (Sleight of Hand) check:
 
 | Distance | Close | Near | Far | Very Far | Far & High |
 |---|---|---|---|---|---|
 | Difficulty |DC4|DC7|DC10|DC12|DC15|
 
-Prizes:
+**Prizes:**
 
 | Score | 3 | 4 | 5 |
 |---|---|---|---|
