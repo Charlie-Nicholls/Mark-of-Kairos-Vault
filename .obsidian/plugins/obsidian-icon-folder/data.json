@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCircle",
+      "FasExplosion",
       "RiQuestionFill",
       "RiCoinFill",
       "LiFiles",
@@ -166,5 +168,7 @@
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
-  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill"
+  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
+  "Compendium/Lore/Other/Small Bang.md": "FasExplosion",
+  "Compendium/Lore/Other/True Vacuum.md": "FasCircle"
 }
