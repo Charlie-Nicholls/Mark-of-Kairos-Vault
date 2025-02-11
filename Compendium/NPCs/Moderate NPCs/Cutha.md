@@ -6,7 +6,7 @@ displayLink: "[[Cutha]]"
 cover: "/Assets/Images/NPC/imgCutha.png"
 ---
 ###### Cutha
-<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

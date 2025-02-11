@@ -6,7 +6,7 @@ displayLink: "[[Anec]]"
 cover: "/Assets/Images/NPC/imgAnec.jpg"
 ---
 ###### Anec
-<span class="sub2">:FasMapLocationDot: [[Camarath]] &nbsp; | &nbsp; :FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath]]  |  :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

@@ -11,7 +11,7 @@ function formatSub(status, npc) {
     npc && `:FasUser: [[${npc}#${npc}]]`
   ]
   .filter(sub => sub)
-  .join('&nbsp;&nbsp;|&nbsp;&nbsp;');
+  .join(' | ');
 }
 
 // ###########################################################

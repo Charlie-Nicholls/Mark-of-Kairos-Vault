@@ -14,7 +14,7 @@ class: "Wizard"
 subClass: "Divination"
 ---
 ###### Mata Starheart
-<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

@@ -6,7 +6,7 @@ displayLink: "[[Hura]]"
 cover: "/Assets/Images/NPC/imgHura.png"
 ---
 ###### Hura
-<span class="sub2">:FasMapLocationDot: [[Guild District#Guild District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Guild District#Guild District]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

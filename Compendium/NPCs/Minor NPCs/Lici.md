@@ -6,7 +6,7 @@ displayLink: "[[Lici]]"
 cover: "/Assets/Images/NPC/imgLici.png"
 ---
 ###### Lici
-<span class="sub2">:FasMapLocationDot: [[Camarath Observatory#Camarath Observatory]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath Observatory#Camarath Observatory]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

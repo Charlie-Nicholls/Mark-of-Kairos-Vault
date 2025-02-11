@@ -6,7 +6,7 @@ displayLink: "[[Maera]]"
 cover: "/Assets/Images/NPC/imgMaera.jpg"
 ---
 ###### Maera
-<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath#Camarath]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

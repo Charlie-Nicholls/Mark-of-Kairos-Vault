@@ -6,7 +6,7 @@ displayLink: "[[Malla]]"
 cover: "/Assets/Images/NPC/imgMalla.png"
 ---
 ###### Malla
-<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

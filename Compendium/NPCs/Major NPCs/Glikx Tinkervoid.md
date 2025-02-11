@@ -11,7 +11,7 @@ class: "Artificer"
 subClass: "Spatial"
 ---
 ###### Glikx Tinkervoid
-<span class="sub2">:FasMapLocationDot: [[Kaldera#Kaldera]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Kaldera#Kaldera]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

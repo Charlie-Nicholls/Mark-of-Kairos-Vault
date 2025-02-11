@@ -6,7 +6,7 @@ displayLink: "[[Ollir]]"
 cover: "/Assets/Images/NPC/imgOllir.png"
 ---
 ###### Ollir
-<span class="sub2">:FasMapLocationDot: [[Adventurer's Guild#Adventurer's Guild]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Adventurer's Guild#Adventurer's Guild]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

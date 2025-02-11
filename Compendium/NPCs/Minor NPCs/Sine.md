@@ -6,7 +6,7 @@ displayLink: "[[Sine]]"
 cover: "/Assets/Images/NPC/imgSine.png"
 ---
 ###### Sine
-<span class="sub2">:FasMapLocationDot: [[Crystal Dragon Library#Crystal Dragon Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Crystal Dragon Library#Crystal Dragon Library]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

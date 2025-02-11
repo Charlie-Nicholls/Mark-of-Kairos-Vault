@@ -6,7 +6,7 @@ displayLink: "[[Crochna]]"
 cover: "/Assets/Images/NPC/imgCrochna.png"
 ---
 ###### Crochna
-<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

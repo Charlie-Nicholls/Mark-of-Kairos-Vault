@@ -14,7 +14,7 @@ aliases: ["Daar", "Tippy"]
 ---
 
 ###### Mayastan "Tippy" Daar
-<span class="sub2"> :FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: You waaaaaant? :FasQuoteRight: </span>
+<span class="sub2"> :FasPerson: Player Character  |  :FasQuoteLeft: You waaaaaant? :FasQuoteRight: </span>
 ___
 
 > [!infobox|no-t right]

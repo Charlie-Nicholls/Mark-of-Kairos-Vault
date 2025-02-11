@@ -6,7 +6,7 @@ displayLink: "[[Lachi]]"
 cover: "/Assets/Images/NPC/imgLachi.jpg"
 ---
 ###### Lachi
-<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

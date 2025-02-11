@@ -6,7 +6,7 @@ displayLink: "[[Debri]]"
 cover: "/Assets/Images/NPC/imgDebri.png"
 ---
 ###### Debri
-<span class="sub2">:FasMapLocationDot: [[Afel's Rebirth#Afel's Rebirth]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Afel's Rebirth#Afel's Rebirth]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

@@ -6,7 +6,7 @@ displayLink: "[[Cerio]]"
 cover: "/Assets/Images/NPC/imgCerio.png"
 ---
 ###### Cerio
-<span class="sub2">:FasMapLocationDot: [[Statue of Eron#Statue of Eros]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Statue of Eron#Statue of Eros]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

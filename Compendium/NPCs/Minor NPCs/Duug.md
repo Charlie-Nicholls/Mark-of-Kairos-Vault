@@ -6,7 +6,7 @@ displayLink: "[[Duug]]"
 cover: "/Assets/Images/NPC/imgDuug.png"
 ---
 ###### Duug
-<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
