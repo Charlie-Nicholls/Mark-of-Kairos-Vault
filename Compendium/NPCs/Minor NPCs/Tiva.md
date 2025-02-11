@@ -6,7 +6,7 @@ displayLink: "[[Tiva]]"
 cover: "/Assets/Images/NPC/imgTiva.png"
 ---
 ###### Tiva
-<span class="sub2">:FasMapLocationDot: [[Temple of Taranis#Temple of Taranis]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Temple of Taranis#Temple of Taranis]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

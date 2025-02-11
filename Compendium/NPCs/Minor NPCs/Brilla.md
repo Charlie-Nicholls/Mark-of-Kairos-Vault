@@ -6,7 +6,7 @@ displayLink: "[[Brilla]]"
 cover: "/Assets/Images/NPC/imgBrilla.png"
 ---
 ###### Brilla
-<span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Dead </span>
+<span class="sub2">:FasMapLocationDot: [[Temple of Afel#Temple of Afel]] | :FasHeartPulse: Dead </span>
 ___
 
 > [!infobox|no-t right]

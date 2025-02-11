@@ -6,7 +6,7 @@ displayLink: "[[Ulrach]]"
 cover: "/Assets/Images/NPC/imgUlrach.png"
 ---
 ###### Ulrach
-<span class="sub2">:FasMapLocationDot: [[Ulrach's Clock Shop#Ulrach's Clock Shop]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Ulrach's Clock Shop#Ulrach's Clock Shop]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

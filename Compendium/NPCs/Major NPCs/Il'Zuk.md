@@ -11,7 +11,7 @@ subClass: "Necromancy"
 alias: "Iltar Zukarrus"
 ---
 ###### Il'Zuk
-<span class="sub2">:FasMapLocationDot: [[The Eternal Pillar#The Eternal Pillar]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[The Eternal Pillar#The Eternal Pillar]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

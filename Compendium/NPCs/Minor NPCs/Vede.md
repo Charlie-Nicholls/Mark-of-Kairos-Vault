@@ -6,7 +6,7 @@ displayLink: "[[Vede]]"
 cover: "/Assets/Images/NPC/imgVede.png"
 ---
 ###### Vede
-<span class="sub2">:FasMapLocationDot: [[Hill District#Hill District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Hill District#Hill District]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

@@ -6,7 +6,7 @@ displayLink: "[[Vella]]"
 cover: "/Assets/Images/NPC/imgVella.png"
 ---
 ###### Vella
-<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Noble's District#Noble's District]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

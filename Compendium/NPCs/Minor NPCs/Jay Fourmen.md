@@ -6,7 +6,7 @@ displayLink: "[[Jay Fourmen]]"
 cover: "/Assets/Images/NPC/imgJayFourmen.webp"
 ---
 ###### Jay Fourmen
-<span class="sub2">:FasMapLocationDot: [[Afel's Rebirth#Afel's Rebirth]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Afel's Rebirth#Afel's Rebirth]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

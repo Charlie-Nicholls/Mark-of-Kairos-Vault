@@ -6,7 +6,7 @@ displayLink: "[[Barry Barde]]"
 cover: "/Assets/Images/NPC/imgBarryBarde.png"
 ---
 ###### Barry Barde
-<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Camarath Square#Camarath Square]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
