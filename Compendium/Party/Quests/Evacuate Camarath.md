@@ -15,12 +15,11 @@ Quest description here...
 ### Objectives
  - [ ] Objective
 
-### Stages
- - [ ] Stage 1
-
-
 ### Plan
 
+
+### Notes
+-
 
 ___
 > [!column|flex 3]

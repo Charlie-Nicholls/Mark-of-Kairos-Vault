@@ -13,13 +13,17 @@ ___
 Quest description here...
 
 ### Objectives
- - [ ] Objective
-
-### Stages
- - [ ] Stage 1
+ - [x] Kill [[Boda]]
+ - [ ] Kill [[Anec]]
+ - [ ] Evacuate The Astral Scryers
+ - [ ] Destroy The [[Shrine to Kairos]]
+ - [ ] Prevent The Resurrection of [[Comrath]]
 
 ### Plan
 
+
+### Notes
+-
 
 ___
 > [!column|flex 3]
