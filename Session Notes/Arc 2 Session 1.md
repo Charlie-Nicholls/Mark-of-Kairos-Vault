@@ -4,9 +4,9 @@ arc: 2
 number: 1
 date: 2025-02-13
 locations:
-- "[[Camarath]]"
-alias: "TBD"
-displayLink: "[[Arc 2 Session 1 (2025-02-13)|2.1: TBD]]"
+  - "[[Camarath]]"
+alias: TBD
+displayLink: "[[Arc 2 Session 1|2.1: TBD]]"
 ---
 
 ![[session.png|banner]]
@@ -28,11 +28,13 @@ ___
 ---
 
 ### Plan
-Daar wakes up as normal, Mata 
+[[Mayastan Daar|Daar]] wakes up as normal, [[Mata Starheart|Mata]] is in the ring with the body of [[Boda]]. Phoenix wakes up in his house as normal and makes his way to [[Kiriel's Whisper]] to meet [[Mayastan Daar|Daar]].
 
 ![[Debri#^WakeUp|clean collapse no-l]]
 
+On the way to the [[Kiriel's Whisper]], [[Mata Starheart|Mata]] and Daar can discuss a plan.
 
+Two parallel questlines for before [[Il'Zuk]]'s rise, [[Delay The Ritual]] and [[Evacuate Camarath]].
 
 ### Notes
 - Live notes from the session here.
