@@ -38,9 +38,14 @@ ___
 >^IntroText
 
 ### Description
+#### Background
 Anec is one of the member of the [[Hand of Twilight]] who run [[Camarath]]. He is also leader of the [[Cult of the Primeval]]. He operates in the shadows, assassinating any who stand against the Hand. He once sought to gain the [[Mark of the Primevals|Mark of Scathach]] and travelled to the [[Shrine to Scathach]] in the [[Desolation of Suuhulla]] to summon them and become their chosen a few years ago. However, since [[Il'Zuk]] was not dead, and only one may have the mark at once, the ritual failed and corrupted his soul, allowing [[Scathach]] to turn him into an undead servant of [[Il'Zuk]]. Ever since he has been working to prepare for and hasten his return, his undead nature is hidden behind illusions caused by his [[Amulet of Nystul]]. [[Scathach]] gave him the [[Entropic Dagger]] dagger, a weapon designed specifically to counter the atomic magic of [[Diracmi]], which would allow him to slay [[Comrath]].
 
+[[Anec]] lives in a nondescript house in the south of the Noble's district. Where the other members of the [[Hand of Twilight]] have large houses, identifying his house from the outside is virtually impossible, and only the other member's of the [[Hand of Twilight]] know where it is. Inside the house looks remarkably unlived in, bed still made, no plates and no possessions strewn about. Looking closer one might find rotten food in the pantry or mould growing in the bathroom. He spends most of his time in a secret basement amongst death and decay. Where his plans for [[Il'Zuk]]'s rise are found and his diary from life documenting his travel's to the [[Desolation of Suuhulla]] to obtain the [[Mark of the Primevals|Mark of Scathach]] can be found, albeit age has rendered them hard to read.
+
+#### Founding Festival
 He summons many of the [[Cult of the Primeval]] to [[Ulrach]]'s on the morning of the founding festival, drugging them and draining their soul's time into a [[Bottle of Age]]. He then goes to the [[Camarath Observatory|Observatory]] and forces [[Mata Starheart|Mata]] to map out [[The Dark Storm]], driving her mad in the process. When [[Il'Zuk]] rises he gives him the [[Bottle of Age]] and Map of [[The Dark Storm]], before turning on the rest of the [[Hand of Twilight]]. In the default timeline he kills [[Maera]] before being killed by [[Laune]].
+
 
 ### Motivations
 - Free [[Il'Zuk]]
