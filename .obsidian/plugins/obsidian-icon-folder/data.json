@@ -6,6 +6,12 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBook",
+      "FasHouse",
+      "FasClock",
+      "RiSailboatFill",
+      "FasCircleExclamation",
+      "LiNotepadText",
       "FasPerson",
       "LiSword",
       "RiToolsFill",
@@ -13,12 +19,7 @@
       "FasCircle",
       "FasExplosion",
       "RiQuestionFill",
-      "RiCoinFill",
-      "LiFiles",
-      "FasCircleHalfStroke",
-      "LiNotebookPen",
-      "FasAddressBook",
-      "FasChalkboard"
+      "RiCoinFill"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -174,5 +175,5 @@
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
   "Compendium/DM Toolbox": "RiToolsFill",
-  "Compendium/Lore/Other/Il'Zuk's Plan.md": "RiQuestionFill"
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse"
 }

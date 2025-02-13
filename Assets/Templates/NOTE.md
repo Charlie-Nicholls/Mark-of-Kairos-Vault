@@ -23,7 +23,7 @@ const title = result.Title.value;
 const location = result.Location.value ? result.Location.value.map(value => `- "[[${value}]]"`).join("\n") : '';
 const arc = result.Arc.value;
 const number = result.Number.value;
-const name = `Arc ${arc} Session ${number} (${date})`;
+const name = `Arc ${arc} Session ${number}`;
 
 if (result.status === 'ok') {
 
