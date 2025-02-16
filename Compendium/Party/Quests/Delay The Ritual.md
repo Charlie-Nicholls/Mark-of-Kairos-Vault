@@ -39,7 +39,7 @@ There are seven trained Astral Scryers working for [[Camarath Observatory]].
 - [[Lici]] -  Junior Scryer - Tour leader
 - [[Duina]] - Student - Tour leader
 
-If enough of these scryers are taken by [[Il'Zuk]] or [[Anec]] they will be able to map out [[The Dark Storm]]. [[Mata]] is capable of doing so alone in 2 hours. Two senior Scryers would take 2.5 hours each. and 4 Junior/Student Scryers would take 3 hours each. If enough of the scryers can be evacuated or are killed before the mapping, this will successfully delay the ritual until [[Il'Zuk]] can find more trained Scryers.
+If enough of these scryers are taken by [[Il'Zuk]] or [[Anec]] they will be able to map out [[The Dark Storm]]. [[Mata Starheart|Mata]] is capable of doing so alone in 2 hours. Two senior Scryers would take 2.5 hours each. and 4 Junior/Student Scryers would take 3 hours each. If enough of the scryers can be evacuated or are killed before the mapping, this will successfully delay the ritual until [[Il'Zuk]] can find more trained Scryers.
 
 #### Destroy The [[Shrine to Kairos]]
 [[Boda]]'s death will prevent [[Anec]] from performing the sacrifice for the [[Bottle of Age]], but [[Il'Zuk]] will be easily capable of this once he has risen. The only way to prevent this long term is to destroy the [[Shrine to Kairos]] to force him to travel to the next nearest shrine. 
