@@ -6,7 +6,6 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasSailboat",
       "FasBook",
       "FasHouse",
       "FasClock",
@@ -19,7 +18,8 @@
       "FasToolbox",
       "FasCircle",
       "FasExplosion",
-      "RiQuestionFill"
+      "RiQuestionFill",
+      "RiCoinFill"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -175,7 +175,7 @@
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
   "Compendium/DM Toolbox": "RiToolsFill",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse",
+  "Compendium/Party/Quests/Evacuate Camarath.md": "RiSailboatFill",
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
-  "Compendium/Party/Quests/Evacuate Camarath.md": "FasSailboat"
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse"
 }

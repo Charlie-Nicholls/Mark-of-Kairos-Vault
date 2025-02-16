@@ -7,8 +7,6 @@ displayLink: "[[Crystal Dragon Library]]"
 ---
 
 ![[banner.jpg|banner]]
-
----
 ###### Crystal Dragon Library
 <span class="sub2">:FasBookOpen: Library</span>
 
