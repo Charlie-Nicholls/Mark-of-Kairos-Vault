@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCity",
       "FasBook",
       "FasHouse",
       "FasClock",
@@ -18,8 +19,7 @@
       "FasToolbox",
       "FasCircle",
       "FasExplosion",
-      "RiQuestionFill",
-      "RiCoinFill"
+      "RiQuestionFill"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -184,5 +184,6 @@
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse",
   "Compendium/Lore/Objects/Anec's Diary.md": "FasBook",
-  "Session Notes/Arc 2 Session 1.md": "LiNotepadText"
+  "Session Notes/Arc 2 Session 1.md": "LiNotepadText",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity"
 }

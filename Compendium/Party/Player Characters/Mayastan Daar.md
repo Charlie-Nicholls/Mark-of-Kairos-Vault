@@ -6,11 +6,15 @@ level: 5
 ac: 15
 hp: 38
 modifier: 2
-race: "Dragonborn"
-class: "Warlock"
-subClass: "Taranis"
-cover: "/Assets/Images/Party/imgMayastanDaar.jpeg"
-aliases: ["Daar", "Tippy"]
+race: Dragonborn
+class: Warlock
+subClass: Taranis
+cover: /Assets/Images/Party/imgMayastanDaar.jpeg
+aliases:
+  - Daar
+  - Tippy
+share_link: https://share.note.sx/05ls9yza#NYjt4Nhb5/hOriH+D9Go9r3++t7ue+F7gfOrQ/KM1cM
+share_updated: 2025-02-17T16:08:56+00:00
 ---
 
 ###### Mayastan "Tippy" Daar
