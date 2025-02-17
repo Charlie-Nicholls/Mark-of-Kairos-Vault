@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCity",
       "FasBook",
       "FasHouse",
       "FasClock",
@@ -18,8 +19,7 @@
       "FasToolbox",
       "FasCircle",
       "FasExplosion",
-      "RiQuestionFill",
-      "RiCoinFill"
+      "RiQuestionFill"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -177,5 +177,6 @@
   "Compendium/DM Toolbox": "RiToolsFill",
   "Compendium/Party/Quests/Evacuate Camarath.md": "RiSailboatFill",
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse"
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity"
 }
