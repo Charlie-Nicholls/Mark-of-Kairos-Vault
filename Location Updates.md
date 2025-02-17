@@ -1,8 +1,40 @@
-```dataviewjs
-let pages = dv.pages('"Compendium/Atlas"').sort(p => p.number, "asc"); 
-let places = [];
-for (let i=0; i < pages.length; i++) {
-	places.push(`- [ ] [[${pages[i].file.name}]]`);
-	}
-dv.list(places)
-```
+- - [ ] [[Material Plane]]
+- - [ ] [[Lothlonde]]
+- - [ ] [[Beggar's Docks]]
+- - [ ] [[Camarath]]
+- - [ ] [[Adventurer's Guild]]
+- - [ ] [[Guild District]]
+- - [ ] [[Healer's Guild]]
+- - [ ] [[Camarath Square]]
+- - [ ] [[The Eternal Pillar]]
+- - [ ] [[Hill District]]
+- - [ ] [[Kiriel's Whisper]]
+- - [ ] [[Shrine to Kairos]]
+- - [ ] [[Ulrach's Clock Shop]]
+- - [ ] [[Camarath Observatory]]
+- - [ ] [[Monument District]]
+- - [ ] [[Shrine to Vacuuous]]
+- - [ ] [[Statue of Eron]]
+- - [ ] [[Hawker's Caverns]]
+- - [ ] [[Shrine to Diracmi]]
+- - [ ] [[Anec's House]]
+- - [ ] [[Noble's District]]
+- - [ ] [[Phoenix's House]]
+- - [ ] [[Crystal Dragon Library]]
+- - [ ] [[Scholar's District]]
+- - [ ] [[Sentry District]]
+- - [ ] [[Afel's Rebirth]]
+- - [ ] [[Shrine to Afel]]
+- - [ ] [[Temple of Afel]]
+- - [ ] [[Storm Haven]]
+- - [ ] [[Temple of Taranis]]
+- - [ ] [[Hestrela]]
+- - [ ] [[The Academy of the Devout]]
+- - [ ] [[Shrine to Scathach]]
+- - [ ] [[Desolation of Suuhulla]]
+- - [ ] [[Kharakzar]]
+- - [ ] [[Kaldera]]
+- - [ ] [[The Ostirach Empire]]
+- - [ ] [[Noorbamblu]]
+- - [ ] [[Tellus]]
+- - [ ] [[The Dark Storm]]
