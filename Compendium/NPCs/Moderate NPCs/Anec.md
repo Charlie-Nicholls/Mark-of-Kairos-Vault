@@ -1,9 +1,11 @@
 ---
 type: npc
 locations:
- - "[[Camarath]]"
+  - "[[Camarath]]"
 displayLink: "[[Anec]]"
-cover: "/Assets/Images/NPC/imgAnec.jpg"
+cover: /Assets/Images/NPC/imgAnec.jpg
+share_link: https://share.note.sx/gvoc82p9#LFII4DzYRb6iWLLWMpkcBO18yly37vA4Gi+PUo/tn58
+share_updated: 2025-02-18T23:40:02+00:00
 ---
 ###### Anec
 <span class="sub2">:FasMapLocationDot: [[Camarath]] &nbsp; | &nbsp; :FasHeartPulse: Hostile </span>

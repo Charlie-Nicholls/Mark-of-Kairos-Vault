@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCopperCoinFill",
       "FasCity",
       "FasBook",
       "FasHouse",
@@ -18,8 +19,7 @@
       "RiToolsFill",
       "FasToolbox",
       "FasCircle",
-      "FasExplosion",
-      "RiQuestionFill"
+      "FasExplosion"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -173,7 +173,7 @@
   "Compendium/NPCs/Minor NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs": "FasUsers",
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
-  "Compendium/Lore/Objects/Primeval Token.md": "RiCoinFill",
+  "Compendium/Lore/Objects/Primeval Token.md": "RiCopperCoinFill",
   "Compendium/DM Toolbox": "RiToolsFill",
   "Compendium/Party/Quests/Evacuate Camarath.md": "RiSailboatFill",
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
