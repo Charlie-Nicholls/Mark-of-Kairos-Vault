@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSwords",
+      "LiNotebookPen",
       "RiCopperCoinFill",
       "FasCity",
       "FasBook",
@@ -17,9 +19,7 @@
       "FasPerson",
       "LiSword",
       "RiToolsFill",
-      "FasToolbox",
-      "FasCircle",
-      "FasExplosion"
+      "FasToolbox"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -178,5 +178,10 @@
   "Compendium/Party/Quests/Evacuate Camarath.md": "RiSailboatFill",
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity"
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity",
+  "Compendium/DM Toolbox/DM Tips.md": "FasCircleExclamation",
+  "Compendium/DM Toolbox/NPC Creation.md": "FasPerson",
+  "Compendium/DM Toolbox/Working Note.md": "LiNotebookPen",
+  "Compendium/DM Toolbox/Encounter Design.md": "LiSwords",
+  "Session Notes/Arc 2 Session 1.md": "LiNotepadText"
 }
