@@ -175,15 +175,9 @@
   "Compendium/NPCs/Moderate NPCs/Maera.md": "FasPerson",
   "Compendium/Lore/Objects/Primeval Token.md": "RiCopperCoinFill",
   "Compendium/DM Toolbox": "RiToolsFill",
-  "Compendium/DM Toolbox/Encounter Design.md": "LiSword",
-  "Compendium/DM Toolbox/NPC Creation.md": "FasPerson",
-  "Compendium/DM Toolbox/Working Note.md": "LiNotebookPen",
-  "Compendium/Lore/Other/Small Bang.md": "FasExplosion",
-  "Compendium/Lore/Other/True Vacuum.md": "FasCircle",
   "Compendium/Party/Quests/Evacuate Camarath.md": "RiSailboatFill",
   "Compendium/Party/Quests/Delay The Ritual.md": "FasClock",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Anec's House": "FasHouse",
-  "Compendium/Lore/Objects/Anec's Diary.md": "FasBook",
-  "Session Notes/Arc 2 Session 1.md": "LiNotepadText",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity"
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Kharakzar": "FasCity",
+  "Compendium/DM Toolbox/DM Tips.md": "FasCircleExclamation"
 }
