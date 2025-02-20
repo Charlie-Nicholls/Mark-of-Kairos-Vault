@@ -9,7 +9,7 @@ date: 2024-08-19
 ![[campaign.jpg|banner]]
 
  ### :FasBook: Arc One - The Mark of Kairos
- 
+
 ```dataviewjs
 let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
 let chapters = [];
