@@ -17,19 +17,21 @@ ___
 > | :RiSpeakFill: Passive Insight | 11 | 10 | 12 |
 
 ### Live Notes
-- 
+- Daar still has ~5 minutes of flight left.
 
 ### Session Note
-[[]]
+[[Arc 2 Session 1]]
 
 ### Quest
-[[]]
+[[Delay The Ritual]]
+[[Evacuate Camarath]]
 
 ### Players
 [[Mayastan Daar]]
 
 ### NPCs
-- [[]]
+- [[Cutha]]
+- [[Anec]]
 
 ### Locations
 - [[]]
