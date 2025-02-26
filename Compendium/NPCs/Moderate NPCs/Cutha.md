@@ -60,5 +60,5 @@ Cutha is an elven ranger and member of the [[Hand of Twilight]]. After defeating
 - None
 
 ### Statblock
->```statblock
-name: Cutha
+> ```statblock
+> creature: Cutha

@@ -750,6 +750,99 @@
         "reactions": [],
         "legendary_actions": []
       }
+    ],
+    [
+      "Cutha",
+      {
+        "image": null,
+        "name": "Cutha",
+        "source": "CritterDB",
+        "type": "Humanoid",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 85,
+        "hit_dice": "10d10 + 30",
+        "ac": 16,
+        "speed": "35 ft.",
+        "stats": [
+          10,
+          18,
+          16,
+          13,
+          16,
+          10
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 3
+          },
+          {
+            "dexterity": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Animal Handling": 6
+          },
+          {
+            "Nature": 4
+          },
+          {
+            "Perception": 6
+          },
+          {
+            "Survival": 9
+          }
+        ],
+        "senses": "",
+        "languages": "Common, Elvish, Sylvan",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Archery Specialist",
+            "desc": "Cutha has a +2 bonus to attack rolls made with ranged weapons"
+          },
+          {
+            "name": "Light Steps",
+            "desc": "Moving through nonmagical difficult terrain costs no extra movement and Cutha can move through hazardous plants without taking damage."
+          },
+          {
+            "name": "Natural Survivalist",
+            "desc": "Cutha cannot become lost except by magical means, can move stealthily at a normal pace, and is exceptionally adept at foraging (collects twice as much food as typical) and tracking other creatures (learns their exact number, their sizes and how long ago they passed through an area on a successful check)."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "Cutha is a 2nd-level spellcaster. Cutha's spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). Cutha can cast the following ranger spells:\n\n3/day: ensnaring strike\n\n1/day each: hunter's mark, locate animals or plants, pass without trace, snare"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Cutha makes two attacks with her shortsword or longbow,"
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+          },
+          {
+            "name": "Longbow",
+            "desc": "Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Nature's Veil (3/day)",
+            "desc": "Cutha magically becomes invisible, along with any equipment they are wearing or carrying, until the start of their next turn."
+          }
+        ],
+        "legendary_actions": [],
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {
