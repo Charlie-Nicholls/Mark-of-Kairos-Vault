@@ -7,6 +7,10 @@ displayLink: "[[DM Tips]]"
 :RiToolsFill: DM Tool
 ___
 
+#### Ally NPCs
+
+In combat, come up with a set of standard turns ally npcs can do and what effects they have so their turns go much quicker with average damages calculated. E.G Turn A. make two longsword attacks with smite, + 7 to hit, 1 hit: x slashing + y radient, 2 hits: 2x slashing + 2y radiant.
+
 #### Choices
 
 Make sure player choices have large effects on the plot. Some points can be kept flexible to allow for freeform player choices. Plot hooks can often be danged by offering players bad choices as they can rarely resist. 
