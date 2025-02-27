@@ -17,13 +17,26 @@ ___
 > [!column|flex 3]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Phoenix Aevum]]
+>> - [[Mata Starheart]]
+>> - [[Cutha]]
+>> - [[Anec]]
+>> - [[Ollir]]
+>> - [[Debri]]
+>> - [[Jay Fourmen]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Afel's Rebirth]]
+>> - [[Sentry District]]
+>> - [[Hill District]]
+>> - [[Guild District]]
+>> - [[Adventurer's Guild]]
+>> - [[Ulrach's Clock Shop]]
+>> - [[Shrine to Kairos]]
 >
 >> [!important|flex]- QUESTS:
->> - [[Quests]]
+>> - [[Delay The Ritual]]
+>> - [[Evacuate Camarath]]
 
 ---
 

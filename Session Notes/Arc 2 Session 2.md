@@ -17,13 +17,17 @@ ___
 > [!column|flex 3]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Phoenix Aevum]]
+>> - [[Mata Starheart]]
+>> - [[Cutha]]
+>> - [[Anec]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Shrine to Kairos]]
+>> - [[Ulrach's Clock Shop]]
 >
 >> [!important|flex]- QUESTS:
->> - [[Quests]]
+>> - [[Delay The Ritual]]
 
 ---
 
@@ -31,7 +35,9 @@ ___
 Plan for the session here.
 
 ### Notes
-- Live notes from the session here.
+- Mata discovers Anec is not humanoid, then that he is immune to poison, then sees he is wearing an [[Amulet of Nystul]], concluding he is undead.
+- Anec tells them "you may have killed the best soul mage in the city, but the best soul mage in history is coming"
+- Anec is captured in the streets of the [[Hill District]]
 
 ### Summary
 - Summary of the important points from the session here.
