@@ -17,17 +17,17 @@ ___
 > ![[imgComrath.jpg|350]]
 > 
 > | Form |
-> | ---- |
+> | :----: |
 > | :FasDragon: True Form |
 > ![[imgComrathUndead.png|350]]
 > 
 > | Form |
-> | ---- |
+> | :----: |
 > | :LiSkull: Undead Form |
 > ![[imgComrathElven.jpg|350]]
 > 
 > | Form |
-> | ---- |
+> | :----: |
 > | :FasPerson: Elven Form |
 > 
 > | Type | Stat |
