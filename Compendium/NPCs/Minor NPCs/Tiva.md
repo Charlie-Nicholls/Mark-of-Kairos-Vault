@@ -38,7 +38,7 @@ ___
 >^IntroText
 
 ### Description
-Tiva is the senior cleric at the [[Temple to Taranis]] in [[Storm Haven]]. During the [[Founding Festival]] she, along with some other clerics of [[Taranis]], are performing a ritual to keep the storm raging nearby from reaching the island of [[Camarath]].
+Tiva is the senior cleric at the [[Temple of Taranis]] in [[Storm Haven]]. During the [[Founding Festival]] she, along with some other clerics of [[Taranis]], are performing a ritual to keep the storm raging nearby from reaching the island of [[Camarath]].
 
 In [[Session ?]], [[Mayastan Daar|Daar]] visited the temple and asked her about the [[Primevals]]. Tiva knows the basics, recognised [[Vacuuous]]' Symbol, and explained the difference between [[Primevals]] & Gods. She had also heard rumours of the [[Cult of the Primeval]] but had no interest in joining.
 

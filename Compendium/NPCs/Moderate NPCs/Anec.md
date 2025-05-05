@@ -52,8 +52,8 @@ He summons many of the [[Cult of the Primeval]] to [[Ulrach]]'s on the morning o
 - Bring about [[True Vacuum]]
 
 ### Magic Items / Abilities
-- [[Amulet of Nystul]]
-- [[Entropic Dagger]]
+- [[Amulet of Nystul]] (Taken by [[Mayastan Daar]])
+- [[Entropic Dagger]] (Taken by [[Mayastan Daar]])
 
 ### Allies
 - [[Il'Zuk]]

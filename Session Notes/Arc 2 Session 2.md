@@ -4,9 +4,9 @@ arc: 2
 number: 2
 date: 2025-02-26
 locations:
-- "[[Camarath]]"
-alias: "TBD"
-displayLink: "[[Arc 2 Session 2|2.2: TBD]]"
+  - "[[Camarath]]"
+alias: "Confronting Anec"
+displayLink: "[[Arc 2 Session 2|2.2: Confronting Anec]]"
 ---
 
 ![[session.png|banner]]

@@ -4,7 +4,7 @@ displayLink: "[[Amulet of Nystul]]"
 ---
 
 ###### Amulet of Nystul
-<span class="sub2">:FasCircleQuestion: Jewelry</span>
+<span class="sub2">:FasWandMagicSparkles: Magic Item</span>
 ___
 
 > [!infobox|no-t right]
@@ -31,3 +31,5 @@ ___
 
 ### Description
 An Amulet of Nystul is a magic item which disguises the wearer as a creature of a different type. The illusion the disguise creates passes both visual and magical inspection.
+
+It was used by [[Anec]] for decades to disguise being undead. It was taken from him in [[Arc 2 Session 3]] and is now owned by [[Mayastan Daar]].

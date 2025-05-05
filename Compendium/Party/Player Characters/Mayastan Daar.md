@@ -80,6 +80,8 @@ General Description
 ### Magic Items / Abilities
 - [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]] (Stolen)
 - [[Ring of Glikx]]
+- [[Amulet of Nystul]]
+- [[Entropic Dagger]]
 
 ### Allies
 - [[Phoenix Aevum]]

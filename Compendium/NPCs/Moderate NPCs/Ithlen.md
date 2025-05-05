@@ -46,7 +46,7 @@ Ithlen is one of [[Hestrela]]'s premier archmages and the leader of the city of 
 - Protecting and raising the status of [[Camarath]]
 
 ### Magic Items / Abilities
-- Unknown
+- [[Amulet of Dominate Beast]]
  
 ### Allies
 - [[Cutha]]
