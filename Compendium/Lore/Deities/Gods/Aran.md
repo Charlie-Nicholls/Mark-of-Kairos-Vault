@@ -10,7 +10,7 @@ pantheon: Entropic
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgAran.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
