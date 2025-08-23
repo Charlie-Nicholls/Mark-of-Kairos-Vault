@@ -51,24 +51,25 @@ ___
 >
 >>[!note]- HISTORY
 >>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
->>SORT file.ctime DESC
+>> LIST WITHOUT ID displayLink
+>> FROM "Session Notes" AND [[#]]
+>> SORT file.ctime DESC
 >
 >^InfoBox
 
 > [!infobox|no-t clean right]
 >```meta-bind-button
-label: Character Sheet
-icon: link
-tooltip: external character sheet
-style: default
-action: {type: open, link: https://www.dndbeyond.com/characters/130310295, newTab: true}
+> label: Character Sheet
+> icon: link
+> tooltip: external character sheet
+> style: default
+> action: {type: open, link: https://www.dndbeyond.com/characters/130310295, newTab: true}
+> ```
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description
