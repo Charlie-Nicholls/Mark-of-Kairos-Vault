@@ -10,7 +10,7 @@ pantheon: Entropic
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgTaranis.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
