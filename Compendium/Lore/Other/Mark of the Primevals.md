@@ -8,10 +8,6 @@ aliases: ["Mark of Kairos", "Mark of Vacuuous", "Mark of Diracmi", "Mark of Scat
 <span class="sub2">:LiScrollText: Lore</span>
 ___
 
-> [!boxed|no-t]
-> Introduction for players
->^IntroText
-
 ### Description
 A Mark of the [[Primevals]] give the bearers powerful magics to help balance the forces of the world. Only one is supposed to hold the mark at time. It may either be passed on willingly with the blessing of the primeval. Or, if a Mark is Lost, one must visit the [[Primevals]] domain and summon them to create a new one. While their existence used to be common knowledge and their bearers public figures, they have since become legend as the marks have been lost for millennia.
 
@@ -30,6 +26,17 @@ A Mark of the [[Primevals]] give the bearers powerful magics to help balance the
 #### The Mark of Scathach
 
 [[Scathach]]'s Mark is held by [[Aran]], god of death. [[Il'Zuk]] was in life a master of soul magic and on his death started building power in the afterlife by stealing power from other souls. Eventually he became powerful enough to challenge [[Aran]], unable to kill him, he trapped him beyond the event horizon of [[The Dark Storm]] (Which is hell in the afterlife plane) and experimented on him till he was able to copy the mark from the god's soul and bind it to himself.
+
+### Transformation Cards
+
+> [!column|flex 4]
+> ![[cardMarkofDiracmi.png]]
+> 
+> ![[cardMarkofVacuuos.png]]
+>
+> ![[cardMarkofKairos.png]]
+> 
+> ![[cardMarkofScathach.png]]
 
 > [!column|flex 3]
 >>[!hint]- PEOPLE
