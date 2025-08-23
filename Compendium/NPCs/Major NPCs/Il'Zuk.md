@@ -74,6 +74,5 @@ He would stay trapped for many years, his prison becoming known as [[The Eternal
 - Is not the true chosen of [[Scathach]], but stole the [[Mark of the Primevals#The Mark of Scathach|Mark of Scathach]] from [[Aran]].
 
 ### Statblock
-> ```statblock
-> name: Il'Zuk
-> creature: Lich
+```statblock
+creature: Il'Zuk
