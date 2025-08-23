@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Hura is heavyset, with thick red hair and grey eyes.
+> [!boxed|no-t]
+> Hura is heavyset, with thick red hair and grey eyes.
 >^IntroText
 
 ### Description

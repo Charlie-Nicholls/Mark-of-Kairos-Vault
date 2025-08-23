@@ -7,12 +7,12 @@ displayLink: "[[Loss of Laika Cutscene]]"
 <span class="sub2">:LiNotebookPen: Plan</span>
 ___
 
-> [!recite|clean no-t]
->	two thousand, one hundred and fourteen years ago.
+> [!boxed|no-t]
+> two thousand, one hundred and fourteen years ago.
 >
->	A large ship of equal parts wood and steel, 100 foot long and 50 foot wide is violently thrown from side to side. From its midsection extend large metallic wings, like that of a dragon, spread wide to ride the winds of the hurricane; keeping the ship airborne as the clutches of the storm attempt to drag it down. The many sails, usually used to steer the craft, flap uselessly in the wind, many torn, any attempt to direct the ship long since given up. Survival is all that matters now.
+> A large ship of equal parts wood and steel, 100 foot long and 50 foot wide is violently thrown from side to side. From its midsection extend large metallic wings, like that of a dragon, spread wide to ride the winds of the hurricane; keeping the ship airborne as the clutches of the storm attempt to drag it down. The many sails, usually used to steer the craft, flap uselessly in the wind, many torn, any attempt to direct the ship long since given up. Survival is all that matters now.
 > 
->	A woman stands on the bow of the ship, facing back with an overview of the deck with a calm face but frantic hand motions as she instructs the crew. You'd struggle to place her age to look at her. Tall with short cut white hair, smooth skin but old eyes grey eyes. The crew under her command consist not of the usual people or less usual constructs that one might pilot such a vessel with, but a menagerie of animals. Ferrets and foxes scuttle about pulling ropes and dragging tools, above them one of the masts bows and bends dangerously as doves and drakes attempt to man the upper sails. The woman leans over the rail and looks past the lower deck, through an open hatch in the floor and shouts.  
+> A woman stands on the bow of the ship, facing back with an overview of the deck with a calm face but frantic hand motions as she instructs the crew. You'd struggle to place her age to look at her. Tall with short cut white hair, smooth skin but old eyes grey eyes. The crew under her command consist not of the usual people or less usual constructs that one might pilot such a vessel with, but a menagerie of animals. Ferrets and foxes scuttle about pulling ropes and dragging tools, above them one of the masts bows and bends dangerously as doves and drakes attempt to man the upper sails. The woman leans over the rail and looks past the lower deck, through an open hatch in the floor and shouts.  
 > 	"How are the engines holding up?"
 > 
 > 	Below decks the veneer of traditional wooden galleon gives way to a cluster of metal and magic machinery. A middle aged gnomish man with dark skin, brown beard and oil stained clothes frantically runs back and forth hammering one thing with a spanner and spanner-ing another with a hammer before berating the squirrel tasked with passing his tools and running back around to do it properly. Hearing the shout from the upper decks he quickly climbs up through the hatch onto the deck.

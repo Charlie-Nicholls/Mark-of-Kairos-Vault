@@ -14,8 +14,8 @@ displayLink: "[[Shrine to Kairos]]"
 
 ---
 
-> [!recite|clean no-t]
->	A large cave with plants growing, a small pool of water with seemingly no source and small animals living in it despite it being deep inside Hawker's Caverns. At its centre is a large monument depicting the twin stars of Diracmi
+> [!boxed|no-t]
+> A large cave with plants growing, a small pool of water with seemingly no source and small animals living in it despite it being deep inside Hawker's Caverns. At its centre is a large monument depicting the twin stars of Diracmi
 >^IntroText
 	
 ### Description

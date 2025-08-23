@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Tiva has blonde hair and brown eyes. She wears well-made clothing, wields a staff and is blind in her left eye.
+> [!boxed|no-t]
+> Tiva has blonde hair and brown eyes. She wears well-made clothing, wields a staff and is blind in her left eye.
 >^IntroText
 
 ### Description

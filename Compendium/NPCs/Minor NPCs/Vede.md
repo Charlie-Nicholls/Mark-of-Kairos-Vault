@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Vede has brown hair and bright green eyes, and prominent ears.
+> [!boxed|no-t]
+> Vede has brown hair and bright green eyes, and prominent ears.
 >^IntroText
 
 ### Description

@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Vinda is short, with blonde hair and hazel eyes. He wears a pin with the symbol of the adventurers guild.
+> [!boxed|no-t]
+> Vinda is short, with blonde hair and hazel eyes. He wears a pin with the symbol of the adventurers guild.
 >^IntroText
 
 ### Description

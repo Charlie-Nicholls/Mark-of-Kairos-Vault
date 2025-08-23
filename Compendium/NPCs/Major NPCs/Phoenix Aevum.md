@@ -62,8 +62,8 @@ action: {type: open, link: https://www.dndbeyond.com/characters/130339977, newTa
 
 # Profile
 
-> [!recite|clean no-t]
->	Phoenix is a gold dragonborn of medium height but powerful build. His eyes glow the faint blue associated with his deity and he is usually seen wearing the sturdy plate armour of a trained paladin. 
+> [!boxed|no-t]
+> Phoenix is a gold dragonborn of medium height but powerful build. His eyes glow the faint blue associated with his deity and he is usually seen wearing the sturdy plate armour of a trained paladin. 
 >^IntroText
 
 ### Description

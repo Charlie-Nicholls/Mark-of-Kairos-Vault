@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Tela is stout, with curly black hair and bright brown eyes. She wears studded leather and is casting illusion spells.
+> [!boxed|no-t]
+> Tela is stout, with curly black hair and bright brown eyes. She wears studded leather and is casting illusion spells.
 >^IntroText
 
 ### Description

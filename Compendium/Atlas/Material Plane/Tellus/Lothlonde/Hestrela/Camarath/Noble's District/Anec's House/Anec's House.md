@@ -14,8 +14,8 @@ displayLink: "[[Anec's House]]"
 
 ---
 
-> [!recite|clean no-t]
->	Inside the house looks remarkably unlived in, bed still made, no plates and no possessions strewn about.
+> [!boxed|no-t]
+> Inside the house looks remarkably unlived in, bed still made, no plates and no possessions strewn about.
 >^IntroText
 	
 ### Description

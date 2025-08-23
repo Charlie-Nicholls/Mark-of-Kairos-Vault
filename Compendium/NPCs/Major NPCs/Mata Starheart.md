@@ -61,8 +61,8 @@ action: {type: open, link: https://www.dndbeyond.com/characters/135887149, newTa
 
 # Profile
 
-> [!recite|clean no-t]
->	Mata has cropped white hair and light green eyes, and prominent ears. She wears sturdy clothing and several small tools hang from her belt.
+> [!boxed|no-t]
+> Mata has cropped white hair and light green eyes, and prominent ears. She wears sturdy clothing and several small tools hang from her belt.
 >^IntroText
 
 ### Description

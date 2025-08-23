@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Jay Fourmen has scruffy brown hair and close cut beard.
+> [!boxed|no-t]
+> Jay Fourmen has scruffy brown hair and close cut beard.
 >^IntroText
 
 ### Description

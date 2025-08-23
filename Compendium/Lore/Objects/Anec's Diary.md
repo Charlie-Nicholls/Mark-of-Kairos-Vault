@@ -25,8 +25,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[#]]
 
-> [!recite|clean no-t]
->	An old tattered book, leather bound. Pages are variously legible, some clear, some decaying, some missing completely. 
+> [!boxed|no-t]
+> An old tattered book, leather bound. Pages are variously legible, some clear, some decaying, some missing completely. 
 >^IntroText
 
 ### Description

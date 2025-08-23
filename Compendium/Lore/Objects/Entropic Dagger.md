@@ -25,8 +25,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[#]]
 
-> [!recite|clean no-t]
->	An ancient ornate dagger. When held a black mist encircles the blade and anything its blade is turned against begins to decay.
+> [!boxed|no-t]
+> An ancient ornate dagger. When held a black mist encircles the blade and anything its blade is turned against begins to decay.
 >^IntroText
 
 ### Description

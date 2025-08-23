@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Cutha has red hair, bright blue eyes, and pointed ears. She wears studded leather and wields a long bow.
+> [!boxed|no-t]
+> Cutha has red hair, bright blue eyes, and pointed ears. She wears studded leather and wields a long bow.
 >^IntroText
 
 ### Description

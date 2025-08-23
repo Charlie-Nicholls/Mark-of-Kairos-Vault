@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Ethwyst has a square face, with long red hair and narrow brown eyes. She wears splint mail and wields a mace and shield.
+> [!boxed|no-t]
+> Ethwyst has a square face, with long red hair and narrow brown eyes. She wears splint mail and wields a mace and shield.
 >^IntroText
 
 ### Description

@@ -25,8 +25,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[#]]
 
-> [!recite|clean no-t]
->	An ordinary goldfish inside a sphere of water that's very strange to look at. The goldfish always stays in the centre and the environment around it seems to warp, scattering the light in weird ways.
+> [!boxed|no-t]
+> An ordinary goldfish inside a sphere of water that's very strange to look at. The goldfish always stays in the centre and the environment around it seems to warp, scattering the light in weird ways.
 >^IntroText
 
 ### Description

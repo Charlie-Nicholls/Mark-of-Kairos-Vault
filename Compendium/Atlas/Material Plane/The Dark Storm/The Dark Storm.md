@@ -14,8 +14,8 @@ aliases: ["Howling Madness", "Siren's Void"]
 <span class="sub2">:RiGlobalLine: Realm (world)</span>
 
 ---
-> [!recite|clean no-t]
->	Some call it the 'Howling Madness', some the 'Siren's Void', 'The Dark Storm', or simply 'Hell'.
+> [!boxed|no-t]
+> Some call it the 'Howling Madness', some the 'Siren's Void', 'The Dark Storm', or simply 'Hell'.
 >^IntroText
 
 ### Description

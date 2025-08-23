@@ -25,8 +25,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[#]]
 
-> [!recite|clean no-t]
->	A disk shaped black amulet with silver metal outlines and runes inscribed around the perimeter. It is attached to a chain and worn around the neck.
+> [!boxed|no-t]
+> A disk shaped black amulet with silver metal outlines and runes inscribed around the perimeter. It is attached to a chain and worn around the neck.
 >^IntroText
 
 ### Description

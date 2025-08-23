@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Lici is small, with tangled brown hair and sharp amber eyes.
+> [!boxed|no-t]
+> Lici is small, with tangled brown hair and sharp amber eyes.
 >^IntroText
 
 ### Description

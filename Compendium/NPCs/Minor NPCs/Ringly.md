@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Ringly has grey hair and blue eyes. He wears modest garments and holds a parchment and quill.
+> [!boxed|no-t]
+> Ringly has grey hair and blue eyes. He wears modest garments and holds a parchment and quill.
 >^IntroText
 
 ### Description

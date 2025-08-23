@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Brilia is short and a little overweight, with silver hair and grey eyes. She wears leather armour and wields a light hammer.
+> [!boxed|no-t]
+> Brilia is short and a little overweight, with silver hair and grey eyes. She wears leather armour and wields a light hammer.
 >^IntroText
 
 ### Description

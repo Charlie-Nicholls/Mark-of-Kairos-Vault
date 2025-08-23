@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Malla is short, with tangled black hair and amber eyes.
+> [!boxed|no-t]
+> Malla is short, with tangled black hair and amber eyes.
 >^IntroText
 
 ### Description

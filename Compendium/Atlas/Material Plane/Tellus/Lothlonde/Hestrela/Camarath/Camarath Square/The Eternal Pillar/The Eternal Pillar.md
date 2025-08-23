@@ -15,8 +15,8 @@ alias: "Il'Zuk's Prison"
 
 ---
 
-> [!recite|clean no-t]
->	The Eternal Pillar stands tall in the centre of Camarath Square, seeming to burst up from the ground to heights taller than any building. Midnight black and smooth like obsidian, shaped like a narrow flame. It's been there for longer than civilisation, no-one has ever been able to damage it and no-one knows where it came from or what it is.
+> [!boxed|no-t]
+> The Eternal Pillar stands tall in the centre of Camarath Square, seeming to burst up from the ground to heights taller than any building. Midnight black and smooth like obsidian, shaped like a narrow flame. It's been there for longer than civilisation, no-one has ever been able to damage it and no-one knows where it came from or what it is.
 >^IntroText
 	
 ### Description

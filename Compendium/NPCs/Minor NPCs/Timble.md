@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Timble is short and stout, with grey hair and grey eyes. She wears modest garments and is holding a guide book.
+> [!boxed|no-t]
+> Timble is short and stout, with grey hair and grey eyes. She wears modest garments and is holding a guide book.
 >^IntroText
 
 ### Description

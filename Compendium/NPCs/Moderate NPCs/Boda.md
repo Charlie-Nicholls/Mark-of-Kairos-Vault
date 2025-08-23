@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Boda has an angular face, with short golden hair and dark hazel eyes. She wears modest garments and a silver holy symbol.
+> [!boxed|no-t]
+> Boda has an angular face, with short golden hair and dark hazel eyes. She wears modest garments and a silver holy symbol.
 >^IntroText
 
 ### Description

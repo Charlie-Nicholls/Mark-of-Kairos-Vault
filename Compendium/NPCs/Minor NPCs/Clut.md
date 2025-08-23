@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A satyr of medium height with tousled brown hair and scruffy beard.
+> [!boxed|no-t]
+> A satyr of medium height with tousled brown hair and scruffy beard.
 >^IntroText
 
 ### Description

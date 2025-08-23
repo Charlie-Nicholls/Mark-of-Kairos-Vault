@@ -34,8 +34,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A gnome woman with dark skin and messy brown hair. A vacant expression on her face, her eyes staring at something that isn't there. Around her neck lies a neckless which holds an infinite hourglass and on her finger an ornate ring with a gem prominently embedded into its centre.
+> [!boxed|no-t]
+> A gnome woman with dark skin and messy brown hair. A vacant expression on her face, her eyes staring at something that isn't there. Around her neck lies a neckless which holds an infinite hourglass and on her finger an ornate ring with a gem prominently embedded into its centre.
 >^IntroText
 
 ### Description

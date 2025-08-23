@@ -33,20 +33,20 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Debri is a maid with cropped blonde hair and blue eyes.
+> [!boxed|no-t]
+> Debri is a maid with cropped blonde hair and blue eyes.
 >^IntroText
 
 ### Description
 
-> [!recite|clean no-t]
->	"I do apologise sir, but you were quite insitent on your 9am alarm call - said you had someone to meet. I did try a more gentle approach, knocking and shaking you awake, but nothing seemed to work. I'm relieved quite frankly, I was beginning to think you had died."
+> [!boxed|no-t]
+> "I do apologise sir, but you were quite insitent on your 9am alarm call - said you had someone to meet. I did try a more gentle approach, knocking and shaking you awake, but nothing seemed to work. I'm relieved quite frankly, I was beginning to think you had died."
 >
 >^WakeUp
 
-> [!recite|clean no-t]
->	"We sell a map of the city at reception for a couple silver if you're interested."
->	"Oh and enjoy the founding festival!"
+> [!boxed|no-t]
+> "We sell a map of the city at reception for a couple silver if you're interested."
+> "Oh and enjoy the founding festival!"
 
 Debri wakes [[Mayastan Daar|Daar]] up at the start of most loops. She knows very little about Dragonborn and neither understands they can look dead when they sleep (as a holdover from dragon hibernation) and thinks [[Mayastan Daar|Daar]] is a man.
 

@@ -47,8 +47,8 @@ ___
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[#]]
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

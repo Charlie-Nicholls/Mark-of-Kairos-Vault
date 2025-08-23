@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Maera is stout, with blonde hair and hazel eyes. She wears studded leather and wields a long sword and shield. Maera lost her right eye to an injury.
+> [!boxed|no-t]
+> Maera is stout, with blonde hair and hazel eyes. She wears studded leather and wields a long sword and shield. Maera lost her right eye to an injury.
 >^IntroText
 
 ### Description

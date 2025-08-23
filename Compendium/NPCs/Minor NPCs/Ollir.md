@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Oillir has black hair and light green eyes, and a distinctive mark on his face. He wears sturdy clothing and carries a rowan staff.
+> [!boxed|no-t]
+> Oillir has black hair and light green eyes, and a distinctive mark on his face. He wears sturdy clothing and carries a rowan staff.
 >^IntroText
 
 ### Description

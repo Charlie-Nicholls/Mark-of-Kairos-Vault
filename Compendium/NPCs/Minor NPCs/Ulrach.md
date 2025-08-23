@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Ulrach is tall, for a gnome, and heavyset, with long black hair and blue eyes. He wears sturdy clothing and holds some tinkerer's tools.
+> [!boxed|no-t]
+> Ulrach is tall, for a gnome, and heavyset, with long black hair and blue eyes. He wears sturdy clothing and holds some tinkerer's tools.
 >^IntroText
 
 ### Description

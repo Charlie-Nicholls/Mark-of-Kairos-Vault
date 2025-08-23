@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A dark shape in the shadows, a rush of wind behind you, something moving in the corner of your eye. Anec lives in the whispers and legends of Camarath, only allowing himself to seen on special occasions. But his influence on the city is undeniable; those working against the Hand of Twilight tend to disappear when they enter the shadows.
+> [!boxed|no-t]
+> A dark shape in the shadows, a rush of wind behind you, something moving in the corner of your eye. Anec lives in the whispers and legends of Camarath, only allowing himself to seen on special occasions. But his influence on the city is undeniable; those working against the Hand of Twilight tend to disappear when they enter the shadows.
 >^IntroText
 
 ### Description

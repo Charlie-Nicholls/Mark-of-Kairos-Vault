@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Ithlen has a long face, with white hair and dark hazel eyes. She wears long blue and orange robes flecked with gold. Ithlen has an animal companion, a black bear named Laune.
+> [!boxed|no-t]
+> Ithlen has a long face, with white hair and dark hazel eyes. She wears long blue and orange robes flecked with gold. Ithlen has an animal companion, a black bear named Laune.
 >^IntroText
 
 ### Description

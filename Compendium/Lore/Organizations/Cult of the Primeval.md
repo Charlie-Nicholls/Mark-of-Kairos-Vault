@@ -21,8 +21,8 @@ ___
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[Cult of the Primeval]]
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

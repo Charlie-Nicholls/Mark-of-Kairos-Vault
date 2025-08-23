@@ -7,17 +7,17 @@ displayLink: "[[Phoenix's Prophecy]]"
 <span class="sub2">:FasScroll: Prophecy</span>
 ___
 
-> [!recite|clean no-t]
->	The ending ruler seeks to start their reign.
->	The undying man will die and die again.
->	Change's chosen shall find the city lost
->	in time, he'll sail where no light may shine,
->	Over horizon of black and stormy sea,
->	For Death must at last be free.
->	Primeval's chosen all unite,
->	A bang begins the final fight.
->	The stolen mark goes to their final grave;
->	A choice, our world, to damn or save.
+> [!boxed|no-t]
+> The ending ruler seeks to start their reign.
+> The undying man will die and die again.
+> Change's chosen shall find the city lost
+> in time, he'll sail where no light may shine,
+> Over horizon of black and stormy sea,
+> For Death must at last be free.
+> Primeval's chosen all unite,
+> A bang begins the final fight.
+> The stolen mark goes to their final grave;
+> A choice, our world, to damn or save.
 >^Prophecy
 
 ### Description

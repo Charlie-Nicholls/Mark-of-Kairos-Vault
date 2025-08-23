@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Lachi is tall and wearing full paladin armour, including a helmet covering most of his face.
+> [!boxed|no-t]
+> Lachi is tall and wearing full paladin armour, including a helmet covering most of his face.
 >^IntroText
 
 ### Description

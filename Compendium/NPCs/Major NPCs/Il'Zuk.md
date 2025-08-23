@@ -40,8 +40,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A skeletal hand appears from the ruins of the pillar. Fingers clutching at the ground, clawing upwards as a figure rises from the earth. While from a distance it may look like an ordinary skeleton, up close a power glows in the sockets of its eyes. It takes a step onto solid ground before it looks around, its jaw opens and closes and its head tilts. It then beckons towards the dead body of a nearby half-orc, which slowly gets to its feet and takes slow, lumbering steps towards the skeleton. When it's about 30 feet away it stops, bones begin to crack through its chest as it splits open before his lungs start to float out. These are followed by his tongue and part of his neck which also float over to the skeleton, who's rib cage has opened in a twisted embrace as the organs slot there way into place. Finally part of the half-orcs lips and face slot into place over its mouth and it opens once again and speaks. "I am the chosen of Scath-, hmm, new tongue, that's weird."
+> [!boxed|no-t]
+> A skeletal hand appears from the ruins of the pillar. Fingers clutching at the ground, clawing upwards as a figure rises from the earth. While from a distance it may look like an ordinary skeleton, up close a power glows in the sockets of its eyes. It takes a step onto solid ground before it looks around, its jaw opens and closes and its head tilts. It then beckons towards the dead body of a nearby half-orc, which slowly gets to its feet and takes slow, lumbering steps towards the skeleton. When it's about 30 feet away it stops, bones begin to crack through its chest as it splits open before his lungs start to float out. These are followed by his tongue and part of his neck which also float over to the skeleton, who's rib cage has opened in a twisted embrace as the organs slot there way into place. Finally part of the half-orcs lips and face slot into place over its mouth and it opens once again and speaks. "I am the chosen of Scath-, hmm, new tongue, that's weird."
 >^IntroText
 
 ### Description

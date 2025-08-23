@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A human with spiking brown hair, a thick beard and a wide smile.
+> [!boxed|no-t]
+> A human with spiking brown hair, a thick beard and a wide smile.
 >^IntroText
 
 ### Description

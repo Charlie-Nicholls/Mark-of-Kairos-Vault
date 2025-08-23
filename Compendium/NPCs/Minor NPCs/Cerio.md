@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Cerio is short, with tangled silver hair and amber eyes. He wears very smart, tailored clothing and speaks and acts with utmost civility.
+> [!boxed|no-t]
+> Cerio is short, with tangled silver hair and amber eyes. He wears very smart, tailored clothing and speaks and acts with utmost civility.
 >^IntroText
 
 ### Description

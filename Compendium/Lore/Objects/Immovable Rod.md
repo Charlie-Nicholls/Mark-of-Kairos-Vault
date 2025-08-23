@@ -24,8 +24,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[Immovable Rod]]
 
-> [!recite|clean no-t]
->	An iron rod about 2 feet in length, each end shaped to look like the front of a galloping horse. On examination you see it has two buttons.
+> [!boxed|no-t]
+> An iron rod about 2 feet in length, each end shaped to look like the front of a galloping horse. On examination you see it has two buttons.
 >^IntroText
 
 ### Description

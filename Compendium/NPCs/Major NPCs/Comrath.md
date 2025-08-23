@@ -54,8 +54,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	An ancient crystal dragon, seeming to shine as her body refracts the light in all different directions in a spectrum of colours. 
+> [!boxed|no-t]
+> An ancient crystal dragon, seeming to shine as her body refracts the light in all different directions in a spectrum of colours. 
 >^IntroText
 
 ### Description

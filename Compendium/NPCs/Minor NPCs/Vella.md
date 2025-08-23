@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Vella tall, with braided brown hair, light grey eyes and wearing a maid's uniform.
+> [!boxed|no-t]
+> Vella tall, with braided brown hair, light grey eyes and wearing a maid's uniform.
 >^IntroText
 
 ### Description

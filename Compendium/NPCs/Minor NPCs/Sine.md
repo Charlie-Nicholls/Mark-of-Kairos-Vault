@@ -32,8 +32,8 @@ ___
 >^InfoBox
 
 # Profile
-> [!recite|clean no-t]
->	Sine has a narrow face, with black hair and hazel eyes. He wears fine clothing and a silver amulet. Sine has an animal companion, a ginger cat named Cosine.
+> [!boxed|no-t]
+> Sine has a narrow face, with black hair and hazel eyes. He wears fine clothing and a silver amulet. Sine has an animal companion, a ginger cat named Cosine.
 >^IntroText
 
 ### Description

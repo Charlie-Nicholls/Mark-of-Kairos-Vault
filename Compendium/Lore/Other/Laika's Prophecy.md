@@ -7,13 +7,13 @@ displayLink: "[[Laika's Prophecy]]"
 <span class="sub2">:FasScroll: Prophecy</span>
 ___
 
-> [!recite|clean no-t]
->	The war we fight can not be won;
->	Victory burns out every sun.
->	Duty must come at a cost,
->	Chosen fall and caged and wait and lost.
->	Speak to the bird reborn in flame,
->	When ending ruler seeks to start their reign
+> [!boxed|no-t]
+> The war we fight can not be won;
+> Victory burns out every sun.
+> Duty must come at a cost,
+> Chosen fall and caged and wait and lost.
+> Speak to the bird reborn in flame,
+> When ending ruler seeks to start their reign
 >^Prophecy
 
 ### Description

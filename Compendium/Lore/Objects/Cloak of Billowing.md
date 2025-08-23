@@ -24,8 +24,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[Cloak of Billowing]]
 
-> [!recite|clean no-t]
->	A simple grey cloak
+> [!boxed|no-t]
+> A simple grey cloak
 >^IntroText
 
 ### Description

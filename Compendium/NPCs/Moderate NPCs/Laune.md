@@ -34,8 +34,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A massive brown bear.
+> [!boxed|no-t]
+> A massive brown bear.
 >^IntroText
 
 ### Description

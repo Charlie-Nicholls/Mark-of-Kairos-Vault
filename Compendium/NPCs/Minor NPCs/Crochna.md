@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Crochna is noble in bearing, with uneven grey hair and hazel eyes.
+> [!boxed|no-t]
+> Crochna is noble in bearing, with uneven grey hair and hazel eyes.
 >^IntroText
 
 ### Description

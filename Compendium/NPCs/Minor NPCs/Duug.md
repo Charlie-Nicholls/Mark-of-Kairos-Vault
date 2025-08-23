@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Duug has black hair and grey eyes and speaks with a deep enigmatic voice. He wears well-made clothing and several pouches hang from his belt.
+> [!boxed|no-t]
+> Duug has black hair and grey eyes and speaks with a deep enigmatic voice. He wears well-made clothing and several pouches hang from his belt.
 >^IntroText
 
 ### Description
