@@ -15,9 +15,10 @@ Quest description here...
 ### Objectives
  - [x] Kill [[Boda]]
  - [ ] Kill [[Anec]]
- - [ ] Evacuate The Astral Scryers
- - [ ] Destroy The [[Shrine to Kairos]]
- - [ ] Prevent The Resurrection of [[Comrath]]
+ - [ ] Evacuate The Astral Scryers - 7 with hope - 2 senior most
+ - [ ] Destroy The [[Shrine to Kairos]] - miss fear -> 18 hope
+ - [ ] Destroy The [[Shrine to Vacuuous]] - 15 hope
+ - [ ] Prevent The Resurrection of [[Comrath]] - bones obtained + in ring, takes some time
 
 ### Stages
  - [ ] Stage 1

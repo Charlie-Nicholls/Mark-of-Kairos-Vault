@@ -10,8 +10,7 @@ displayLink: "[[Evacuate Camarath]]"
 ___
 
 ### Description
-Quest description here...
-
+97% evacuated !!!
 ### Objectives
  - [ ] Objective
 
