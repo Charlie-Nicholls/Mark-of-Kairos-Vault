@@ -6,7 +6,7 @@ date: 2025-02-13
 locations:
   - "[[Camarath]]"
 alias: "The Final Loop"
-displayLink: "[[Arc 2 Session 1|2.1: TBD]]"
+displayLink: "[[Arc 2 Session 1|2.1: The Final Loop]]"
 ---
 
 ![[session.png|banner]]

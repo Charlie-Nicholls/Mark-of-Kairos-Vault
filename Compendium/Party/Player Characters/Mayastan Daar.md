@@ -1,18 +1,16 @@
 ---
-cssClasses: index
-type: pc
 displayLink: "[[Mayastan Daar]]"
-level: 5
-ac: 15
-hp: 38
-modifier: 2
-race: Dragonborn
+type: pc
+level: 3
+evasion: 0
+hp: 0
+stress: 0
+ancestry: Drakona
+community: Unknown
 class: Warlock
-subClass: Taranis
+subClass: Pact of the Storm
 cover: /Assets/Images/Party/imgMayastanDaar.jpeg
-aliases:
-  - Daar
-  - Tippy
+aliases: [Daar,Tippy]
 share_link: https://share.note.sx/05ls9yza#NYjt4Nhb5/hOriH+D9Go9r3++t7ue+F7gfOrQ/KM1cM
 share_updated: 2025-02-17T16:08:56+00:00
 ---
@@ -26,34 +24,38 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Job | Cleric |
-> | :FasVenusMars: Gender | Female |
-> | :FasClock: Age | 22 |
-> |  :FasUserGroup: Race |  `=this.race`|
 > | :FasCrown: Level   | `=this.level` |
-> | :RiSwordFill: Class |  `=this.class`|
-> | :FasBurst: Patron |  `=this.subClass`|
+> | :RiSwordFill: Class |  `=this.class` |
+> | :FasGuitar: Subclass |  `=this.subClass`|
+> |  :LiDna: Ancestry |  `=this.ancestry`|
+> |  :FasUserGroup: Community |  `=this.community`|
 > 
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 11 |
->> | :FasMagnifyingGlass: Passive Investigation | 10 |
->> | :RiSpeakFill: Passive Insight | 11 |
->> | :FasShield: Armour Class | `=this.ac` |
->> | :FasHeart: Max Hit Points | `=this.hp` |
+>> | :FasPersonRunning: Agility | +0 |
+>> | :LiBicepsFlexed: Strength | +0 |
+>> | :FasHands: Finesse | +0 |
+>> | :LiEye: Instinct | +0 |
+>> | :RiSpeakFill: Presence | +0 |
+>> | :FasBook: Knowledge | +0 |
+>> | :FasShield: Evasion | `=this.evasion` |
+>> | :FasHeart: Max HP | `=this.hp` |
+>> | :FasBoltLightning: Max Stress | `=this.stress` |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Compendium/Party/Quests" AND ([[#]]  OR [[The Party]])
 >>SORT file.ctime DESC
+>>```
 >
 >>[!note]- HISTORY
 >>```dataview
 >> LIST WITHOUT ID displayLink
->> FROM "Session Notes" AND [[#]]
+>> FROM "Session Notes"
 >> SORT file.ctime DESC
+>>```
 >
 >^InfoBox
 
@@ -73,27 +75,24 @@ ___
 >^IntroText
 
 ### Description
-General Description
+#### Background
 
-### Motivations
-- List of Motivations
+#### Motivations
+
+### Relationships
+#### Allies
+- [[Phoenix Aevum]]
+- [[Mata Starheart]]
+- [[Taranis]]
+
+#### Enemies
+- [[Il'Zuk]]
+- [[Scathach]]
+- [[Boda]]
+- [[Anec]]
 
 ### Magic Items / Abilities
 - [[Mark of the Primevals#The Mark of Kairos|Mark of Kairos]] (Stolen)
 - [[Ring of Glikx]]
 - [[Amulet of Nystul]]
 - [[Entropic Dagger]]
-
-### Allies
-- [[Phoenix Aevum]]
-- [[Mata Starheart]]
-- [[Taranis]]
-
-### Enemies
-- [[Il'Zuk]]
-- [[Scathach]]
-- [[Boda]]
-- [[Anec]]
-
-### Secrets
-- None

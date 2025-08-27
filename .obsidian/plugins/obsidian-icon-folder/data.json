@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiListCheck2",
+      "RiFileUserFill",
       "LiSwords",
       "LiNotebookPen",
       "RiCopperCoinFill",
@@ -17,9 +19,7 @@
       "FasCircleExclamation",
       "LiNotepadText",
       "FasPerson",
-      "LiSword",
-      "RiToolsFill",
-      "FasToolbox"
+      "LiSword"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -151,7 +151,6 @@
   "Assets/Templates": "LiFiles",
   "Assets/Images": "FasImagePortrait",
   "Compendium/Party/Player Characters/Mayastan Daar.md": "FasBurst",
-  "Compendium/Party/Character Sheets.md": "RiFileUserFill",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla": "LiMap",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Shrine to Scathach": "FasSkull",
   "Compendium/Lore/Objects/Bottle of Age.md": "FasBottleDroplet",
@@ -182,5 +181,8 @@
   "Session Notes/Arc 2 Session 1.md": "LiNotepadText",
   "Session Notes/Arc 2 Session 2.md": "LiNotepadText",
   "Session Notes/Arc 2 Session 3.md": "LiNotepadText",
-  "Daggerheart SRD": "LiSword"
+  "Daggerheart SRD": "LiSword",
+  "Compendium/Party/Character Sheets/Character Sheets.md": "RiFileUserFill",
+  "Compendium/Party/Character Sheets": "RiFileUserFill",
+  "Compendium/Party/Character Sheets/Phoenix Statblock.md": "RiListCheck2"
 }

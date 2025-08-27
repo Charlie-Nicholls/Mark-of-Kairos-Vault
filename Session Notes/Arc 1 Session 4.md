@@ -7,8 +7,8 @@ locations:
   - "[[Camarath]]"
   - "[[Camarath Observatory]]"
   - "[[Monument District]]"
-alias: TBD
-displayLink: "[[Arc 1 Session 4|1.4: TBD]]"
+alias: "Seeing Stars - Hearing Cries"
+displayLink: "[[Arc 1 Session 4|1.4: Seeing Stars - Hearing Cries]]"
 ---
 
 ![[session.png|banner]]

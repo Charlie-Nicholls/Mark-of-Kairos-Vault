@@ -139,7 +139,7 @@
   "version": [
     13,
     0,
-    17
+    18
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -181,7 +181,7 @@
         "currentAC": 19,
         "note": "Phoenix Aevum",
         "path": "Compendium/NPCs/Major NPCs/Phoenix Aevum.md",
-        "id": "ID_c9eb98c8583a",
+        "id": "ID_2bfadba85bab",
         "currentHP": 52,
         "tempHP": 0,
         "status": [],
@@ -203,7 +203,7 @@
         "currentAC": 15,
         "note": "Mayastan Daar",
         "path": "Compendium/Party/Player Characters/Mayastan Daar.md",
-        "id": "ID_48f819caab7b",
+        "id": "ID_8a2919ebd999",
         "currentHP": 38,
         "tempHP": 0,
         "status": [],
@@ -225,7 +225,7 @@
         "currentAC": 10,
         "note": "Mata Starheart",
         "path": "Compendium/NPCs/Major NPCs/Mata Starheart.md",
-        "id": "ID_8848290af8c9",
+        "id": "ID_4b6bcbda2a18",
         "currentHP": 16,
         "tempHP": 0,
         "status": [],

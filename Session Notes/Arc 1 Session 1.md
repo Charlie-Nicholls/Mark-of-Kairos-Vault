@@ -21,10 +21,18 @@ ___
 > [!column|flex 3]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Phoenix Aevum]]
+>> - [[Taranis]]
+>> - [[Il'Zuk]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[The Academy of the Devout]]
+>> - [[Camarath]]
+>> - [[Hill District]]
+>> - [[Sentry District]]
+>> - [[Camarath Square]]
+>> - [[Scholar's District]]
+>> - [[Crystal Dragon Library]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

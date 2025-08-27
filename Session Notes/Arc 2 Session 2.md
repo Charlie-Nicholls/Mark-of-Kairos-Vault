@@ -25,6 +25,7 @@ ___
 >> [!example|flex]- LOCATIONS:
 >> - [[Shrine to Kairos]]
 >> - [[Ulrach's Clock Shop]]
+>> - [[Hill District]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Delay The Ritual]]
@@ -40,6 +41,5 @@ Plan for the session here.
 - Anec is captured in the streets of the [[Hill District]]
 
 ### Summary
-- Summary of the important points from the session here.
-
+[[Cutha]] attempted to speak to [[Anec]] but he couldn't explain what was going on and attacked her. During the fight he wielded a [[Entropic Dagger|dagger]] enchanted with entropic magic that dealth serious damage. He could teleport through shadows and seriously hurt [[Mayastan Daar|Daar]] at the start of the fight. [[Mata Starheart|Mata]] attempts to hold him but discovers he is immune, concluding he is not humanoid. After which she finds he is immune to poison and recognises the [[Amulet of Nystul]] around his neck, disguising his true nature, concluding he is undead. After [[Anec]] accepts he is about to be defeated he cries that they "may have killed the best soul mage in the city, but the best soul mage in history is coming" and flees. After a short chase up the tunnels, through [[Ulrach's Clock Shop]] and out into the streets, he was apprehended and tied up.
 

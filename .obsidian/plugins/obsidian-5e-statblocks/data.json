@@ -6073,7 +6073,7 @@
     "/"
   ],
   "autoParse": false,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": false,
   "debug": false,
   "notifiedOfFantasy": false,
