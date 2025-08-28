@@ -19,16 +19,20 @@ ___
 
 ### FEATURES
 
-***Breath Weapon - Action:*** Breath fire onto a target or group of targets within Very Close range, treating it as an Instinct weapon using Proficiency.
-
-***Life Support - Action:*** **Spend 3 Hope** to clear a Hit Point on an ally within Close range.
+#### Combat
 
 ***Spirit Weapon - Passive:*** The Aevum Broadsword can fly from to attack an adversary within Close range and then return. **mark a Stress** to target an additional adversary within range with the same attack roll.
 
-<input type="checkbox"> ***Sparing Touch - Action :*** Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them.
-
-<input type="checkbox"> ***Rewind Time - Action :*** Once per rest, after an ally attempts an action roll but before the consequences take place, you can rewind time to allow your ally to re-roll their dice.
+***Breath Weapon - Action:*** Breath fire onto a target or group of targets within Very Close range, treating it as an Instinct weapon using Proficiency.
 
 ***I Am Your Shield - Reaction :*** When an ally within Very Close range would take damage, **mark a Stress** to take the damage instead, you can mark any number of armour slots. 
 
 <input type="checkbox"> ***Critical Inspiration - Reaction :*** Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope
+
+#### General
+
+***Life Support - Action:*** **Spend 3 Hope** to clear a Hit Point on an ally within Close range.
+
+<input type="checkbox"> ***Sparing Touch - Action :*** Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them.
+
+<input type="checkbox"> ***Rewind Time - Action :*** Once per rest, after an ally attempts an action roll but before the consequences take place, you can rewind time to allow your ally to re-roll their dice.
