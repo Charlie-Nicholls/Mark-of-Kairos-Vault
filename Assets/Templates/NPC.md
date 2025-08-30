@@ -34,7 +34,7 @@ const gender = result.Gender.value;
 const job = result.Job.value;
 const location = result.Location.value;
 const name = result.Name.value;
-const race = result.Race.value;
+const ancestry = result.Ancestry.value;
 const age = result.Age.value;
 const sub = formatSub(location, affinity);
 
@@ -57,7 +57,6 @@ _%>
 type: npc
 locations:
  - <% location ? `"[[${location}]]"` : '' %>
-displayLink: "[[<% name %>]]"
 cover: "/Assets/Images/NPC/img<% name %>"
 ---
 ###### <% name %>
@@ -69,20 +68,22 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Job |  <% job ? job : '' %> |
+> | :FasUser: Ancestry | <% ancestry ? ancestry : '' %> |
 > | :FasVenusMars: Gender | <% gender ? gender : '' %> |
-> | :FasUser: Race | <% race ? race : '' %> |
 > | :FasClock: Age | <% age ? age : '' %> |
+> | :FasBriefcase: Job |  <% job ? job : '' %> |
 >
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Compendium/Party/Quests" AND [[#]]
+>>```
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[#]]
+>>```
 >
 >^InfoBox
 
@@ -93,22 +94,28 @@ ___
 >^IntroText
 
 ### Description
-Description
+#### Background
 
-### Motivations
+#### Motivations
 - List of Motivations
+
+#### Secrets
+- None
+
+### Appearances
+- Summary of Appearances
+
+### Relationships
+#### Allies
+- [[Characters]] or [[Organisations]]
+
+#### Enemies
+- [[Characters]] or [[Organisations]]
 
 ### Magic Items / Abilities
 - None
 
-### Allies
-- [[Characters]] or [[Organisations]]
 
-### Enemies
-- [[Characters]] or [[Organisations]]
-
-### Secrets
-- None
 
 ### Statblock
 >```statblock

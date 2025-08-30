@@ -29,8 +29,8 @@
           }
         },
         {
-          "name": "Race",
-          "label": "Race:",
+          "name": "Ancestry",
+          "label": "Ancestry:",
           "description": "",
           "isRequired": false,
           "input": {

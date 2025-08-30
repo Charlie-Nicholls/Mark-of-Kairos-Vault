@@ -45,8 +45,6 @@ type: notes
 arc: <% arc %>
 number: <% number %>
 date: <% date %>
-locations:
-<% location ? location : ' - '%>
 alias: "<% title %>"
 displayLink: "[[<% name %>|<% arc %>.<% number %>: <% title %>]]"
 ---
@@ -62,20 +60,24 @@ ___
 >> - [[Characters]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> <% location ? location : ' - '%>
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]
 
 ---
 
+
 ### Plan
+> [!recite|nbrd no-i] Fear Tracker
+> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+
 Plan for the session here.
 
 ### Notes
 - Live notes from the session here.
 
 ### Summary
-- Summary of the important points from the session here.
+Summary of the important points from the session here.
 
 

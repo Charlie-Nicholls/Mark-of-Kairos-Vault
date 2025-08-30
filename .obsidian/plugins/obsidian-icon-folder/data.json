@@ -6,6 +6,12 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasWater",
+      "LiNotepadText",
+      "FasMapLocationDot",
+      "RiMapLine",
+      "FasDragon",
+      "LiMap",
       "RiListCheck2",
       "RiFileUserFill",
       "LiSwords",
@@ -13,13 +19,7 @@
       "RiCopperCoinFill",
       "FasCity",
       "FasBook",
-      "FasHouse",
-      "FasClock",
-      "RiSailboatFill",
-      "FasCircleExclamation",
-      "LiNotepadText",
-      "FasPerson",
-      "LiSword"
+      "FasHouse"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -185,5 +185,13 @@
   "Compendium/Party/Character Sheets/Character Sheets.md": "RiFileUserFill",
   "Compendium/Party/Character Sheets": "RiFileUserFill",
   "Compendium/Party/Character Sheets/Phoenix Statblock.md": "RiListCheck2",
-  "Compendium/Party/Character Sheets/Mata Statblock.md": "RiListCheck2"
+  "Compendium/Party/Character Sheets/Mata Statblock.md": "RiListCheck2",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands": "LiMap",
+  "Compendium/DM Toolbox/Adversaries": "FasDragon",
+  "Compendium/DM Toolbox/Environments": "FasMapLocationDot",
+  "Compendium/Party/Quests/Find the Lost City.md": "FasCity",
+  "Session Notes/Arc 2 Session 4.md": "LiNotepadText",
+  "Compendium/NPCs/Cursed NPCs": "FasDragon",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans": "FasWater",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans/Forsaken Sea": "FasWater"
 }
