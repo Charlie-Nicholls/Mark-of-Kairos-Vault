@@ -35,6 +35,10 @@ ___
 > - Use [[Ocean]] & [[Hurricane]] Environments
 > - Show James a map and ask him where he wants to go (Straight to [[The Ostirach Empire]] via the [[Desolation of Suuhulla]] or around and through the [[Wildlands]])
 > - Pirate ship encounter -> Hurricane -> Siren [[Alluvia]]
+> - Pirate Names:
+> 	- Captain Cadby 'Crazy Eyes' Hook
+> 	- Marston 'Dead Eyes' Glacier
+> 	- Eda 'Reaper' Newberry
 
 ```widgets
 type: counter
