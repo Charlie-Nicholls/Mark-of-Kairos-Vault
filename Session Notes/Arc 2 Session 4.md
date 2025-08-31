@@ -19,7 +19,7 @@ ___
 >> - [[Mata Starheart]]
 >
 >> [!example|flex]- LOCATIONS:
->>  - 
+>>  - [[Forsaken Sea]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Find the Lost City]]
@@ -44,11 +44,26 @@ ___
 type: counter
 text: Navigation
 id: Navigation
-startValue: 8
+startValue: 7
+```
+
+```widgets
+type: counter
+text: Weather Difficulty
+id: WD
+startValue: 2
+```
+
+```widgets
+type: counter
+text: 6hrs
+id: Navigation
+startValue: 0
 ```
 
 ### Notes
-- Live notes from the session here.
+- 17 with fear to write a note to Cutha telling her to investigate ithelen's amulet and
+- 2 Rests
 
 ### Summary
 Summary of the important points from the session here.

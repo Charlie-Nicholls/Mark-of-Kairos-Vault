@@ -12,7 +12,7 @@ layout: Daggerheart Environment
 type: Traversal
 description: Water stretches out as far as the eye can see, stormy waters threaten sailors while creatures unknown lurk beneath the surface.
 impulses: Test stamina and navigational skills, rock the boat, monsters seek to sink ships
-difficulty: "13"
+difficulty: "14"
 potential_adversaries: Pirate Ship (Pirate Captain, Pirate Raiders, Pirate Tough), Electric Eels, Shark, Siren
 feats:
 

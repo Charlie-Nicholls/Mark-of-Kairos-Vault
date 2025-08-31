@@ -23,7 +23,7 @@ feats:
  
   - name: Sink or Swim - Passive
     text: |-
-      Any PCs in the water who cannot breather underwater when the Hurricane is spotlighted must mark 2 Stress.
+      Any PCs in the water who cannot breathe underwater when the Hurricane is spotlighted must mark 2 Stress.
       
         *What questions should go here? What questions should go here?*
        

@@ -21,21 +21,19 @@ Description of continent
 ### Map
 ```leaflet
 id: lothlonde-map
-image: [[imgLothlondeMap.png]]
+image: [[mapLothlondeCenter.jpg]]
 height: 600px
 lat: 50%
 long: 50%
-minZoom: 7.1
-maxZoom: 10
-defaultZoom: 7.1
+minZoom: 7.66
+maxZoom: 10.06
+defaultZoom: 7.66
 zoomDelta: 0.5
 unit: meters
 recenter: true
 scale: 1
 noUI: true
 lock: true
-marker: default,-1.5302664270343882,2.8321248068068896,Camarath,,,marker: default,-1.347686767578125,3.081827692117414,The Academy of the Devout,,,
-marker: default,-1.44464021525008,2.475774555164909,Desolation of Suuhulla,,,
 
 ```
 

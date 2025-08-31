@@ -35,4 +35,4 @@ ___
 
 <input type="checkbox"> ***Sparing Touch - Action :*** Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them.
 
-<input type="checkbox"> ***Rewind Time - Action :*** Once per rest, after an ally attempts an action roll but before the consequences take place, you can rewind time to allow your ally to re-roll their dice.
+<input type="checkbox"> ***Rewind Time - Action :*** Once per rest, after you or an ally attempts an action roll but before the consequences take place, you can rewind time to allow them to re-roll their dice with advantage.
