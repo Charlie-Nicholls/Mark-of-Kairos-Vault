@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCity",
+      "RiCommunityFill",
       "FasHurricane",
       "FasMusic",
       "FasWater",
@@ -17,9 +19,7 @@
       "RiListCheck2",
       "RiFileUserFill",
       "LiSwords",
-      "LiNotebookPen",
-      "RiCopperCoinFill",
-      "FasCity"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -64,7 +64,6 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire": "LiMap",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde": "FasMap",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela": "LiMap",
-  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/The Academy of the Devout": "LiSchool",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath": "FasCity",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Beggar's Docks": "LiSailboat",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square": "LiSquare",
@@ -196,5 +195,9 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans/Forsaken Sea": "FasWater",
   "Compendium/Lore/Deities/Gods/Melodious.md": "FasMusic",
   "Compendium/DM Toolbox/Environments/Hurricane.md": "FasHurricane",
-  "Compendium/DM Toolbox/Environments/Ocean.md": "FasWater"
+  "Compendium/DM Toolbox/Environments/Ocean.md": "FasWater",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Veritas": "FasCity",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Solhaven": "RiCommunityFill",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Solhaven/The Academy of the Devout": "LiSchool",
+  "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands/Kidwy": "FasCity"
 }

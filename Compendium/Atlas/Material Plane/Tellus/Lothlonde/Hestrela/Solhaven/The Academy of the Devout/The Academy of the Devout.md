@@ -3,6 +3,7 @@ cssClasses: grayTable, wideTable
 type: landmark
 locations:
  - "[[Hestrela]]"
+ - "[[Solhaven]]"
 displayLink: "[[The Academy of the Devout]]"
 ---
 
