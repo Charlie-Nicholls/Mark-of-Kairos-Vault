@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHurricane",
       "FasMusic",
       "FasWater",
       "LiNotepadText",
@@ -18,8 +19,7 @@
       "LiSwords",
       "LiNotebookPen",
       "RiCopperCoinFill",
-      "FasCity",
-      "FasBook"
+      "FasCity"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -194,5 +194,7 @@
   "Compendium/NPCs/Cursed NPCs": "FasDragon",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans": "FasWater",
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans/Forsaken Sea": "FasWater",
-  "Compendium/Lore/Deities/Gods/Melodious.md": "FasMusic"
+  "Compendium/Lore/Deities/Gods/Melodious.md": "FasMusic",
+  "Compendium/DM Toolbox/Environments/Hurricane.md": "FasHurricane",
+  "Compendium/DM Toolbox/Environments/Ocean.md": "FasWater"
 }

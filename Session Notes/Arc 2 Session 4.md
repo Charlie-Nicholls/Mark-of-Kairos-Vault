@@ -36,6 +36,13 @@ ___
 > - Show James a map and ask him where he wants to go (Straight to [[The Ostirach Empire]] via the [[Desolation of Suuhulla]] or around and through the [[Wildlands]])
 > - Pirate ship encounter -> Hurricane -> Siren [[Alluvia]]
 
+```widgets
+type: counter
+text: Navigation
+id: Navigation
+startValue: 8
+```
+
 ### Notes
 - Live notes from the session here.
 

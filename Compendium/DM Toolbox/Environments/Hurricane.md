@@ -17,11 +17,11 @@ potential_adversaries: Electric Eels, Shark, Siren
 feats:
   - name: Survive the Storm - Passive
     text: |-
-      When the Hurricane arrives, activate a Countdown (1d6+2), which decreases each time a PC rolls with Hope. When the countdown ends, replace this with the Ocean environment.
+      When the Hurricane arrives, activate a Countdown (1d6+2), which decreases each time a PC rolls with Hope. When the countdown ends, replace this with the Ocean environment and set the Weather Difficulty to 4.
                 
         *What questions should go here? What questions should go here?*
  
-  - name: Swimming Not Advised - Passive
+  - name: Sink or Swim - Passive
     text: |-
       Any PCs in the water who cannot breather underwater when the Hurricane is spotlighted must mark 2 Stress.
       
