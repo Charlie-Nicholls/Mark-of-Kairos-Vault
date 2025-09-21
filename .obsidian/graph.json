@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Assets",
+  "collapse-filter": false,
+  "search": "-path:\"Daggerheart SRD\" -path:Assets -path:\"Compendium/DM Toolbox\"   ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38230117571904826,
-  "close": false
+  "scale": 0.322446667561198,
+  "close": true
 }
