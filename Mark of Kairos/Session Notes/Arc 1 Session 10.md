@@ -4,7 +4,7 @@ arc: 1
 number: 10
 date: 2024-12-31
 locations:
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
+  - "[[Camarath]]"
 displayLink: "[[Arc 1 Session 10|1.10: Save The Cat - Kill The Bird]]"
 alias: Save The Cat - Kill The Bird
 ---
@@ -16,10 +16,13 @@ ___
 
 > [!column|flex 3]
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Phoenix Aevum]]
+>> - [[Mata Starheart]]
+>> - [[Il'Zuk]]
+>> - [[Tiva]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Camarath]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

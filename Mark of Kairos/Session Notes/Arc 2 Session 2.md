@@ -4,7 +4,7 @@ arc: 2
 number: 2
 date: 2025-02-26
 locations:
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
+  - "[[Camarath]]"
 alias: Confronting Anec
 displayLink: "[[Arc 2 Session 2|2.2: Confronting Anec]]"
 ---
@@ -23,9 +23,9 @@ ___
 >> - [[Anec]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Shrine to Kairos/Shrine to Kairos]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Ulrach's Clock Shop/Ulrach's Clock Shop]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]
+>> - [[Shrine to Kairos]]
+>> - [[Ulrach's Clock Shop]]
+>> - [[Hill District]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Delay The Ritual]]

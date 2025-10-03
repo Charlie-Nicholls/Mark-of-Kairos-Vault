@@ -27,10 +27,10 @@ ___
 >> - [[Laune]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Scholar's District/Scholar's District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Noble's District/Noble's District]]
+>> - [[Camarath]]
+>> - [[Hill District]]
+>> - [[Scholar's District]]
+>> - [[Noble's District]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Evacuate Camarath]]

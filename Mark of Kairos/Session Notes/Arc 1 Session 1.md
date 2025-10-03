@@ -4,11 +4,11 @@ arc: 1
 number: 1
 date: 2024-08-20
 locations:
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Solhaven/The Academy of the Devout/The Academy of the Devout]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Sentry District]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square/Camarath Square]]"
+  - "[[The Academy of the Devout]]"
+  - "[[Camarath]]"
+  - "[[Sentry District]]"
+  - "[[Hill District]]"
+  - "[[Camarath Square]]"
 alias: An Old Friend - A New Enemy
 displayLink: "[[Arc 1 Session 1|1.1: An Old Friend - A New Enemy]]"
 ---
@@ -26,13 +26,13 @@ ___
 >> - [[Il'Zuk]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Solhaven/The Academy of the Devout/The Academy of the Devout]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Sentry District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath Square/Camarath Square]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Scholar's District/Scholar's District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Scholar's District/Crystal Dragon Library/Crystal Dragon Library]]
+>> - [[The Academy of the Devout]]
+>> - [[Camarath]]
+>> - [[Hill District]]
+>> - [[Sentry District]]
+>> - [[Camarath Square]]
+>> - [[Scholar's District]]
+>> - [[Crystal Dragon Library]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

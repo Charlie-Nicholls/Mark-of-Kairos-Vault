@@ -4,10 +4,10 @@ arc: 1
 number: 3
 date: 2024-09-05
 locations:
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Ulrach's Clock Shop/Ulrach's Clock Shop]]"
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Shrine to Kairos/Shrine to Kairos]]"
+  - "[[Camarath]]"
+  - "[[Hill District]]"
+  - "[[Ulrach's Clock Shop]]"
+  - "[[Shrine to Kairos]]"
 alias: Whispered Prayer - Shouted Curse
 displayLink: "[[Arc 1 Session 3|1.3: Whispered Prayer - Shouted Curse]]"
 ---
@@ -23,7 +23,10 @@ ___
 >> - [[Characters]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Camarath]]
+>> - [[Hill District]]
+>> - [[Ulrach's Clock Shop]]
+>> - [[Shrine to Kairos]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

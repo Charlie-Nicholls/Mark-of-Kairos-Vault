@@ -4,7 +4,7 @@ arc: 2
 number: 1
 date: 2025-02-13
 locations:
-  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
+  - "[[Camarath]]"
 alias: The Final Loop
 displayLink: "[[Arc 2 Session 1|2.1: The Final Loop]]"
 ---
@@ -26,13 +26,13 @@ ___
 >> - [[Jay Fourmen]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Afel's Rebirth/Afel's Rebirth]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Sentry District/Sentry District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Hill District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Guild District]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Guild District/Adventurer's Guild/Adventurer's Guild]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Ulrach's Clock Shop/Ulrach's Clock Shop]]
->> - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Hill District/Shrine to Kairos/Shrine to Kairos]]
+>> - [[Afel's Rebirth]]
+>> - [[Sentry District]]
+>> - [[Hill District]]
+>> - [[Guild District]]
+>> - [[Adventurer's Guild]]
+>> - [[Ulrach's Clock Shop]]
+>> - [[Shrine to Kairos]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Delay The Ritual]]
