@@ -1,8 +1,10 @@
 ---
 type: quest
-target: ["[[Phoenix Aevum]]", "[[Mayastan Daar]]"]
+target:
+  - "[[Phoenix Aevum]]"
+  - "[[Mayastan Daar]]"
 locations:
- - "[[The Ostirach Empire]]"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/The Ostirach Empire]]"
 displayLink: "[[Find the Lost City]]"
 ---
 ###### Find the Lost City

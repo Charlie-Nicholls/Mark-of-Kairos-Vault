@@ -11,7 +11,7 @@ date: 2024-08-19
  ### :FasBook: Arc One - The Mark of Kairos
 
 ```dataviewjs
-let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
+let pages = dv.pages('"Mark of Kairos/Session Notes"').sort(p => p.number, "asc"); 
 let chapters = [];
 for (let i=0; i < pages.length; i++) {
 	if (pages[i].arc == 1) {
@@ -26,7 +26,7 @@ dv.list(chapters)
 ### :FasBook: Arc Two - The Mark of Diracmi
 
 ```dataviewjs
-let pages = dv.pages('"Session Notes"').sort(p => p.number, "asc"); 
+let pages = dv.pages('"Mark of Kairos/Session Notes"').sort(p => p.number, "asc"); 
 let chapters = [];
 for (let i=0; i < pages.length; i++) {
 	if (pages[i].arc == 2) {

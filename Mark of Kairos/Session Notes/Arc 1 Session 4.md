@@ -4,10 +4,10 @@ arc: 1
 number: 4
 date: 2024-09-21
 locations:
-  - "[[Camarath]]"
-  - "[[Camarath Observatory]]"
-  - "[[Monument District]]"
-alias: "Seeing Stars - Hearing Cries"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Monument District/Camarath Observatory/Camarath Observatory]]"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Monument District/Monument District]]"
+alias: Seeing Stars - Hearing Cries
 displayLink: "[[Arc 1 Session 4|1.4: Seeing Stars - Hearing Cries]]"
 ---
 

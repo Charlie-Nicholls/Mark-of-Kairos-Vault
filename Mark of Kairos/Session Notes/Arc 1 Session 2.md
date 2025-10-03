@@ -4,7 +4,7 @@ arc: 1
 number: 2
 date: 2024-08-26
 locations:
-  - "[[Camarath]]"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
 alias: Another Founding - Another Ending
 displayLink: "[[Arc 1 Session 2|1.2: Another Founding - Another Ending]]"
 ---

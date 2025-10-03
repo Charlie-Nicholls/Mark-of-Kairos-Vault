@@ -2,7 +2,7 @@
 type: quest
 target: "[[Mayastan Daar]]"
 locations:
- - "[[Camarath]]"
+  - "[[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Hestrela/Camarath/Camarath]]"
 displayLink: "[[Evacuate Camarath]]"
 ---
 ###### Evacuate Camarath

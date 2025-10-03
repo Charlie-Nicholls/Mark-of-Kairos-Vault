@@ -1,8 +1,8 @@
 ---
 type: npc
 locations:
- - "[[Forsaken Sea]]"
-cover: "/Assets/Images/NPC/imgAlluvia"
+  - "[[Forsaken Sea]]"
+cover: /Assets/Images/NPC/imgAlluvia
 ---
 ###### Alluvia
 <span class="sub2">:FasMapLocationDot: [[Forsaken Sea]] | :FasHeartPulse: Hostile </span>

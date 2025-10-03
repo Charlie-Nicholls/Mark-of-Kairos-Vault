@@ -3,8 +3,8 @@ type: notes
 arc: 2
 number: 4
 date: 2025-08-31
-alias: "TBD"
-displayLink: "[[Arc 2 Session 4|2.4: TBD]]"
+alias: "Stormy Seas"
+displayLink: "[[Arc 2 Session 4|2.4: Stormy Seas]]"
 ---
 
 ![[session.png|banner]]
@@ -19,7 +19,7 @@ ___
 >> - [[Mata Starheart]]
 >
 >> [!example|flex]- LOCATIONS:
->>  - [[Forsaken Sea]]
+>>  - [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Oceans/Forsaken Sea/Forsaken Sea]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Find the Lost City]]
@@ -33,8 +33,8 @@ ___
 
 > [!recite|nbrd no-i] Travel the ocean
 > - Use [[Ocean]] & [[Hurricane]] Environments
-> - Show James a map and ask him where he wants to go (Straight to [[The Ostirach Empire]] via the [[Desolation of Suuhulla]] or around and through the [[Wildlands]])
-> - Pirate ship encounter -> Hurricane -> Siren [[Alluvia]]
+> - Show James a map and ask him where he wants to go (Straight to [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/The Ostirach Empire/The Ostirach Empire]] via the [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Desolation of Suuhulla/Desolation of Suuhulla]] or around and through the [[Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands/Wildlands]])
+> - Pirate ship encounter -> Hurricane -> Siren [[Alluvia 1]]
 > - Pirate Names:
 > 	- Captain Cadby 'Crazy Eyes' Hook
 > 	- Marston 'Dead Eyes' Glacier

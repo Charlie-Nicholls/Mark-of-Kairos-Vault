@@ -35,7 +35,7 @@ dv.table(["cover", "name", "details"],
 > [!session]-  [[Session Notes]]<br><span class="sub">Summaries, Transcripts, & Notes</span>
 > ```dataviewjs
 > dv.container.className += ' listMe';
-> let pages = dv.pages('"Session Notes"').sort(p => p.date, "desc");  
+> let pages = dv.pages('"Mark of Kairos/Session Notes"').sort(p => p.date, "desc");  
 > dv.table(["Date"], pages.map(page => [`- ${page.displayLink}`]));
 > ```
 > `BUTTON[note]`
@@ -58,7 +58,7 @@ dv.table(["cover", "name", "details"],
 > [!agenda]-  The Party<br><span class="sub">Objectives, Players, & Quests</span>
 >```dataviewjs
 > dv.container.className += ' listMe';
-> let pages = dv.pages('"Compendium/Party/Quests"').sort(p => p.file.name, "asc");
+> let pages = dv.pages('"Mark of Kairos/Quests"').sort(p => p.file.name, "asc");
 > dv.table(["Name", "Status"], pages.map(page => {
 > const questStatusTerms = ["completed", "abandoned", "failed", "ongoing", "pending"];
 > let status = questStatusTerms.find(term => page.status && page.status.includes(term));
