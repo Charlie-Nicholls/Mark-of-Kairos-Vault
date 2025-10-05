@@ -45,6 +45,7 @@ const subClass = result.subClass.value;
 const subType = getIcon(Class);
 const quote = result.Quote.value;
 const cSheet = result.cSheet.value;
+const pronouns = result.Pronouns.value;
 
 if (result.status === 'ok') {
 
@@ -70,6 +71,7 @@ ancestry: "<% Ancestry ? Ancestry : '' %>"
 community: "<% Community ? Community : '' %>"
 class: "<% Class ? Class : '' %>"
 subClass: "<% subClass ? subClass : '' %>"
+pronouns: "<% pronouns ? pronouns : '' %>"
 cover: "/Assets/Images/Portrait.jpg"
 
 ---
@@ -82,8 +84,8 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasCrown: Level   | `=this.level` |
-> | :RiSwordFill: Class |  `=this.class` |
+> | :FasVenusMars: Pronouns | `=this.pronouns` |
+> | :RiSwordFill: Class |  `=this.class` (Level `=this.level`) |
 > | <% subType %> Subclass |  `=this.subClass`|
 > |  :LiDna: Ancestry |  `=this.ancestry`|
 > |  :FasUserGroup: Community |  `=this.community`|
@@ -119,10 +121,6 @@ ___
 > ```
 
 # Profile
-
-> [!boxed|no-t]
-> Introduction for players
->^IntroText
 	
 ### Description
 

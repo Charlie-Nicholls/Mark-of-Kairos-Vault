@@ -65,12 +65,12 @@ displayLink: "[[<% name %>]]"
 >>[!hint]- NPCs
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/NPCs" AND [[#]]
+FROM "Compendium/NPCs" AND [[#]]```
 >
 >>[!note]- HISTORY
 >>```dataview
 >LIST WITHOUT ID displayLink
->FROM "Session Notes" AND [[#]]
+>FROM "Session Notes" AND [[#]]```
 
 > [!boxed|no-t]
 > Introduction for players

@@ -100,11 +100,11 @@ Description of the <% type ? type.toLowerCase() : 'landmark' %> <% name %>.
 > >```dataview
 LIST WITHOUT ID displayLink
 FROM "Compendium/NPCs" AND [[#]]
-SORT file.name ASC
+SORT file.name ASC```
 > 
 >> [!note]- HISTORY
 >>```dataview
 LIST WITHOUT ID displayLink
 FROM "Session Notes" AND [[#]]
-SORT file.ctime DESC
+SORT file.ctime DESC```
 

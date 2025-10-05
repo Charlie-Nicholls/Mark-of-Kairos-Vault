@@ -1,22 +1,25 @@
 ---
-type: continent
+type: territory
 locations:
- - "[[Tellus (Distant Past)]]"
-displayLink: "[[Lothlonde (Distant Past)]]"
+ - "[[Lothlonde (Distant Past)]]"
+displayLink: "[[Trela]]"
 ---
 
 ![[banner.jpg|banner]]
-###### Lothlonde (Distant Past)
-<span class="sub2">:FasEarthAmericas: Continent</span>
+
+---
+
+###### Trela
+<span class="sub2">:FasChessRook: Kingdom</span>
 
 ---
 
 > [!boxed|no-t]
 > Introduction for players
 >^IntroText
-	
+
 ### Description
-Description of continent
+Description of Territory
 
 ---
 
@@ -28,8 +31,8 @@ FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]```
 > 
 >> [!example]- LOCATIONS
 >>```dataview
-LIST WITHOUT ID displayLink
-FROM "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)" AND [[#]]
+LIST WITHOUT ID displayLink + " (" + type + ")"
+FROM "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)/Trela" AND [[#]]
 WHERE file.name != this.file.name
 SORT file.name ASC```
 >

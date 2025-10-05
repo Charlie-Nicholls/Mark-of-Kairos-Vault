@@ -729,6 +729,18 @@
             "type": "text",
             "hidden": false
           }
+        },
+        {
+          "name": "Pronouns",
+          "label": "Pronouns:",
+          "description": "",
+          "input": {
+            "type": "dataview",
+            "allowUnknownValues": false,
+            "hidden": false,
+            "query": "['He/Him','She/Her','They/Them','He/They','She/They','Any']"
+          },
+          "isRequired": false
         }
       ],
       "version": "1",

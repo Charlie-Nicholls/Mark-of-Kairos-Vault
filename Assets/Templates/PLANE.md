@@ -45,17 +45,17 @@ Description of plane
 >> [!hint]-  NPCs
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]
+FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]```
 >
 >> [!example]- LOCATIONS
 >>```dataview
 LIST WITHOUT ID displayLink
 FROM "Compendium/Atlas/<% name %>" AND [[#]]
 WHERE file.name != this.file.name
-SORT file.name ASC
+SORT file.name ASC```
 >
 >> [!note]- HISTORY
 >>```dataview
 LIST WITHOUT ID displayLink
 FROM "Session Notes" AND [[#]]
-SORT file.ctime DESC
+SORT file.ctime DESC```

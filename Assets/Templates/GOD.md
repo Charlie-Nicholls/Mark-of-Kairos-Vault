@@ -62,17 +62,17 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[#]]
+>>FROM "Compendium/Party/Quests" AND [[#]]```
 >
 >> [!hint]-  PEOPLE
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]] 
+>>FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]```
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
+>>FROM "Session Notes" AND [[#]]```
 >
 >^InfoBox
 

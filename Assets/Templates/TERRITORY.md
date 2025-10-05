@@ -92,12 +92,12 @@ Description of Territory
 >> [!hint]-  NPCs
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]] 
+FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]```
 > 
 >> [!example]- LOCATIONS
 >>```dataview
 LIST WITHOUT ID displayLink + " (" + type + ")"
-FROM "Compendium/Atlas/<% location ? `${path}/` : '' %><% name %>" AND [[#]]
+FROM "Compendium/Atlas/<% location ? `${path}/` : '' %><% name %>" AND [[#]]```
 WHERE file.name != this.file.name
 SORT file.name ASC
 >
@@ -105,4 +105,4 @@ SORT file.name ASC
 >>```dataview
 LIST WITHOUT ID displayLink
 FROM "Session Notes" AND [[#]]
-SORT file.ctime DESC
+SORT file.ctime DESC```

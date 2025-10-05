@@ -76,14 +76,12 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[#]]
->>```
+>>FROM "Compendium/Party/Quests" AND [[#]]```
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
->>```
+>>FROM "Session Notes" AND [[#]]```
 >
 >^InfoBox
 

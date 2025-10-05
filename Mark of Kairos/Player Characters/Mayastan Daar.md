@@ -60,8 +60,9 @@ ___
 > | Experience |
 > | :----: |
 > | **Experiences** |
-> | :FasCircleQuestion: Text +2 |
-> | :FasCircleQuestion: Text +2 |
+> | :FasDragon: Stealthy For a Dragon +2 |
+> | :FasSailboat: Yeah I Can Drive a Boat +2 |
+> | :FasSkullCrossbones: Dumb Ways To Die +2 |
 > 
 >^InfoBox
 
@@ -71,7 +72,7 @@ ___
 > icon: link
 > tooltip: external character sheet
 > style: default
-> action: {type: open, link: https://www.dndbeyond.com/characters/130310295, newTab: true}
+> action: {type: open, link: C:\Users\charl\OneDrive\Desktop\Mark of Kairos\Assets\Miscellaneous\Daar's Character Sheet.pdf, newTab: true}
 > ```
 
 # Profile

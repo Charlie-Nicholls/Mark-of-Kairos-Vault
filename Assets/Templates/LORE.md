@@ -70,9 +70,9 @@ Description of the <% type ? type.toLowerCase() : 'lore' %>, <% name %>.
 >>[!hint]- PEOPLE
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party/Player Characters" AND [[#]]
+FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party/Player Characters" AND [[#]]```
 >
 >>[!note]- HISTORY
 >>```dataview
 >LIST WITHOUT ID displayLink
->FROM "Session Notes" AND [[#]]
+>FROM "Session Notes" AND [[#]]```

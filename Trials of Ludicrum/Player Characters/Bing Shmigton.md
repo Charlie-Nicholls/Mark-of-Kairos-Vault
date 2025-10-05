@@ -1,19 +1,19 @@
 ---
 type: pc
 level: 1
-evasion: 0
-hp: 7
+evasion: 10
+hp: 6
 stress: 6
-ancestry: "Firbolg"
-community: "Ridgeborne"
-class: "Seraph"
-subClass: "Winged Sentinel"
+ancestry: "Elf"
+community: "Wildborne"
+class: "Druid"
+subClass: "Warden of the Elements"
 cover: "/Assets/Images/Portrait.jpg"
-pronouns: "She/Her"
+pronouns: "He/Him"
 
 ---
 
-###### Boshominind
+###### Bing Shmigton
 :FasPerson: Player Character | :FasQuoteLeft: Quote or tagline here :FasQuoteRight:
 ___
 > [!infobox|no-t right]
@@ -23,7 +23,7 @@ ___
 > | ---- | ---- |
 > | :FasVenusMars: Pronouns | `=this.pronouns` |
 > | :RiSwordFill: Class |  `=this.class` (Level `=this.level`) |
-> | :FasPersonPraying: Subclass |  `=this.subClass`|
+> | :FasMoon: Subclass |  `=this.subClass`|
 > |  :LiDna: Ancestry |  `=this.ancestry`|
 > |  :FasUserGroup: Community |  `=this.community`|
 > 
@@ -43,8 +43,8 @@ ___
 > | Experience |
 > | :----: |
 > | **Experiences** |
-> | :FasRepeat: Never again +2 |
-> | :LiHandHelping: No Man Left Behind +2 |
+> | :LiTrees: Forest Born +2 |
+> | :FasHammer: Carpenter +2 |
 > 
 >^InfoBox
 
@@ -54,22 +54,20 @@ ___
 > icon: link
 > tooltip: external character sheet
 > style: default
-> action: {type: open, link: https://duality-codex.com/shared/Yg7zXy5nFxgbDX2C7YD60u2QCHCZASI4, newTab: true}
+> action: {type: open, link: https://duality-codex.com/shared/y6cd1KWOGdgOoFnE74tu0kFOUMTV7JL3, newTab: true}
 > ```
 
 # Profile
 
 ### Description
-Firbold with the top third of a human, the bottom third of a human and the middle third of a cow, udders and all.
-Seraph of the goddess [[Afel]].
+
 #### Background
-- From a desolate tiny village at the top of a mountain, sheltered.
-- Used to play a game of keep the balloon up, near a mountain edge, if you drop it you have to get it back, balloon was made of milk skin.
-- Burned down the village's dairy after an incident with the fire-y powers granted by [[Afel]].
+- The area where he's from has been brutally taken over and deforested and animals killed. He's joining up to try to get this reverted, done by nearby kingdom getting greedy.
+- Blessed by [[Gagavar]] to get his druid powers but in return had to protect the forest. 
 #### Secrets
 
 #### Motivations 
-- Build a new dairy for the village she's from because they caused the old one to burn down.
+- Save his forest
 ### Relationships
 
 #### Allies
