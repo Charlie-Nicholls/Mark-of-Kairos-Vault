@@ -13,24 +13,22 @@ function toCamelCase(str) {
 }
 
 // Return icon based on class
-function getIcon(pClass) {
+function getIcon(Class) {
   const iconMappings = {
-    Artificer: ':RiToolsFill: Specialist',
-    Barbarian: ':LiAxe: Primal Path',
-    Bard: ':FasGuitar: College',
-    Cleric: ':FasPersonPraying: Divine Domain',
-    Druid: ':FasMoon: Circle',
-    Fighter: ':FasUserShield: Archetype',
-    Monk: ':FasHandFist: Tradition',
-    Paladin: ':FasFireFlameCurved: Oath',
-    Ranger: ':FasBullseye: Conclave',
-    Rogue: ':RiSwordFill: Archetype',
-    Sorcerer: ':FasHandSparkles: Origin',
-    Warlock: ':FasBurst: Patron',
-    Wizard: ':FasWandMagicSparkles: Tradition'
+    Bard: ':FasGuitar:',
+    Druid: ':FasMoon:',
+    Guardian: ':FasUserShield:',
+    Paladin: ':FasFireFlameCurved:',
+    Ranger: ':FasBullseye:',
+    Rogue: ':RiSwordFill:',
+    Seraph: ':FasPersonPraying:',
+    Sorcerer: ':FasHandSparkles:',
+    Warrior: ':FasHandFist:',
+    Warlock: ':FasBurst:',
+    Wizard: ':FasWandMagicSparkles:'
   };
 
-  return iconMappings[pClass] || ':FasCircleQuestion: Sub Class';
+  return iconMappings[Class] || ':FasCircleQuestion: Sub Class';
 }
 
 // ###########################################################
@@ -39,12 +37,13 @@ function getIcon(pClass) {
 
 // Call modal form & declare variables
 const result = await MF.openForm('PC');
-const quote = result.Quote.value;
-const pClass = result.pClass.value;
-const subClass = result.subClass.value;
-const subType = getIcon(pClass);
 const name = result.Name.value;
-const race = result.Race.value;
+const Ancestry = result.Ancestry.value;
+const Community = result.Community.value;
+const Class = result.Class.value;
+const subClass = result.subClass.value;
+const subType = getIcon(Class);
+const quote = result.Quote.value;
 const cSheet = result.cSheet.value;
 
 if (result.status === 'ok') {
@@ -63,19 +62,20 @@ if (result.status === 'ok') {
 -%>
 ---
 type: pc
-displayLink: "[[<% name %>]]"
 level: 1
-ac: 10
-hp: 10
-modifier: 0
-race: "<% race ? race : '' %>"
-class: "<% pClass ? pClass : '' %>"
+evasion: 10
+hp: 6
+stress: 6
+ancestry: "<% Ancestry ? Ancestry : '' %>"
+community: "<% Community ? Community : '' %>"
+class: "<% Class ? Class : '' %>"
 subClass: "<% subClass ? subClass : '' %>"
 cover: "/Assets/Images/Portrait.jpg"
+
 ---
 
 ###### <% name %>
-<span class="sub2"> :FasPerson: Player Character  |  :FasQuoteLeft: <% quote ? quote : 'Quote or tagline here' %> :FasQuoteRight: </span>
+:FasPerson: Player Character | :FasQuoteLeft: <% quote ? quote : 'Quote or tagline here' %> :FasQuoteRight:
 ___
 > [!infobox|no-t right]
 > ![[portrait.jpg|350]]
@@ -83,40 +83,40 @@ ___
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
-> | :RiSwordFill: Class |  `=this.class`|
-> | <% subType %> |  `=this.subClass`|
-> |  :FasUserGroup: Race |  `=this.race`|
+> | :RiSwordFill: Class |  `=this.class` |
+> | <% subType %> Subclass |  `=this.subClass`|
+> |  :LiDna: Ancestry |  `=this.ancestry`|
+> |  :FasUserGroup: Community |  `=this.community`|
 > 
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 11 |
->> | :FasMagnifyingGlass: Passive Investigation | 10 |
->> | :RiSpeakFill: Passive Insight | 11 |
->> | :FasShield: Armour Class | `=this.ac` |
->> | :FasHeart: Max Hit Points | `=this.hp` |
+>> | :FasPersonRunning: Agility | +0 |
+>> | :LiBicepsFlexed: Strength | +0 |
+>> | :FasHands: Finesse | +0 |
+>> | :LiEye: Instinct | +0 |
+>> | :RiSpeakFill: Presence | +0 |
+>> | :FasBook: Knowledge | +0 |
+>> | :RaPlayerDodge: Evasion | `=this.evasion` |
+>> | :FasHeart: Max HP | `=this.hp` |
+>> | :FasBoltLightning: Max Stress | `=this.stress` |
 >
->> [!info]- STORYLINES
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[<% name %>]]  OR [[The Party]])
->>SORT file.ctime DESC
->
->>[!note]- HISTORY
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
->>SORT file.ctime DESC
->
+> | Experience |
+> | :----: |
+> | **Experiences** |
+> | :FasCircleQuestion: Text +2 |
+> | :FasCircleQuestion: Text +2 |
+> 
 >^InfoBox
 
 > [!infobox|no-t clean right]
->```meta-bind-button
-label: Character Sheet
-icon: link
-tooltip: external character sheet
-style: default
-action: {type: open, link: <% cSheet %>, newTab: true}
+> ```meta-bind-button
+> label: Character Sheet
+> icon: link
+> tooltip: external character sheet
+> style: default
+> action: {type: open, link: <% cSheet %>, newTab: true}
+> ```
 
 # Profile
 
@@ -125,19 +125,20 @@ action: {type: open, link: <% cSheet %>, newTab: true}
 >^IntroText
 	
 ### Description
-> General Description
 
-### Motivations
-- List of Motivations
+#### Background
+
+#### Secrets
+
+#### Motivations 
+
+### Relationships
+
+#### Allies
+- [[Characters]] or [[Organisations]]
+
+#### Enemies
+- [[Characters]] or [[Organisations]]
 
 ### Magic Items / Abilities
-- None
-
-### Allies
-- [[Characters]] or [[Organisations]]
-
-### Enemies
-- [[Characters]] or [[Organisations]]
-
-### Secrets
 - None

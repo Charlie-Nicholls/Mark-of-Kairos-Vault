@@ -57,6 +57,12 @@ ___
 >> SORT file.ctime DESC
 >>```
 >
+> | Experience |
+> | :----: |
+> | **Experiences** |
+> | :FasCircleQuestion: Text +2 |
+> | :FasCircleQuestion: Text +2 |
+> 
 >^InfoBox
 
 > [!infobox|no-t clean right]
