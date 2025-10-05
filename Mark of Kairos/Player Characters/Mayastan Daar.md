@@ -76,10 +76,6 @@ ___
 
 # Profile
 
-> [!boxed|no-t]
-> Introduction for players
->^IntroText
-
 ### Description
 #### Background
 
