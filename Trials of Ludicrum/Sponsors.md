@@ -2,9 +2,9 @@
 <span class="sub2">:FasSitemap: Organizations</span>
 ___
 
-### Religous
+### Church of Trela
 
-### Tech
+### Ostitech
 
 ### Charity
 

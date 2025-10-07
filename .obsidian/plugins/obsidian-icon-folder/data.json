@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPerson",
       "LiMap",
       "FasCoins",
       "FasMoneyBill",
@@ -18,8 +19,7 @@
       "RaSpadesCard",
       "RaPerspectiveDiceSix",
       "FasMap",
-      "RiTimeZoneFill",
-      "FasUsers"
+      "RiTimeZoneFill"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -206,5 +206,6 @@
   "Trials of Ludicrum/Player Characters/Bing Shmigton.md": "FasTree",
   "Trials of Ludicrum/Player Characters/Sian.md": "RaFairy",
   "Trials of Ludicrum/Player Characters/Stiltuc.md": "FasBookOpen",
-  "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)/Trela": "LiMap"
+  "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)/Trela": "LiMap",
+  "Compendium/NPCs/Distant Past/Balaeth Grimforge.md": "FasPerson"
 }

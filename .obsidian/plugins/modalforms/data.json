@@ -734,13 +734,11 @@
           "name": "Pronouns",
           "label": "Pronouns:",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "dataview",
-            "allowUnknownValues": false,
-            "hidden": false,
             "query": "['He/Him','She/Her','They/Them','He/They','She/They','Any']"
-          },
-          "isRequired": false
+          }
         }
       ],
       "version": "1",
