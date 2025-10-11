@@ -10,7 +10,7 @@ locations:
   - "[[Hill District]]"
   - "[[Camarath Square]]"
 alias: An Old Friend - A New Enemy
-displayLink: "[[Arc 1 Session 1|1.1: An Old Friend - A New Enemy]]"
+displayLink: "[[Mark of Kairos/Session Notes/Arc 1 Session 1|1.1: An Old Friend - A New Enemy]]"
 ---
 
 ![[session.png|banner]]
