@@ -45,22 +45,26 @@ ___
 
 
 > [!recite|nbrd no-i] Introductions
+> - Have [[Ludicrum]] introduce [[Balaeth Grimforge]] as a former champion who helped with the game design this time
+> - Mention that he used his boon to resurrect his wife [[Yommimora Grimforge|Yommimora]]
+> - They pull up a holographic image to show the contestants which we use to introduce our characters
+> 
 > **[[Bing Shmigton]]**
-> - Signing in
+> - Starts by showing the lines outside where we see them signing in
 > - Terms and Conditions
 >
 > **[[Sian]]**
-> - 
-> - 
+> - In the practice rooms
 >
 > **[[Stiltuc]]**
-> - 
+> - In the green room, notices his rival
+> - Ask [[Stiltuc]] what symbol of his educational facility he wears so [[Guests#Professor Croakos Plum]] recognises it later
 > 
 > **[[Boshominind]]**
 > - In green room, gets interviewed
 > - flashback to getting powers and burning down dairy
 
-Ask [[Stiltuc]] what symbol of his educational facility he wears then have [[Guests#Professor Croakos Plum]] recognise it
+ 
 
 Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. Imply she's warning them about their own deaths but it's also about the guests.
 
