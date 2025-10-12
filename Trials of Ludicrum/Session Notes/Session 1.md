@@ -70,6 +70,7 @@ ___
 	- Imply she's warning them about their own deaths but it's also about the guests.
 	- End with "Good Luck"
 - Guests have been charmed to believe their roles, seeing [[Stiltuc]]'s symbol starts to break [[Guests#Professor Plum]] out of it
+	- Have him take [[Stiltuc]] to the side to ask for help, give hints
 	- Have Ludicrum pause the game and fix him
 
 ### Notes
