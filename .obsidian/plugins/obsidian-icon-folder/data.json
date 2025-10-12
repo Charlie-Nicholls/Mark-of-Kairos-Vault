@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiText",
       "FasImage",
       "RiKnifeFill",
       "FasChair",
@@ -18,8 +19,7 @@
       "FasMoneyBill",
       "FasBookOpen",
       "RaFairy",
-      "FasTree",
-      "RaAngelWings"
+      "FasTree"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -195,7 +195,6 @@
   "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands/Kidwy": "FasCity",
   "Assets/DM Toolbox": "RiToolsFill",
   "Assets/Miscellaneous": "FasCircleQuestion",
-  "Compendium/NPCs/Distant Past": "RiTimeZoneFill",
   "Compendium/Atlas/Material Plane/Tellus (Distant Past)": "RiTimeZoneFill",
   "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)": "FasMap",
   "Trials of Ludicrum": "RaSpadesCard",
@@ -207,7 +206,6 @@
   "Trials of Ludicrum/Player Characters/Sian.md": "RaFairy",
   "Trials of Ludicrum/Player Characters/Stiltuc.md": "FasBookOpen",
   "Compendium/Atlas/Material Plane/Tellus (Distant Past)/Lothlonde (Distant Past)/Trela": "LiMap",
-  "Compendium/NPCs/Distant Past/Balaeth Grimforge.md": "FasPerson",
   "Trials of Ludicrum/Sponsors.md": "FasCoins",
   "Trials of Ludicrum/Games": "FasDice",
   "Trials of Ludicrum/Games/Cluedo/Cluedo.md": "FasMagnifyingGlass",
@@ -217,5 +215,8 @@
   "Trials of Ludicrum/Games/Cluedo/Weapons.md": "RiKnifeFill",
   "Trials of Ludicrum/Session Notes/Session 1.md": "LiNotepadText",
   "Trials of Ludicrum/Assets": "FasImage",
-  "Compendium/NPCs/Distant Past/Yommimora Grimforge.md": "FasPerson"
+  "Trials of Ludicrum/NPCs": "FasUsers",
+  "Trials of Ludicrum/NPCs/Balaeth Grimforge.md": "FasPerson",
+  "Trials of Ludicrum/NPCs/Yommimora Grimforge.md": "FasPerson",
+  "Trials of Ludicrum/NPCs/Quick Names.md": "LiText"
 }

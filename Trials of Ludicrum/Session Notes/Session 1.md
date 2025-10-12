@@ -48,10 +48,6 @@ ___
 > **[[Bing Shmigton]]**
 > - Signing in
 > - Terms and Conditions
-> 
-> **[[Boshominind]]**
-> - In green room, gets interviewed
-> - flashback to getting powers and burning down dairy
 >
 > **[[Sian]]**
 > - 
@@ -59,7 +55,10 @@ ___
 >
 > **[[Stiltuc]]**
 > - 
-> - 
+> 
+> **[[Boshominind]]**
+> - In green room, gets interviewed
+> - flashback to getting powers and burning down dairy
 
 Ask [[Stiltuc]] what symbol of his educational facility he wears then have [[Guests#Professor Croakos Plum]] recognise it
 

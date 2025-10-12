@@ -64,6 +64,7 @@ ___
 #### Background
 - The area where he's from has been brutally taken over and deforested and animals killed. He's joining up to try to get this reverted, done by nearby kingdom getting greedy.
 - Blessed by [[Gagavar]] to get his druid powers but in return had to protect the forest. 
+- Forest deforested by the Kingdom of [[Trela]] for the [[Sponsors#Church of Trela]]'s holy wars, using [[Sponsors#Ostitech]] technology.
 #### Secrets
 
 #### Motivations 
