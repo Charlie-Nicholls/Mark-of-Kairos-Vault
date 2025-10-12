@@ -58,7 +58,7 @@ ___
 >
 > **[[Stiltuc]]**
 > - In the green room, notices his rival
-> - Ask [[Stiltuc]] what symbol of his educational facility he wears so [[Guests#Professor Croakos Plum]] recognises it later
+> - Ask [[Stiltuc]] what symbol of his educational facility he wears so [[Guests#Professor Plum]] recognises it later
 > 
 > **[[Boshominind]]**
 > - In green room, gets interviewed
@@ -66,7 +66,11 @@ ___
 
  
 
-Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. Imply she's warning them about their own deaths but it's also about the guests.
+- Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. 
+	- Imply she's warning them about their own deaths but it's also about the guests.
+	- End with "Good Luck"
+- Guests have been charmed to believe their roles, seeing [[Stiltuc]]'s symbol starts to break [[Guests#Professor Plum]] out of it
+	- Have Ludicrum pause the game and fix him
 
 ### Notes
 - Live notes from the session here.
