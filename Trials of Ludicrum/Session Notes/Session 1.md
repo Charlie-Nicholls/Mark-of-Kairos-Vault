@@ -45,9 +45,10 @@ ___
 
 
 > [!recite|nbrd no-i] Introductions
-> - Have [[Ludicrum]] introduce [[Balaeth Grimforge]] as a former champion who helped with the game design this time
-> - Mention that he used his boon to resurrect his wife [[Yommimora Grimforge|Yommimora]]
-> - They pull up a holographic image to show the contestants which we use to introduce our characters
+> - [ ] Have [[Ludicrum]] introduce [[Balaeth Grimforge]] as a former champion who helped with the game design this time
+> - [ ] Mention that he used his boon to resurrect his wife [[Yommimora Grimforge|Yommimora]]
+> - [ ] They pull up a holographic image to show the contestants which we use to introduce our characters
+> - [ ] Mention the sponsors and that getting more viewers => getting better sponsors/rewards
 > 
 > **[[Bing Shmigton]]**
 > - Starts by showing the lines outside where we see them signing in
@@ -57,7 +58,7 @@ ___
 > - In the practice rooms
 >
 > **[[Stiltuc]]**
-> - In the green room, notices his rival
+> - In the green room, His rival notices him and comes up to talk to him
 > - Ask [[Stiltuc]] what symbol of his educational facility he wears so [[Guests#Professor Plum]] recognises it later
 > 
 > **[[Boshominind]]**
@@ -65,13 +66,15 @@ ___
 > - flashback to getting powers and burning down dairy
 
  
+> [!recite|nbrd no-i] Cluedo
+> - [ ] Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. 
+> 	- Imply she's warning them about their own deaths but it's also about the guests.
+> 	-  [ ] End with "Good Luck"
+> - Guests have been charmed to believe their roles, seeing [[Stiltuc]]'s symbol starts to break [[Guests#Professor Plum]] out of it
+> 	- Have him take [[Stiltuc]] to the side to ask for help, give hints
+> 	- Have Ludicrum pause the game and fix him
 
-- Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. 
-	- Imply she's warning them about their own deaths but it's also about the guests.
-	- End with "Good Luck"
-- Guests have been charmed to believe their roles, seeing [[Stiltuc]]'s symbol starts to break [[Guests#Professor Plum]] out of it
-	- Have him take [[Stiltuc]] to the side to ask for help, give hints
-	- Have Ludicrum pause the game and fix him
+> [!recite|nbrd no-i] Sponsors
 
 ### Notes
 - Live notes from the session here.
