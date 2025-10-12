@@ -4,15 +4,15 @@ ___
 
 ### Dr Black
 > [!infobox|no-t left]
-> ![[.png|200]]
-
-:FasQuoteLeft:  :FasQuoteRight:
+> ![[imgDrBlack.png|160]]
 
 > [!boxed|no-t]
-> 
+> An middle-aged orangutan simiah in a formal black suit and tie, albeit no shoes as is usual for simiah, lays dead on the floor. 
 >
-> High Trait - **
+> High Insight - *He appears to have been killed by a blow to the side of the head*
 >^IntroText
+
+**Difficulty: 14** - Gunpowder on his right foot from a recently fired shot.
 
 Blackmail: He and Plum were falsifying results to embezzle funds.
 
@@ -22,10 +22,11 @@ Blackmail: He and Plum were falsifying results to embezzle funds.
 |10.15|Conservatory|
 |10.30|Dead in Lounge|
 
-### Miss Scarlett
+### Miss Scarlett - Thessalia Virmyar
 > [!infobox|no-t left]
 > ![[imgMissScarlett.png|200]]
 
+**Difficulty: 12**
 :FasQuoteLeft: Everyone loves me. :FasQuoteRight:
 
 > [!boxed|no-t]
@@ -36,17 +37,20 @@ Blackmail: He and Plum were falsifying results to embezzle funds.
 
 Blackmail: Affair with Colonel Mustard
 
-
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
 |10.00|Library (uses distraction to sneak off to ballroom)|Library|
 |10.15|Ballroom, with Mustard "Dancing"|Lounge (Slow to gunshot as other side of house)|
 |10.30|Billiard Room|Billiard Room|
 
-### Colonel Mustard
-> [!infobox|no-t left]
-> ![[imgColonelMustard.png|180]]
+> [!recite|nbrd no-i]- Statblock
+> ![[Courtier#COURTIER|clean]]
 
+### Colonel Mustard - Stewart Lethbridge
+> [!infobox|no-t left]
+> ![[imgColonelMustard.png|200]]
+
+**Difficulty: 12**
 :FasQuoteLeft: Efficiency, Efficiency, Efficiency. :FasQuoteRight:
 
 > [!boxed|no-t]
@@ -63,10 +67,11 @@ Blackmail: Serial adulterer, affair with Miss Scarlett
 |10.15|Ballroom, with Scarlett "Dancing"|Library (Slow to gunshot as napping)|
 |10.30|Billiard Room|Billiard Room|
 
-### Mrs. White
+### Mrs. White - Wrensia
 > [!infobox|no-t left]
-> ![[imgMrsWhite.png|160]]
+> ![[imgMrsWhite.png|200]]
 
+**Difficulty: 9**
 :FasQuoteLeft: It'll be alright, won't it? :FasQuoteRight:
 
 > [!boxed|no-t]
@@ -81,10 +86,11 @@ Blackmail: Serial adulterer, affair with Miss Scarlett
 |10.15|Dining Room, Cleaning up|Dining Room, Cleaning up|
 |10.30|Lounge, Discovers body|Lounge, Discovers body|
 
-### Reverend Shelby Green
+### Reverend Green - Shelby Leatherback
 > [!infobox|no-t left]
 > ![[imgReverendGreen.png|200]]
 
+**Difficulty: 14**
 :FasQuoteLeft: I only want to save your soul. :FasQuoteRight:
 
 > [!boxed|no-t]
@@ -101,10 +107,11 @@ Is blackmailing the rest of the guests to attend. Wants to kill them to make a n
 |10.15|Takes secret passage from Lounge to Conservatory, Kills Black, Back to Lounge then sneaks out|Study (Slow to gunshot as an old galapa)|
 |10.30|Billiard Room|Billiard Room|
 
-### Mrs. Pixie Peacock
+### Mrs. Peacock - Pixie Flutterwing
 > [!infobox|no-t left]
 > ![[imgMrsPeakcock.png|200]]
 
+**Difficulty: 12**
 :FasQuoteLeft: I always get what I want. :FasQuoteRight:
 
 > [!boxed|no-t]
@@ -119,10 +126,11 @@ Blackmail: Poisoned Husband
 |10.15|Study, uses knife to break in and looks around for Blackmail, burns it, hides knife in library on way to gunshot.|Billiard Room|
 |10.30|Billiard Room|Billiard Room|
 
-### Professor Croakos Plum
+### Professor Plum - Professor Croakos Longtongue
 > [!infobox|no-t left]
 > ![[imgProfessorPlum.png|200]]
 
+**Difficulty: 11**
 :FasQuoteLeft: It's A Bit Like A Spring Really... :FasQuoteRight:
 
 > [!boxed|no-t]

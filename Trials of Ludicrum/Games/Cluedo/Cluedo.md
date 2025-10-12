@@ -23,8 +23,10 @@ ___
 	- His body will be found dead, without his staff
 - People will then start to go missing over time, starting with Mustard
 	- These will be different to Green/Black, killed by a zombie, parts taken and melded into the whole
+	- Guests start to report hearing or seeing what looks like a monstrous Dr Black moving around
 - Plum will recognize [[Stiltuc]]'s institute and want to help him, slip him a note with a relevant clue.
 	- Will then be caught cheating and killed by [[Ludicrum]]
+- If they correctly guess the answer before the final fight can happen have it so they get a congratulations message but aren't taken away 
 
 ### Final Fight
 
