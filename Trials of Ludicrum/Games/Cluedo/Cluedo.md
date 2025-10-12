@@ -15,3 +15,17 @@ ___
 > You have **two hours**.
 > Your time starts:
 >^IntroText
+
+### Timeline
+
+- Arrive just as the guests Find the body, taking the role of the police
+- When the body is left alone, Reverend Green will steal it and transfer his consciousness to it
+	- His body will be found dead, without his staff
+- People will then start to go missing over time, starting with Mustard
+	- These will be different to Green/Black, killed by a zombie, parts taken and melded into the whole
+- Plum will recognize [[Stiltuc]]'s institute and want to help him, slip him a note with a relevant clue.
+	- Will then be caught cheating and killed by [[Ludicrum]]
+
+### Final Fight
+
+- Green as a Patchwork Zombie will fight the party, raising any dead Guests as Shambling Zombies, except Mustard who will be a Brawny Zombie. Aim to have about 2, max 3 shambling zombies. If you start with less, try to kill guests and raise them as zombies.
