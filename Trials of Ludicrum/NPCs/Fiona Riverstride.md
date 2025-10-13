@@ -2,22 +2,21 @@
 type: npc
 locations:
  - "[[Trela]]"
-cover: "/Assets/Images/NPC/imgYommimora Grimforge"
-aliases: ["Mora"]
+cover: "/Assets/Images/NPC/imgFiona Riverstride"
 ---
-###### Yommimora "Mora" Grimforge
+###### Fiona Riverstride
 <span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgYommimoraGrimforge.png|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasUser: Ancestry | Dwarf |
+> | :FasUser: Ancestry | Halfling |
 > | :FasVenusMars: Gender | Female |
-> | :FasClock: Age | 435 |
-> | :FasBriefcase: Job |  Game Guide |
+> | :FasClock: Age | 32 |
+> | :FasBriefcase: Job |  Noble |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -34,7 +33,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> A dwarven lady with braided iron-gray hair twisted through with copper wire, tired face forcing a smile. 
+> 
 >^IntroText
 
 ### Description
@@ -63,4 +62,4 @@ ___
 
 ### Statblock
 >```statblock
-name: Yommimore Grimforge
+name: Fiona Riverstride

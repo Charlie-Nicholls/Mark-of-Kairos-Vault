@@ -2,22 +2,21 @@
 type: npc
 locations:
  - "[[Trela]]"
-cover: "/Assets/Images/NPC/imgYommimora Grimforge"
-aliases: ["Mora"]
+cover: "/Assets/Images/NPC/imgGriffin Aevum"
 ---
-###### Yommimora "Mora" Grimforge
-<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Friendly </span>
+###### Griffin Aevum
+<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgYommimoraGrimforge.png|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasUser: Ancestry | Dwarf |
-> | :FasVenusMars: Gender | Female |
-> | :FasClock: Age | 435 |
-> | :FasBriefcase: Job |  Game Guide |
+> | :FasUser: Ancestry | Drakona |
+> | :FasVenusMars: Gender | Male |
+> | :FasClock: Age | 221 |
+> | :FasBriefcase: Job |  Cleric |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -34,7 +33,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> A dwarven lady with braided iron-gray hair twisted through with copper wire, tired face forcing a smile. 
+> A golden scaled drakona with piercing blue eyes. He wears the robes of a priest and an hourglass pendant around his neck.
 >^IntroText
 
 ### Description
@@ -63,4 +62,4 @@ ___
 
 ### Statblock
 >```statblock
-name: Yommimore Grimforge
+name: Griffin Aevum

@@ -43,8 +43,8 @@ ___
 > | Experience |
 > | :----: |
 > | **Experiences** |
-> | :FasCircleQuestion: Text +2 |
-> | :FasCircleQuestion: Text +2 |
+> | :FasCircleQuestion: Experienced Diplomat +2 |
+> | :FasCircleQuestion: Urban Scavenger +2 |
 > 
 >^InfoBox
 
@@ -60,7 +60,8 @@ ___
 # Profile
 
 ### Description
-
+refugee, wants to bring peace to her homeland
+met on the road: older woman, doesnt think she's done a great deal with her life, has had enough of living at home as a housewife being rebellious. Friendly, fuck it attitude they appreciated.
 #### Background
 
 #### Secrets

@@ -2,22 +2,21 @@
 type: npc
 locations:
  - "[[Trela]]"
-cover: "/Assets/Images/NPC/imgYommimora Grimforge"
-aliases: ["Mora"]
+cover: "/Assets/Images/NPC/imgHiani Clover"
 ---
-###### Yommimora "Mora" Grimforge
-<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Friendly </span>
+###### Hiani Clover
+<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Hostile (Appears Friendly) </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgYommimoraGrimforge.png|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasUser: Ancestry | Dwarf |
+> | :FasUser: Ancestry | Faun |
 > | :FasVenusMars: Gender | Female |
-> | :FasClock: Age | 435 |
-> | :FasBriefcase: Job |  Game Guide |
+> | :FasClock: Age | 194 |
+> | :FasBriefcase: Job |  Thief |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -34,17 +33,17 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> A dwarven lady with braided iron-gray hair twisted through with copper wire, tired face forcing a smile. 
+> Introduction for players
 >^IntroText
 
 ### Description
 #### Background
-
+Appearing as an charming old lady, Hiani is in fact a highly skilled and ruthless thief.
 #### Motivations
-- List of Motivations
+- Wants to wish for her youth. She has spent a lifetime building up huge riches and wants time to enjoy them.
 
 #### Secrets
-- None
+- Is a thief
 
 ### Appearances
 - Summary of Appearances
@@ -63,4 +62,4 @@ ___
 
 ### Statblock
 >```statblock
-name: Yommimore Grimforge
+name: Hiani Clover

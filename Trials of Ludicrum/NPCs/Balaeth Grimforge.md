@@ -9,7 +9,7 @@ cover: "/Assets/Images/NPC/imgBalaeth Grimforge"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgBalaethGrimforge.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |

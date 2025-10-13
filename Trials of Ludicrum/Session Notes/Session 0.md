@@ -47,7 +47,7 @@ ___
 > rival: a learned man who views his character as too lower class, older academic who might have hindered his advancement, also an explorer seeker of knowledge, high up at his institute
 
 > [!recite|nbrd no-i] Timmsy
-> refugee, wants to bring peace to his homeland
+> refugee, wants to bring peace to her homeland
 > met on the road: older woman, doesnt think she's done a great deal with her life, has had enough of living at home as a housewife being rebellious. Friendly, fuck it attitude they appreciated.
 
 > [!recite|nbrd no-i] Nathan

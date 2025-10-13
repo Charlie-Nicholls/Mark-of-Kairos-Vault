@@ -2,22 +2,21 @@
 type: npc
 locations:
  - "[[Trela]]"
-cover: "/Assets/Images/NPC/imgYommimora Grimforge"
-aliases: ["Mora"]
+cover: "/Assets/Images/NPC/imgUrsula Grave"
 ---
-###### Yommimora "Mora" Grimforge
-<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Friendly </span>
+###### Ursula Grave
+<span class="sub2">:FasMapLocationDot: [[Trela]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgYommimoraGrimforge.png|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasUser: Ancestry | Dwarf |
+> | :FasUser: Ancestry | Clank |
 > | :FasVenusMars: Gender | Female |
-> | :FasClock: Age | 435 |
-> | :FasBriefcase: Job |  Game Guide |
+> | :FasClock: Age | 54 |
+> | :FasBriefcase: Job |  Saleswoman |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -34,7 +33,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> A dwarven lady with braided iron-gray hair twisted through with copper wire, tired face forcing a smile. 
+> A very polished looking woman. Quite literally in fact as what you can see of her metallic body underneath her severe suit shines with pearlescent light.
 >^IntroText
 
 ### Description
@@ -63,4 +62,4 @@ ___
 
 ### Statblock
 >```statblock
-name: Yommimore Grimforge
+name: Ursula Grave

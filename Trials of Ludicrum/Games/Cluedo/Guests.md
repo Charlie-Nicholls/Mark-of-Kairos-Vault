@@ -48,7 +48,7 @@ Blackmail: Affair with Colonel Mustard
 
 ### Colonel Mustard - Stewart Lethbridge
 > [!infobox|no-t left]
-> ![[imgColonelMustard.png|200]]
+> ![[imgColonelMustard.png|180]]
 
 **Difficulty: 12**
 :FasQuoteLeft: Efficiency, Efficiency, Efficiency. :FasQuoteRight:
@@ -69,7 +69,7 @@ Blackmail: Serial adulterer, affair with Miss Scarlett
 
 ### Mrs. White - Wrensia
 > [!infobox|no-t left]
-> ![[imgMrsWhite.png|200]]
+> ![[imgMrsWhite.png|180]]
 
 **Difficulty: 9**
 :FasQuoteLeft: It'll be alright, won't it? :FasQuoteRight:
@@ -126,7 +126,7 @@ Blackmail: Poisoned Husband
 |10.00|Study, uses knife to break in and looks around for Blackmail, burns it, hides knife in library on way to gunshot.|Billiard Room|
 |10.15|Billiard Room|Billiard Room|
 
-### Professor Plum - Professor Croakos Longtongue
+### Professor Plum - Croakos Longtongue
 > [!infobox|no-t left]
 > ![[imgProfessorPlum.png|200]]
 
