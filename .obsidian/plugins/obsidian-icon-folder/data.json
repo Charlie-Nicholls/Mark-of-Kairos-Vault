@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPen",
+      "RiHexagonFill",
+      "FasCircle",
       "LiNotepadText",
       "RaHorns",
       "FasFrog",
@@ -16,10 +19,7 @@
       "RiKnifeFill",
       "FasChair",
       "FasUsers",
-      "FasMagnifyingGlass",
-      "FasDice",
-      "FasPerson",
-      "LiMap"
+      "FasMagnifyingGlass"
     ],
     "recentlyUsedIconsSize": 14,
     "rules": [],
@@ -224,5 +224,7 @@
   "Trials of Ludicrum/NPCs/Dr. Jack Natter.md": "FasFrog",
   "Trials of Ludicrum/NPCs/Hiani Clover.md": "RaHorns",
   "Trials of Ludicrum/Player Characters/Eirich Fenbrae.md": "FasTree",
-  "Trials of Ludicrum/Session Notes/Session 2.md": "LiNotepadText"
+  "Trials of Ludicrum/Session Notes/Session 2.md": "LiNotepadText",
+  "Trials of Ludicrum/Games/Blockbuster": "RiHexagonFill",
+  "Trials of Ludicrum/Session Notes/Transcript 1.md": "FasPen"
 }

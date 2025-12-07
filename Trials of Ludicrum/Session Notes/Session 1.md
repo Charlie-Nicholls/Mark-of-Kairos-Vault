@@ -30,7 +30,13 @@ ___
 
 ### Plan
 > [!recite|nbrd no-i] Fear Tracker
-> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+> ```widgets
+> type: counter
+> text: Fear
+> id: Fear
+> startValue: 0
+> ```
+> 
 
 >[!infobox|left no-t]
 > ![[imgLudicrum.png|190]]
@@ -108,8 +114,17 @@ Ideas for next time:
 - Countdown for when Green kills his next victim, goes down on fear or with fear spent
 - Stricter on movement around, ask for agility checks to chase shadows etc
 - Show the counts for the sponsors with explanations, go over video to see if more should be added/subtracted, tell them the system for getting them + establish how many points they will get for solving it + more points for countdowns left. Something like tell them to make a list of preferences and roll to see if they get it with the roll being easier if they have more points.
-- Mora is friendlier if they get NAP as sponser and passes on their first clue
+- Mora is friendlier if they get NAP as sponsor and passes on their first clue
 ### Summary
-Summary of the important points from the session here.
+- Introduction of[[Ludicrum]] and [[Balaeth Grimforge]]
+- Introduced each character, ask players to reintroduce their characters
+	- Note [[Boshominind]] mooing
+	- [[Sian]] had met [[Hiani Clover]]
+	- [[Stiltuc]] spoke to [[Dr. Jack Natter]] and called him out on his disease (siccatiomorbo)
+- You were told you had two hours to solve the murder of Dr Black, which would be considered solved when you returned to the starting room and announced the culprit, weapon, and location of the murder.
+- Go over the characters and clues
+- Establish the timeline
+- Secret passage
+- Dead Plum
 
 

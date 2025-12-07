@@ -1,5 +1,0 @@
-Weapon:
-
-Plum's legs malfunction causing him to break a bit of lead pipe in the kitchen, Mrs White retrieves a spanner to fix it, after which Plum takes the spanner and uses it to fix his leg in the Lounge, leaving it there.
-
-Green leaves the Billiard room to head to the Library to read, but instead grabs a candle stick to light his path through the secret entrance from the Lounge to the Conservatory to meet Dr Black. Dr Black tries to shoot him but it bounces off his shell and breaks a window. Green kills him with the candlestick and quickly drags him through the secret entrance, before running off to rejoin the others in the Billiard room. Mrs White then stumbles into the Lounge and sees the body by the fireplace under the clock and alerts everyone. However since the clock reads 10:20 from unlocking the secret entrance and the others don't hear her shouts till 10:30 they think she is lying about the time.
