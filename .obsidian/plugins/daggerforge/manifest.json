@@ -1,11 +1,11 @@
 {
-  "id": "daggerforge",
-  "name": "DaggerForge",
-  "version": "1.0.2",
-  "minAppVersion": "1.8.10",
-  "description": "Easy access to DaggerHeart's Adversaries + creating your own.",
-  "author": "Waleed Alnaimi",
-  "authorUrl": "https://github.com/Torutu",
-  "fundingUrl": "https://ko-fi.com/waleedalnaimi",
-  "isDesktopOnly": false
+	"id": "daggerforge",
+	"name": "DaggerForge",
+	"version": "2.0.0",
+	"minAppVersion": "1.8.10",
+	"description": "Easy access to Daggerheart's content and creating your own.",
+	"author": "Waleed Alnaimi",
+	"authorUrl": "https://github.com/Torutu",
+	"fundingUrl": "https://ko-fi.com/waleedalnaimi",
+	"isDesktopOnly": false
 }
