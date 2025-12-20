@@ -1,16 +1,16 @@
 ---
 type: deity
-displayLink: "[[Taranis]]"
-domains: Storms
+displayLink: "[[Tarhunz]]"
+domains: 
 pantheon: Entropic
 ---
 
-###### Taranis
+###### Tarhunz
 <span class="sub2">:FasPersonRays: God | :FasBoltLightning: `=this.domains` </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgTaranis.jpg|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -21,17 +21,17 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[Taranis]]
+>>FROM "Compendium/Party/Quests" AND [[#]]```
 >
 >> [!hint]-  PEOPLE
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/NPCs" AND [[Taranis]] OR "Compendium/Party" AND [[Taranis]] 
+>>FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]```
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[Taranis]]
+>>FROM "Session Notes" AND [[#]]```
 >
 >^InfoBox
 
@@ -42,4 +42,4 @@ ___
 >^IntroText
 
 ### Description
-Description of Taranis, the chaotic neutral male deity.
+Description of Tarhunz, the God of `=this.domains`.

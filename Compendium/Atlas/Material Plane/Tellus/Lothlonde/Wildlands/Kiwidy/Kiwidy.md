@@ -2,12 +2,12 @@
 type: locale
 locations:
  - "[[Wildlands]]"
-aliases: ["Silent City of Kidwy"]
-displayLink: "[[Kidwy]]"
+aliases: ["Silent City of Kiwidy"]
+displayLink: "[[Kiwidy]]"
 ---
 
-![[banner.jpg|banner]]
-###### Kidwy
+![[imgSilentCityOfKiwidy.png|banner p+cb]]
+###### Kiwidy
 <span class="sub2">:FasCity: City</span>
 
 ---
@@ -17,7 +17,7 @@ displayLink: "[[Kidwy]]"
 >^IntroText
 
 ### Description
-Known as the 'Silent City of Kidwy'...
+Known as the 'Silent City of Kiwidy'...
 
 ---
 
@@ -30,7 +30,7 @@ FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]]
 >> [!example]- LOCATIONS
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands/Kidwy" AND [[#]]
+FROM "Compendium/Atlas/Material Plane/Tellus/Lothlonde/Wildlands/Kiwidy" AND [[#]]
 WHERE file.name != this.file.name
 SORT file.name ASC
 >
