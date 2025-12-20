@@ -30,7 +30,12 @@ ___
 > [!recite|nbrd no-i] Formalities
 > - [ ] Tell James to check his character sheet as his elemental gift ability seems to be being tracked wrong (no thunder resistance)
 
-Plan for the session here.
+> [!recite|nbrd no-i] Kiwidy
+> - The people of Kiwidy don't remember what the building at the center of the storm is
+> 	- They call it the temple of the one eyed god but no-one knows who the god is
+> 	- People have gone in their to try and fix it but none have returned.
+
+[[End The Storm]]
 
 ### Notes
 - Live notes from the session here.

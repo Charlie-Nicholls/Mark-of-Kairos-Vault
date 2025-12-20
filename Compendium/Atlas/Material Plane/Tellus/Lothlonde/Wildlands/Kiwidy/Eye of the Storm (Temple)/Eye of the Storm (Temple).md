@@ -2,8 +2,8 @@
 cssClasses: grayTable, wideTable
 type: landmark
 locations:
- - "[[Kiwidy]]"
-displayLink: "[[Eye of the Storm]]"
+  - "[[Kiwidy]]"
+displayLink: "[[Eye of the Storm (Temple)]]"
 ---
 
 ![[banner.jpg|banner]]

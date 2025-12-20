@@ -3,7 +3,7 @@ type: territory
 locations:
  - "[[Lothlonde]]"
 displayLink: "[[Desolation of Suuhulla]]"
-alias: "Suuhulla"
+aliases: ["Suuhulla"]
 ---
 
 ![[imgDesolationOfSuuhulla.png|banner p+tcc]]
