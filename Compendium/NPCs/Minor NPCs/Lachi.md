@@ -40,7 +40,7 @@ ___
 ### Description
 Lachi is a paladin of [[Kiriel]]. He's participating in a show late in the day of the [[Founding Festival]] reacting battles of Camarath's history.
 
-In [[Arc 1 Session 2]], [[Mayastan Daar|Daar]] met him in the [[Noble's District]] while he was making his way to his show to ask where [[Phoenix Aevum|Phoenix]] lived.
+In [[Mark of Kairos/Session Notes/Arc 1 Session 2]], [[Mayastan Daar|Daar]] met him in the [[Noble's District]] while he was making his way to his show to ask where [[Phoenix Aevum|Phoenix]] lived.
 
 In [[Arc 1 Session 10]], He and [[Crochna]] were making a last stand to protect some nobles from a hoard of undead but were saved by [[Mayastan Daar|Daar]] and [[Phoenix Aevum|Phoenix]]. 
 

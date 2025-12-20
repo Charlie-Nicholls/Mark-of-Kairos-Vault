@@ -18,9 +18,9 @@ Blackmail: He and Plum were falsifying results to embezzle funds.
 
 |Time|**Reality**|
 | --- | --- |
-|10.00|Library (speaks to Green) runs to Kitchen when sounds heard|
-|10.15|Conservatory|
-|10.30|Dead in Lounge|
+|9.45|Library (speaks to Green) runs to Kitchen when sounds heard|
+|10.00|Conservatory|
+|10.15|Dead in Lounge|
 
 ### Miss Scarlett - Thessalia Virmyar
 > [!infobox|no-t left]
@@ -39,16 +39,16 @@ Blackmail: Affair with Colonel Mustard
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Library (uses distraction to sneak off to ballroom)|Library|
-|10.15|Ballroom, with Mustard "Dancing"|Lounge (Slow to gunshot as other side of house)|
-|10.30|Billiard Room|Billiard Room|
+|9.45|Library (uses distraction to sneak off to ballroom)|Library|
+|10.00|Ballroom, with Mustard "Dancing"|Lounge (Slow to gunshot as other side of house)|
+|10.15|Billiard Room|Billiard Room|
 
 > [!recite|nbrd no-i]- Statblock
 > ![[Courtier#COURTIER|clean]]
 
 ### Colonel Mustard - Stewart Lethbridge
 > [!infobox|no-t left]
-> ![[imgColonelMustard.png|200]]
+> ![[imgColonelMustard.png|180]]
 
 **Difficulty: 12**
 :FasQuoteLeft: Efficiency, Efficiency, Efficiency. :FasQuoteRight:
@@ -63,13 +63,13 @@ Blackmail: Serial adulterer, affair with Miss Scarlett
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Library (uses distraction to grab rope from conservatory and sneak off to ballroom)|Dining Room|
-|10.15|Ballroom, with Scarlett "Dancing"|Library (Slow to gunshot as napping)|
-|10.30|Billiard Room|Billiard Room|
+|9.45|Library (uses distraction to grab rope from conservatory and sneak off to ballroom)|Dining Room|
+|10.00|Ballroom, with Scarlett "Dancing"|Library (Slow to gunshot as napping)|
+|10.15|Billiard Room|Billiard Room|
 
 ### Mrs. White - Wrensia
 > [!infobox|no-t left]
-> ![[imgMrsWhite.png|200]]
+> ![[imgMrsWhite.png|180]]
 
 **Difficulty: 9**
 :FasQuoteLeft: It'll be alright, won't it? :FasQuoteRight:
@@ -82,9 +82,9 @@ Blackmail: Serial adulterer, affair with Miss Scarlett
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Kitchen, Cleaning up|Kitchen, Cleaning up|
-|10.15|Dining Room, Cleaning up|Dining Room, Cleaning up|
-|10.30|Lounge, Discovers body|Lounge, Discovers body|
+|9.45|Kitchen, Cleaning up|Kitchen, Cleaning up|
+|10.00|Dining Room, Cleaning up|Dining Room, Cleaning up|
+|10.15|Lounge, Discovers body|Lounge, Discovers body (believes it was 10.10)|
 
 ### Reverend Green - Shelby Leatherback
 > [!infobox|no-t left]
@@ -103,9 +103,9 @@ Is blackmailing the rest of the guests to attend. Wants to kill them to make a n
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Library (Black tells him to meet in the Conservatory)|Dining Room|
-|10.15|Takes secret passage from Lounge to Conservatory, Kills Black, Back to Lounge then sneaks out|Study (Slow to gunshot as an old galapa)|
-|10.30|Billiard Room|Billiard Room|
+|9.45|Library (Black tells him to meet in the Conservatory)|Dining Room|
+|10.00|Takes secret passage from Lounge to Conservatory, Kills Black, Back to Lounge then sneaks out|Study (Slow to gunshot as an old galapa)|
+|10.15|Billiard Room|Billiard Room|
 
 ### Mrs. Peacock - Pixie Flutterwing
 > [!infobox|no-t left]
@@ -122,11 +122,11 @@ Blackmail: Poisoned Husband
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Kitchen, minor spell to break Plum's leg for a distraction, takes a knife and sneaks off|Kitchen|
-|10.15|Study, uses knife to break in and looks around for Blackmail, burns it, hides knife in library on way to gunshot.|Billiard Room|
-|10.30|Billiard Room|Billiard Room|
+|9.45|Kitchen, minor spell to break Plum's leg for a distraction, takes a knife and sneaks off|Kitchen|
+|10.00|Study, uses knife to break in and looks around for Blackmail, burns it, hides knife in library on way to gunshot.|Billiard Room|
+|10.15|Billiard Room|Billiard Room|
 
-### Professor Plum - Professor Croakos Longtongue
+### Professor Plum - Croakos Longtongue
 > [!infobox|no-t left]
 > ![[imgProfessorPlum.png|200]]
 
@@ -143,6 +143,6 @@ Blackmail: Dr Black and he were falsifying results to embezzle funds
 
 |Time|**Reality**|**Story**|
 | --- | --- | --- |
-|10.00|Kitchen, helping clean when his leg malfunctions and he breaks a lead pipe.|Kitchen, helping clean when his leg malfunctions and he breaks a lead pipe.|
-|10.15|Kitchen, Fixing lead piping|Kitchen, Fixing lead piping|
-|10.30|Library Fixing Leg|Library Fixing Leg|
+|9.45|Kitchen, helping clean when his leg malfunctions and he breaks a lead pipe.|Kitchen, helping clean when his leg malfunctions and he breaks a lead pipe.|
+|10.00|Kitchen, Fixing lead piping|Kitchen, Fixing lead piping|
+|10.15|Library Fixing Leg|Library Fixing Leg|

@@ -31,3 +31,7 @@ ___
 ### Final Fight
 
 - Green as a Patchwork Zombie will fight the party, raising any dead Guests as Shambling Zombies, except Mustard who will be a Brawny Zombie. Aim to have about 2, max 3 shambling zombies. If you start with less, try to kill guests and raise them as zombies.
+
+### Layout
+
+![[mapCluedo.png]]

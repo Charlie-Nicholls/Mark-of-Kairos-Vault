@@ -14,7 +14,7 @@ ___
 > [!column|flex 3]
 > 
 >> [!info|flex]- PLAYERS:
->> - [[Bing Shmigton]]
+>> - [[Eirich Fenbrae]]
 >> - [[Boshominind]]
 >> - [[Sian]]
 >> - [[Stiltuc]]
@@ -30,7 +30,13 @@ ___
 
 ### Plan
 > [!recite|nbrd no-i] Fear Tracker
-> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+> ```widgets
+> type: counter
+> text: Fear
+> id: Fear
+> startValue: 0
+> ```
+> 
 
 >[!infobox|left no-t]
 > ![[imgLudicrum.png|190]]
@@ -45,20 +51,21 @@ ___
 
 
 > [!recite|nbrd no-i] Introductions
-> - [ ] Have [[Ludicrum]] introduce [[Balaeth Grimforge]] as a former champion who helped with the game design this time
-> - [ ] Mention that he used his boon to resurrect his wife [[Yommimora Grimforge|Yommimora]]
-> - [ ] They pull up a holographic image to show the contestants which we use to introduce our characters
-> - [ ] Mention the sponsors and that getting more viewers => getting better sponsors/rewards
+> - [x] Have [[Ludicrum]] introduce [[Balaeth Grimforge]] as a former champion who helped with the game design this time
+> - [x] Mention that he used his boon to resurrect his wife [[Yommimora Grimforge|Yommimora]]
+> - [x] They pull up a holographic image to show the contestants which we use to introduce our characters
+> - [x] Mention the sponsors and that getting more viewers => getting better sponsors/rewards
 > 
-> **[[Bing Shmigton]]**
+> **[[Eirich Fenbrae]]**
 > - Starts by showing the lines outside where we see them signing in
 > - Terms and Conditions
 >
 > **[[Sian]]**
 > - In the practice rooms
+> - With [[Hiani Clover]], ask for description of this old faun lady
 >
 > **[[Stiltuc]]**
-> - In the green room, His rival notices him and comes up to talk to him
+> - In the green room, [[Dr. Jack Natter]] notices him and comes up to talk to him, ask George to describe how he looks
 > - Ask [[Stiltuc]] what symbol of his educational facility he wears so [[Guests#Professor Plum]] recognises it later
 > 
 > **[[Boshominind]]**
@@ -67,6 +74,7 @@ ___
 
  
 > [!recite|nbrd no-i] Cluedo
+> ![[Yommimora Grimforge#^IntroText|clean]]
 > - [ ] Have [[Yommimora Grimforge|Mora]] make sure to tell them just as they're about to go into the games to that the games are real, with real consequences and real death. 
 > 	- Imply she's warning them about their own deaths but it's also about the guests.
 > 	-  [ ] End with "Good Luck"
@@ -75,11 +83,48 @@ ___
 > 	- Have Ludicrum pause the game and fix him
 
 > [!recite|nbrd no-i] Sponsors
+> ```widgets
+> type: counter
+> text: Ostitech
+> id: Ostitech
+> startValue: 0
+> ```
+> 
+> ```widgets
+> type: counter
+> text: Chruch of Trela
+> id: Church
+> startValue: 0
+> ```
+> 
+> ```widgets
+> type: counter
+> text: National Aid Program
+> id: NAP
+> startValue: 0
+> ```
 
 ### Notes
-- Live notes from the session here.
+- library of greater brayum
+- Reverend took body to ballroom to perform the bodyswap while they were knocking down the tree
+- Green's body is now in the ballroom in the middle of a ritual circle with his staff missing
+- Green as black left and killed plumb while time was frozen
 
+Ideas for next time:
+- Countdown for when Green kills his next victim, goes down on fear or with fear spent
+- Stricter on movement around, ask for agility checks to chase shadows etc
+- Show the counts for the sponsors with explanations, go over video to see if more should be added/subtracted, tell them the system for getting them + establish how many points they will get for solving it + more points for countdowns left. Something like tell them to make a list of preferences and roll to see if they get it with the roll being easier if they have more points.
+- Mora is friendlier if they get NAP as sponsor and passes on their first clue
 ### Summary
-Summary of the important points from the session here.
+- Introduction of[[Ludicrum]] and [[Balaeth Grimforge]]
+- Introduced each character, ask players to reintroduce their characters
+	- Note [[Boshominind]] mooing
+	- [[Sian]] had met [[Hiani Clover]]
+	- [[Stiltuc]] spoke to [[Dr. Jack Natter]] and called him out on his disease (siccatiomorbo)
+- You were told you had two hours to solve the murder of Dr Black, which would be considered solved when you returned to the starting room and announced the culprit, weapon, and location of the murder.
+- Go over the characters and clues
+- Establish the timeline
+- Secret passage
+- Dead Plum
 
 

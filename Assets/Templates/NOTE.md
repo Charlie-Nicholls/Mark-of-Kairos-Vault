@@ -70,7 +70,13 @@ ___
 
 ### Plan
 > [!recite|nbrd no-i] Fear Tracker
-> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+> ```widgets
+> type: counter
+> text: Fear
+> id: Fear
+> startValue: 0
+> ```
+> 
 
 Plan for the session here.
 

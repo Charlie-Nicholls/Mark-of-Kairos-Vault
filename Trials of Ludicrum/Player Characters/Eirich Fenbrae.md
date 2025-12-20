@@ -13,11 +13,11 @@ pronouns: "He/Him"
 
 ---
 
-###### Bing Shmigton
+###### Eirich Fenbrae
 :FasPerson: Player Character | :FasQuoteLeft: Quote or tagline here :FasQuoteRight:
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgEirichFenbrae.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |

@@ -40,7 +40,7 @@ ___
 ### Description
 [[Phoenix Aevum]]'s maid. Worked at [[Phoenix's House]] for years for the previous owner who recently died. Unless she is saved, she dies when the previous owner of the house rises as an undead and kills her.
 
-When [[Phoenix Aevum|Phoenix]] falls sick in [[Arc 1 Session 2]], she hires [[Hura]] to try to heal him.
+When [[Phoenix Aevum|Phoenix]] falls sick in [[Mark of Kairos/Session Notes/Arc 1 Session 2]], she hires [[Hura]] to try to heal him.
 
 In [[Arc 1 Session 10]], she has risen as a zombie and is attacking [[Crochna]] and [[Lachi]].
 

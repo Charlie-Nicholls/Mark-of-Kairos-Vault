@@ -6,7 +6,7 @@ date: 2024-08-26
 locations:
   - "[[Camarath]]"
 alias: Another Founding - Another Ending
-displayLink: "[[Arc 1 Session 2|1.2: Another Founding - Another Ending]]"
+displayLink: "[[Mark of Kairos/Session Notes/Arc 1 Session 2|1.2: Another Founding - Another Ending]]"
 ---
 
 ![[session.png|banner]]

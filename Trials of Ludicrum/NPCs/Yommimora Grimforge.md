@@ -10,7 +10,7 @@ aliases: ["Mora"]
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgYommimoraGrimforge.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -34,7 +34,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A dwarven lady with braided iron-gray hair twisted through with copper wire, tired face forcing a smile. 
 >^IntroText
 
 ### Description

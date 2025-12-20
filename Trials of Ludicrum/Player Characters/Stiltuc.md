@@ -62,6 +62,7 @@ ___
 ### Description
 
 #### Background
+- library of greater brayum
 - From an area of high population density but poor (birmingham).
 - Trying to study his way out of poverty.
 - Found himself falling into following dark arts instead of traditional means. He is searching for additional tombs and favours from the dark gods, and intends to use them to gain the power he has not been able to previously garner.
@@ -75,7 +76,7 @@ ___
 - [[Characters]] or [[Organisations]]
 
 #### Enemies
-##### [[TBD]]
+##### [[Blockbuster]]
 - A learned man who views Stiltuc as too lower class, older academic who might have hindered his advancement, also an explorer seeker of knowledge, high up at his institute
 
 ### Magic Items / Abilities
